@@ -1,5 +1,5 @@
-C04 (Dudout): test fold 422 decrypts 14245 letters: 0.617 | shuffled mean 0.103 max 0.137
-final: test fold 422 decrypts 14245 letters: 0.642 | shuffled mean 0.119 max 0.144
-C04 on all fresh decrypts outside 19/102 (825): 0.655
-cipher lines 2209 numbers 26070 | lines read by both readers 1742 | mean number-sequence agreement 0.892
-numbers with a key value: 0.974 | key entries 238 | decrypt lines total 1382
+After image check of 2,019 disputed numbers (448 changed to the second reading).
+C04 (Dudout): test half 422 decrypts 14245 letters: 0.621 | shuffled mean 0.103 max 0.138
+final: test half 422 decrypts 14245 letters: 0.647 | shuffled mean 0.119 max 0.146
+C04 on all 825 fresh decrypts outside 19/102: 0.660 | shuffled mean 0.105 max 0.136
+Before the image check: C04 test 0.617, final test 0.642, C04 fresh 0.655

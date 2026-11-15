@@ -38,10 +38,10 @@ The pages were split before any key was changed:
 
 | Key | Test half | Shuffled key |
 |---|---|---|
-| TABLE-C04 as published | 61.7% | 10.3% (best of 200: 13.7%) |
-| Final key (this repository) | **64.2%** | 11.9% (best of 200: 14.4%) |
+| TABLE-C04 as published | 62.1% | 10.3% (best of 200: 13.8%) |
+| Final key (this repository) | **64.7%** | 11.9% (best of 200: 14.6%) |
 
-On every decryption line outside 19/102 that the table's authors never used (825 lines), TABLE-C04 alone scores 65.5%.
+On every decryption line outside 19/102 that the table's authors never used (825 lines), TABLE-C04 alone scores 66.0%.
 
 So the key is real. It works across all four volumes, 1682-1690, and it reproduces about two thirds of the clerk's letters, while a shuffled key reproduces about one tenth. The remaining third is mostly noise around the key, not errors in it:
 
@@ -56,6 +56,10 @@ On volume 19/102 the decryptions are in very pale ink, and our readers often mis
 - **Votes from the clerk.** Where one number sits alone in a stretch the decoding gets wrong, the clerk's letters opposite it count as a vote. Only 3 entries changed, because the table was already about as good as the decryptions can confirm.
 - **Filling the gaps.** About 100 numbers had no entry. For the 44 used five or more times, Gemini 4 Argon saw up to ten places each one occurs, with the decoding around it and the nearby decryption, and proposed a value. A proposal was kept only if it raised the score on the fit half. 25 were kept: for example 295 = "E. K. Mt." (Euer Königliche Majestät, the address to the king), 201 = Brandenburg, 253 = alliance, 266 = Bischof, 312 = Hertzog, 336 = Schwed(en). On the untouched test half, these fills raised the score from 62.0% to 64.2%. The others stay unknown.
 - **A language model alone does not work.** We also tried improving the key by choosing, for each number, the value under which the decoded text reads most like 17th-century German. The model was built from 1,114 German texts of 1600-1699 in the Deutsches Textarchiv. It made the key worse on the test, 64.1% against 65.5%, and raised the shuffled score from 10% to 17%. A language model prefers common letters, not correct ones. The code is kept (`analysis/refine.py`) as a documented negative result.
+
+## Step 4b. Re-checking disputed numbers against the image
+
+The two readers disagreed on 2,019 single numbers. Gemini 4 Argon looked at each half-page again with every disputed number listed beside its neighbours, and picked one reading. It kept the first reader 1,571 times and switched to the second 448 times. The key was not used, so the test stays fair. The held-out score rose half a point, from 64.2% to 64.7%. Letting the key decide instead gave the same result to within 0.05 points. Disputed numbers are only 8% of the total, so they were never the main gap. The rest is the looseness of the clerk's decryptions, numbers both readers misread the same way, and the 2.6% of numbers with no value.
 
 ## Step 5. The reading
 

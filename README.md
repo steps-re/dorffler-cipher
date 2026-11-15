@@ -2,7 +2,7 @@
 
 A transcription, a tested key and a full decode of the coded passages in the despatches of Simon Dörffler, Swedish resident at the Polish court, to King Charles XI. Source: Riksarkivet SE/RA/2115/I/19/100, 101, 102 and 103 (Polonica), Public Domain Mark.
 
-**Where it stands:** the key works on all four volumes. On held-out pages it reproduces 64% of the letters that a clerk in the 1680s wrote over the cipher. A shuffled key reproduces 12%. 97.4% of the 26,070 cipher numbers have a key value. Every coded page has a mechanical decode, and 243 of 250 half-pages also have a readable version. `METHOD.md` explains how, in plain terms.
+**Where it stands:** the key works on all four volumes. On held-out pages it reproduces 65% of the letters that a clerk in the 1680s wrote over the cipher. A shuffled key reproduces 12%. 97.4% of the 26,070 cipher numbers have a key value. Every coded page has a mechanical decode, and 243 of 250 half-pages also have a readable version. `METHOD.md` explains how, in plain terms.
 
 The key is built on **TABLE-C04 by Brice Dudout** (Europe chiffrée), published in Dan Bourdeau's [cyphersolver](https://github.com/dbourdeau/cyphersolver/tree/main/research/dudout_dorffler1773) (CC BY 4.0). Dudout worked out the layout of the code. This repository adds:
 - a transcription of all four volumes
@@ -21,7 +21,7 @@ The key is built on **TABLE-C04 by Brice Dudout** (Europe chiffrée), published 
 | `results/key_changes.tsv` | Every change from TABLE-C04 and the evidence for it (clerk's votes, or a model proposal kept because it raised the fit-half score) |
 | `results/evaluation.txt` | The test figures |
 | `data/reread.jsonl` | Raw readings: two models per half-page |
-| `data/p5_lines.jsonl` | Merged lines, with the second reader's alternative where the two disagree on a number |
+| `data/p5_lines.jsonl` | Merged lines after the image check (`settled` says how each disputed number was decided). The pre-check version is `p5_lines.before_adjudication.jsonl` |
 | `data/key_c04.json`, `data/bourdeau/` | TABLE-C04 and its notes, unchanged, CC BY 4.0, B. Dudout |
 | `analysis/` | The code (Python 3, standard library plus Pillow; model calls via the `llm` CLI) |
 
@@ -29,10 +29,10 @@ The key is built on **TABLE-C04 by Brice Dudout** (Europe chiffrée), published 
 
 | Key | Held-out half (422 decryption lines, 14,245 letters) | Shuffled key |
 |---|---|---|
-| TABLE-C04 as published | 61.7% | 10.3% (best of 200: 13.7%) |
-| `results/key_final.json` | **64.2%** | 11.9% (best of 200: 14.4%) |
+| TABLE-C04 as published | 62.1% | 10.3% (best of 200: 13.8%) |
+| `results/key_final.json` | **64.7%** | 11.9% (best of 200: 14.6%) |
 
-On all 825 decryption lines outside 19/102 that Dudout and Bourdeau never used, TABLE-C04 scores 65.5%.
+On all 825 decryption lines outside 19/102 that Dudout and Bourdeau never used, TABLE-C04 scores 66.0%.
 
 Scores are a floor. The clerk's decryptions are paraphrases in places, some are attached to the wrong line, and single digits are misread. So even a perfect key would score well under 100%.
 
@@ -47,6 +47,8 @@ python3 analysis/p5.py merge
 python3 analysis/p5.py score data/key_c04.json
 python3 analysis/p5.py vote          # clerk votes, fit/test split
 python3 analysis/p5.py fill          # model-proposed values for missing numbers, kept only if the fit half improves
+python3 analysis/adjudicate.py look  # re-check each number the two readers disagree on against the image
+python3 analysis/adjudicate.py apply
 python3 analysis/p5.py decode data/key_final.json
 python3 analysis/render.py           # readable version
 ```

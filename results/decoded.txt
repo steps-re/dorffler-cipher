@@ -248,8 +248,8 @@ lein unterhalte, sondern auch ————————
 
 == dorffler-19-100/p0277L
    G: beßer und naher sich mit Moscow setze m
-[ha] [q] [te] [n] [so] [n] [ce] [r] [n] [auch] [be] ?
-[se] [r] [und] [na] [he] [r] [sich] [mit] [moscow] [se] [t] [a]
+[ha] [l] [te] [n] [so] [n] [ce] [r] [n] [auch] [be] ?
+[se] [r] [und] [na] [he] [r] [sich] [mit] [moscow] [se] [t] [na]
 [wo] [l] [e]  Undt waß daß selbst weiber folgt. E
    G: weder der König in
 leicht zu ermeßen daß  [#173] [der] [der] [KOENIG] [i] [h]
@@ -258,7 +258,7 @@ leicht zu ermeßen daß  [#173] [der] [der] [KOENIG] [i] [h]
    G: Zeit im sinn habe, noch auch der Kaiser ihm da
 [e] [t] [zi] [ge] [r] [ze] [i] [t] [i] [m] [si] [n] [n]
    G: nothwendig.
-[noch] [auch] [der] [KAYSER] [i] [h] [m] [da] [zu] [ra] [t] [he]
+[mit] [auch] [der] [KAYSER] [i] [h] [m] [da] [zu] [ra] [t] [he]
 [we] [m] [de]  Von dieser materie kan jetzundt
 mehrers nicht melden, weil die Zeit kurtz, undt
 E. Cht. D. sowol nach E. Mtt, alß auch nach deme
@@ -353,7 +353,7 @@ dem Reichstage beÿ zu wohnen Vorhabens seÿ.  [we] [l] [c] [e] [e]
    G: anzeigung sehr geferlicher intriguen so s. Frantzreich wider E. K.
 [s] [ein] [n] [d] [n] [ze] [i] [g] [ung] [ich] [h] [r] [ge] [fa] [n] [r] [lu] [c]
    G: Mtt. hier in Pohlen vornehmen mochte
-[h] [g] [r] [i] [s] [t] [ri] [ka] [g] [n] [ist] [so] [FRANKREICH] [wi] [e] [der] [ekmt]
+[h] [g] [r] [i] [q] [t] [ri] [ka] [g] [n] [ist] [so] [FRANKREICH] [wi] [e] [der] [ekmt]
 [hi] [e] [r] [i] [n] [POHLEN] [vor] [ne] [h] [me] [n] [du] [r] [f] [te] [n] [#1]
 Weilen nun E. K. Mtt. hohes interesse erfordert beÿ dem be-
 vorstehend Reichstage zu seÿn, und daselbst fleißig zu vigi-
@@ -388,7 +388,7 @@ Restamend mir völlig nach Hamburg oder Danzig über-
 macht werde. Mit dem Kaysl. Ministro am Polnischen
 Hofe unterhalte ich vertrauliche Correspondenz so viel
    G: allein derselbe scheinet
-immer thue:  [a] [h] [ein] [der] [se] [l] [be] [s] [c] [h] [ein] [i]
+immer thue:  [a] [h] [ein] [der] [se] [l] [be] [s] [c] [h] [ein] [#4]
    G: wieder neue diffidentz Muth-
 [wi] [der] [ne] [u] [e] [di] [f] [i] [bey] [z] [mu] [c] [ke] [n]  die so
    G: zu kriegen und in dem Er-
@@ -399,26 +399,26 @@ bey Ihm nicht selzam seyn,  [zu] [k] [ri] [e] [ge] [e] [n] [t]
    G: Franckreich E. K: M:t daß Hertzogthum Preussen unter der
 [n] [o] [b] [he] [t] [te] [der] [KOENIG] [von] [FRANKREICH] [ekmt] [dass] [hertzog] [t] [hu]
    G: umb zu
-[#235] [g] [ru] [c] [ke] [n] [ein] [ge] [ra] [u] [me] [t] [und] [zu]  dero Propo-
+[#235] [b] [ru] [c] [ke] [n] [ein] [ge] [ra] [u] [me] [t] [und] [zu]  dero Propo-
    G: sition gestellet einen Stadthalter daselbst nach belieben zu hal-
-[po] [re] [tion] [ge] [s] [te] [l] [e] [t] [ein] [e] [n] [s] [ta] [#349] [l] [te] [s]
+[po] [re] [tion] [ge] [s] [te] [l] [e] [t] [brandenburg] [e] [n] [s] [ta] [#349] [l] [te] [s]
 [l] [b] [s] [t] [nach] [be] [li] [n] [be] [n] [zu] [se] [t] [ze] [n]  Welches
    G: E. K: M:t leichtlich von allen guten intenti
 meinung nach,  [ekmt] [le] [#297] [c] [h] [t] [li] [e] [h] [von] [a] [l]
    G: divertiren und zum wenigsten zur neutralität bewegen könte
-[gu] [t] [te] [n] [i] [n] [te] [n] [ti] [o] [ne] [n] [di] [u] [e] [fe] [me]
+[gu] [t] [te] [n] [i] [n] [te] [n] [ti] [o] [ne] [n] [di] [u] [e] [fe] [c]
 [n] [und] [#227] [te] [ni] [g] [s] [te] [n] [#228] [ne] [u] [t] [ra] [li] [te] [t]
    G: daß die rede gehe es
 [ge] [n] [sel] [was] [te]  Meldet auch dabey:  [dass] [die] [re] [de] [ge]
    G: solte Herr Baron Bielcke gute satisfaction zu Paris ge-
-[be] [sol] [te] [HERR] [ba] [ro] [n] [bi] [e] [l] [c] [ke] [gu] [ke] [te] [sa] [re]
+[be] [sol] [te] [HERR] [ba] [ro] [n] [bi] [e] [l] [c] [ke] [gu] [ke] [te] [sa] [#13]
    G: gno- zu haben bezeuget haben,
-[c] [tion] [zu] [#329] [uber] [ko] [m] [me] [n] [zu] [ha] [be] [n] [be] [ze] [t]
+[c] [tion] [zu] [#329] [uber] [ko] [m] [me] [n] [zu] [ha] [be] [n] [be] [ze] [#3]
 [ho] [ha] [be] [l]  Worauf ich Ihm mit gründlich motiven versichert,
    G: daß solches — von den Frantzösischen intriguen herruhren-
 [dass] [so] [se] [s] [von] [dass] [f] [ra] [n] [zo] [s] [h] [he] [n] [i] [n]
    G: figmenta seyn.
-[ri] [gu] [n] [n] [h] [e] [r] [ru] [h] [re] [n] [de] [gi] [g] [me] [n] [e]
+[ri] [gu] [n] [n] [h] [e] [r] [ru] [h] [re] [n] [de] [gi] [g] [me] [n] [#1]
 [ki] [n]  Schließe, und verbleibe in Tieffster Devo-
 Ewer Königl. Maytt.
 Crackau d.  [#12]  Octobr
@@ -429,7 +429,7 @@ Knecht
 P. Scultetus.
 
 == dorffler-19-100/p0280R
-Octob.  [#1682]  St. d  [#6]  Novemb.  [#1682]
+Octob.  [#1682]  St. d  [l]  Novemb.  [#1682]
 Durchläuchtigster, Großmächtigster König,
 Allergnädigster Herr!
 Nach dehme ich Schreiben von hoher hand, welcher billich Vertraung thüe,
@@ -491,9 +491,9 @@ Königs Michaelis Zeiten, Pohlen ehestes würden räumen müßen.
 Welches leicht geschehen dürffte, wofern dieses war ist, was vor
 dreyen Tagen ein vornehmer Confident des Königs in Fr. Sagt wegen
    G: Wie nemlich der König nicht allein
-Bruns.  [wi] [ne] [n] [lich] [der] [KOENIG] [nicht] [a] [f] [ein] [fur] [s] [ein] [pa] [r] [c]
+Bruns.  [wi] [ne] [n] [lich] [der] [KOENIG] [nicht] [a] [f] [ein] [fur] [s] [ein] [pa] [r] [#1]
    G: für sein particulier die Frantzösische faction abandonnirt habe, sondern
-[li] [e] [r] [die] [f] [ra] [n] [zo] [s] [e] [he] [fa] [c] [tion] [a] [ba] [n] [do] [pi] [r] [t] [cu]
+[li] [e] [r] [die] [f] [ra] [n] [zo] [s] [e] [he] [fa] [c] [tion] [a] [ba] [n] [do] [pi] [r] [t] [t]
    G: auch allen denen, die von Ihm chargen vnd. beneficia erlangen wollen
 [sich] [auch] [a] [f] [e] [r] [die] [e] [n] [die] [von] [i] [h] [lo] [c] [ha] [r] [ge] [n] [t] [den]
    G: selbige zu quitiren auferlege
@@ -502,7 +502,7 @@ Bruns.  [wi] [ne] [n] [lich] [der] [KOENIG] [nicht] [a] [f] [ein] [fur] [s] [ein
    G: nolens volens sich in
 an diesem Hof so weit gebracht, daß der König  [no] [le] [n] [s] [u] [o] [no] [x]
    G: den Türcken krieg engagiren müße,
-[sich] [wir] [der] [den] [lu] [he] [c] [ke] [n] [wir] [d] [e] [n] [ga] [gi] [re] [n] [la]
+[sich] [wir] [der] [den] [lu] [he] [c] [ke] [n] [wir] [d] [e] [n] [ga] [gi] [re] [n] [#1]
    G: Kunicki ein Edelman
 [n]  Wozu der anfang albereit gemacht ist, nachdem der  [lich] [nu] [c] [lo] [t]
    G: von extraction
@@ -522,13 +522,13 @@ Vndt  [ba] [u] [c] [hu] [re] [t] [und] [zu] [sich] [UNTER] [se] [i] [ne] [bo] [t
    G: Zathmar in Ober Ungarn von seinen Güttern zu proviantiren, daß der
 [n] [ung] [za] [t] [h] [lich] [r] [i] [n] [o] [be] [r] [UNGAR] [von] [s] [ein] [e] [n] [g] [f]
    G: Hendreich,
-[r] [n] [zu] [f] [ro] [u] [i] [a] [n] [ti] [re] [n] [der] [CRON] [fe] [n] [d] [ri] [c] [welche]
+[r] [n] [zu] [f] [ro] [u] [i] [a] [n] [ti] [re] [n] [der] [CRON] [fe] [n] [d] [ri] [c] [h]
    G: Mr. Bethune, deßen ungeacht beyden
 käme  [#182] [bo] [t] [di] [n] [ne] [ge] [s] [c] [h] [wo] [r] [ne] [r] [b] [r] [u] [des] [ne]
    G: Von ander Theil, nacher Wal
 [s] [ein] [a] [n] [der] [he] [r] [t] [z]  gewiß, welcher auch wegen der  [li] [r] [#239]
    G: zum Secours der Rebellen geschickten Völcker auf den Reichstage zu War-
-[als] [m] [se] [t] [u] [fe] [s] [der] [re] [be] [l] [e] [n] [ge] [s] [c] [hi] [c] [k] [te]
+[als] [m] [se] [t] [u] [n] [s] [der] [re] [be] [l] [e] [n] [ge] [s] [c] [hi] [c] [k] [te]
    G: schaw große turbation
 [t] [o] [l] [c] [he] [r] [der] [de] [n] [re] [i] [c] [h] [s] [ta] [ge] [zu] [der] [he] [s] [c] [ha] [r]
    G: vnd Widerwärtigkeit
@@ -542,7 +542,7 @@ käme  [#182] [bo] [t] [di] [n] [ne] [ge] [s] [c] [h] [wo] [r] [ne] [r] [b] [r] 
    G: serlichen armee gehen wolle, So daß von einer conjunction wi der
 [nach] [ze] [zu] [r] [nicht] [li] [c] [he] [n] [wi] [ge] [he] [n] [wo] [o] [le] [dass] [als] [o]
    G: Moscow bey so gestalten sachen nicht einmahl zu gedencken ist.
-[von] [ein] [e] [r] [de] [n] [i] [be] [n] [c] [tion] [wi] [auf] [moscow] [bey] [so] [ge] [s] [ta] [l]
+[von] [ein] [e] [r] [co] [n] [i] [be] [n] [c] [tion] [wi] [auf] [moscow] [bey] [so] [ge] [s] [ta] [l]
 [te] [n] [sa] [c] [he] [n] [nicht] [ein] [e] [s] [t] [zu] [ge] [de] [n] [c] [he] [n] [ist]
 Von der Wilda vernehme ich, daß unlängst da selbst ein Dähnischer Mi-
 nister nach Moskaw gehend durch passiret sey. Wie dan auch gar neulich
@@ -614,12 +614,12 @@ ster Chelmski accompagnirt worden. Ex ordine ecclesiastico hat
 der Ordinarius loci sampt dem Bischof von Kamieniec den funera-
 lien beÿgewohnet. Beÿ solcher Gelegenheit bin ich mit einigen
    G: vornehmen patrioten und Landsaßen in dieser Woywodschafft
-[vor] [ne] [he] [li] [n] [mu] [t] [ri] [o] [bey] [n] [und] [me] [t] [d] [pu] [ti] [se] [n]
+[vor] [ne] [h] [le] [n] [mu] [t] [ri] [o] [bey] [n] [und] [la] [n] [d] [pu] [ti] [se] [n]
    G: welche dem Herrn GroßCantzler mit freundschafft undt vertraulicher
-[und] [n] [die] [we] [he] [die] [n] [ist] [ke] [le] [te] [l] [c] [he] [de] [m] [HERR] [n] [g] [ro] [i]
+[i] [n] [die] [se] [r] [wo] [n] [ist] [ke] [le] [we] [l] [c] [he] [de] [m] [HERR] [n] [g] [ro] [s]
    G: familiarität verwandt sein, in compagnie gerathen
-[d] [n] [z] [le] [he] [mit] [c] [re] [u] [n] [d] [t] [e] [ha] [f] [n] [und] [ver] [t] [re] [u]
-[mo] [c] [he] [r] [fa] [mi] [li] [d] [ri] [ta] [t] [ver] [su] [n] [t] [se] [y] [n] [i] [n] :
+[a] [n] [z] [le] [r] [mit] [c] [re] [u] [n] [d] [t] [e] [ha] [f] [n] [und] [ver] [t] [re] [u]
+[lo] [c] [he] [r] [fa] [mi] [li] [a] [ri] [la] [t] [ver] [su] [n] [t] [se] [y] [n] [i] [n] :
    G: wir gerathen zu
 [#249] [ge] [ta] [t] [he] [n] : Wobeÿ ich anlaß genommen  [von] [we] [i] [lich] [m]
    G: sondiren wie der König in Pohlen und die republique
@@ -629,41 +629,41 @@ lien beÿgewohnet. Beÿ solcher Gelegenheit bin ich mit einigen
 
 == dorffler-19-100/p0283L
    G: conjuncturen
-[n] [ne] [t] [und] [o] [b] [den] [ge] [ge] [n] [we] [r] [ti] [ge] [n] [co] [n] [i] [#3?]
+[n] [ne] [t] [und] [o] [b] [den] [ge] [ge] [n] [we] [r] [ti] [ge] [n] [co] [n] [i] [w]
    G: inclination Pollnischer seiten sich finden möchte
 [c] [tu] [re] [n]  einige  [i] [n] [d] [li] [e] [tion] [POHLEN] [i] [s] [c] [he] [r] [se] [e]
    G: vnnd an Moscow vorzuehmen vnd
-[n] [sondern] [fi] [n] [den] [mochte]  etwas  [#233] [der] [moscow] [vor] [zu] [ne] [h] [me] [n]
+[n] [sich] [fi] [n] [den] [mochte]  etwas  [#238] [der] [moscow] [vor] [zu] [ne] [h] [me] [n]
    G: also zuegleich mit J: K: M:t zu agiren.
 [#185] [g] [le] [n] [c] [r] [mit] [solch] [zu] [a] [gi] [re] [n] ) Allein auß
    G: geführten discoursen habe ich so viel abnehmen können, daß anitzo in hoc
-[ge] [fu] [h] [r] [den] [n] [di] [s] [cu] [r] [se] [n] [ha] [ge] [we] [so] [mu] [a] [b] [#11?]
+[ge] [fu] [h] [r] [den] [n] [di] [s] [cu] [r] [se] [n] [ha] [ge] [we] [so] [mu] [a] [b] [pi]
    G: tempore sie sich mit Moscow
-[me] [e] [#184] [ne] [n] [#187] [ma] [i] [t] [zo] [nicht] [de] [te] [m] [po] [re] [se] [e]
+[me] [e] [#184] [ne] [n] [#187] [ma] [i] [t] [zo] [nicht] [de] [te] [m] [po] [re] [se] [z]
    G: feindtseligkheit ein zu laßen
 [mit] [moscow]  in  [fe] [i] [n] [d] [se] [e] [li] [g] [keit] [ein] [zu] [me] [s] [se] [n]  vnd
    G: vielmehr darauff bedacht sein wurden, wie man der
-man wurde  [wider] [me] [h] [r] [di] [r] [die] [ge] [da] [c] [h] [r] [se] [y] [n] [mu] [#3?]
+man wurde  [wider] [me] [h] [r] [di] [r] [die] [ge] [da] [c] [h] [t] [se] [y] [n] [mu] [s]
    G: anwachsenden gefahr von der Turckischen Macht sich opponiren, vnd
 [n] [wi] [ma] [n] [der] [he] [r] [ein] [b] [ri] [c] [he] [n] [den] [ge] [fa] [a] [r] [von] [#7?]
    G: Moscow mit gueter Maniere möchte mit beÿzutretten, vnd conjunctis
-[tu] [r] [c] [he] [u] [c] [he] [n] [ma] [c] [h] [t] [le] [f] [p] [po] [ni] [re] [n] [n]
+[tu] [r] [c] [ki] [u] [c] [he] [n] [ma] [c] [h] [t] [le] [f] [p] [po] [ni] [re] [n] [n]
    G: viribus et animis sich wieder den Erbfeindt der Christenheit zu setzen
-[mit] [gu] [t] [te] [m] [ge] [we] [ge] [n] [mochte] [nicht] [bey] [zu] [t] [re] [x] [te] [n] [#21?]
+[mit] [gu] [t] [te] [m] [ge] [we] [ge] [n] [mochte] [nicht] [bey] [zu] [t] [re] [x] [te] [n] [g]
    G: caniren
-[i] [u] [n] [c] [ti] [s] [u] [i] [ri] [a] [s] [e] [t] [a] [ni] [mi] [s] [sich] [wi]
-[den] [e] [r] [b] [fe] [i] [n] [d] [der] [c] [r] [so] [s] [te] [n] [#175] [zu] [a] [r]
+[i] [u] [n] [c] [ti] [s] [u] [i] [ri] [a] [m] [e] [t] [a] [ni] [mi] [s] [sich] [wir]
+[den] [e] [r] [b] [fe] [i] [n] [d] [der] [c] [h] [so] [s] [te] [n] [#175] [ation] [a] [r]
    G: gedacht wardt daß die Rebellen in Ungarn
 [re] [n]  Wobeÿ auch an  [ge] [fu] [h] [re] [t] [der] [r] [d] [den] [die] [re]
    G: der Republique
    G: vngelegenheit
-[le] [n] [i] [n] [UNGAR] [der] [re] [pu] [b] [li] [q] [u] [e]  große  [u] [n] [ge] [li]
+[le] [n] [i] [n] [UNGAR] [der] [re] [pu] [b] [li] [q] [u] [e]  große  [u] [n] [ge] [le]
    G: jhrer insolentz meister
 [zu] [mit] [ih] [e] [r] [i] [n] [so] [le] [n] [z] [es] [c] [h] [te] [n]  Vrsache vnd
    G: mittel den König wohl überein stehe Kunte
-[wi] [w] [e] [n] [auf] [KOENIG] [nicht] [uber] [#187] [he] [n] [#185]  zu demahl die von
+[wi] [y] [e] [n] [auf] [KOENIG] [nicht] [uber] [#187] [he] [n] [#185]  zu demahl die von
    G: her zwischen den Kaÿser vnd Königen in Pohlen auffgerichete vndt von
-[te] [he] [s] [he] [r] [#200] [den] [ung] [und] [se] [e] [n] [zu] [POHLEN] [des] [ge] [ri] [c]
+[te] [he] [s] [he] [r] [#200] [den] [ung] [und] [se] [e] [n] [zu] [POHLEN] [auf] [ge] [ri] [c]
    G: der jetztregirende Königl. Maÿ:t beschworne compactata expres:
 [we] [nach] [von] [der] [i] [e] [t] [o] [t] [re] [gi] [re] [n] [den] [konig] [li] [c] [he] [n]
    G: forderten den Kaÿser Hülffe zu leisten, vnd diese meutereÿ,
@@ -673,17 +673,17 @@ man wurde  [wider] [me] [h] [r] [di] [r] [die] [ge] [da] [c] [h] [r] [se] [y] [n
    G: consilio zu dämpfen vnd thätet noch mahlß daß in den compactatis
 [se] [e] [n] [wo] [r] [ung] [i] [n] [UNGAR] [#187] [welche] [der] [ga] [n] [t] [ze] [n] [c] [#2?]
    G: außgedrückten paragraphum:
-[s] [te] [n] [#175] [ho] [c] [h] [s] [t] [s] [c] [h] [a] [d] [lich] [co] [m] [mu] [ni] [o]
-[e] [t] [co] [n] [s] [i] [li] [o] [zu] [de] [m] [p] [fe] [n] [und] [solch] [ma] [mit]
-[ha] [l] [t] [des] [i] [n] [den] [co] [m] [pa] [c] [ta] [ti] [s] [den] [ge] [d] [ru] [c] [#2?]
+[z] [te] [n] [#175] [ho] [c] [h] [ti] [t] [s] [c] [h] [a] [d] [lich] [co] [m] [mu] [ni] [o]
+[e] [t] [co] [n] [s] [i] [li] [o] [zu] [de] [m] [p] [fe] [n] [und] [solch] [ma] [nach]
+[ha] [l] [t] [des] [i] [n] [den] [co] [m] [pa] [c] [ta] [ti] [s] [aus] [ge] [d] [ru] [c] [n]
    G: trum ad alterius regna, princi
-[pa] [ra] [g] [ra] [p] [hi] : Præterea nullus nos  [t] [ru] [m] [a] [si] [a] [u] [#13?]
+[pa] [ra] [g] [ra] [p] [hi] : Præterea nullus nos  [t] [ru] [m] [d] [#12] [a] [u] [#13]
    G: patus et dominia aspirare aut anhelare
-[r] [u] [re] [g] [na] [p] [ri] [n] [ci] [mu] [tu] [s] [e] [t] [do] [mi] [ni] [a] [a] [#3?]
+[r] [u] [re] [g] [na] [p] [ri] [n] [ci] [mu] [tu] [s] [e] [t] [do] [mi] [ni] [a] [a] [#5]
    G: ius nostrum
 [ra] [re] [a] [u] [t] [a] [n] [he] [lo] [re]  debet, nec alter  [i] [u] [s] [no]
    G: principatus, dominia et subditos suscipere
-[ru] [m] [re] [g] [na] [p] [ri] [n] [ci] [pa] [tu] [s] [do] [mi] [ni] [a] [e] [t] [#13?]
+[ru] [m] [re] [g] [na] [p] [ri] [n] [ci] [pa] [tu] [s] [do] [mi] [ni] [a] [e] [t] [wa]
    G: tegere iuvare
 [to] [s] [te] [s] [d] [pe] [re]  tenere pro [te] [ge] [re] [do] [u] [u] [a] [#4?]
    G: neqve
@@ -726,25 +726,25 @@ seinen dahie abgefertigten Envoyé in instructione mitgegeben habe,
    G: zwischen Pohlen und Moscau eine
 [he] [fe]  fleiß anzuwenden, damit  [alliancezwischen] [ein] [und] [moscow] [ein] [e] [o] [o] [und]
    G: off: und defensive alliance wieder die Ottomanische Pforte geschloßen
-[#286] [si] [s] [e] [alliance] [wi] [der] [die] [o] [t] [to] [lich] [n] [s] [e] [n] [lich] [c] [h] [t]
+[#286] [si] [u] [e] [alliance] [wi] [der] [die] [o] [t] [to] [lich] [n] [s] [e] [n] [lich] [c] [h] [t]
    G: werden möchte,
-[ge] [s] [c] [h] [lo] [s] [se] [n] [wer] [#187] [mochte]  Welches ewer meÿnung nach,
+[ge] [s] [e] [h] [lo] [s] [se] [n] [wer] [den] [mochte]  Welches ewer meÿnung nach,
    G: schon beÿ dem letzteren Reichstag hette geschehen können, wann Pohlen
-[te] [e] [ho] [n] [te] [i] [m] [le] [z] [te] [h] [n] [ne] [i] [e] [h] [s] [ta] [fe]
+[l] [e] [ho] [n] [te] [i] [m] [le] [z] [te] [re] [n] [ne] [i] [e] [h] [s] [ta] [fe]
    G: noch
 [he] [n] [te] [ge] [s] [e] [he] [he] [n] [ko] [n] [ne] [n] [wa] [n] [n] [#328]  solch-
    G: nur mehrern ernst und eüfer darzu angewendet hette:
-[wi] [a] [n] [i] [n] [zo] [da] [r] [ho] [a] [n] [ge] [wa] [n] [t] [he] [n]
+[wi] [a] [n] [i] [n] [zo] [da] [r] [zu] [a] [n] [ge] [wa] [n] [t] [he] [n]
    G: daß der Moscowitische Ambassadeur, der
-[#187]  Kierbeÿ meldete Er  [dass] [die] [#320] [i] [ta] [s] [c] [he] [ambassade] [hu] [r]
+[den]  Kierbeÿ meldete Er  [dass] [die] [#320] [i] [ta] [s] [c] [he] [ambassade] [hu] [r]
    G: zu Grodno gewesen
-[s] [go] [zu] [g] [se] [d] [no] [ge] [se] [se] [n] , auch wiederum bauf dem
+[s] [go] [zu] [g] [se] [d] [no] [ge] [se] [we] [n] , auch wiederum bauf dem
    G: Zu Warschaw ankommen werde.
-beworstehendten Reichßtag  [#175] [wa] [r] [i] [e] [ha] [p] [lu] [wa] [r] [te] [t]
+beworstehendten Reichßtag  [zu] [wa] [r] [i] [e] [ha] [k] [lu] [wa] [r] [te] [t]
    G: der Konig habe dem Päbstlichen
 [#229] [#187]  Noch ein andere sagt mir,  [der] [KOENIG] [ha] [ge] [m] [m] [ba] [p] [s] [t]
    G: Stuhl dergleichen eigene hand parole gegeben, daß Er den
-[li] [c] [he] [n] [u] [n] [hu] [n] [le] [ein] [n] [n] [o] [g] [ne] [ha] [n] [k] [pa] [#184] [le]
+[li] [c] [he] [n] [u] [t] [hu] [n] [le] [ein] [n] [h] [o] [g] [ne] [ha] [n] [k] [pa] [#184] [le]
    G: kaÿser assistiren wolle,
 [ge] [ge] [be] [n] [dass] [lu] [de] [m] [KAYSER] [a] [s] [si] [s] [ti] [se] [n] [wo] [l] [n]
    G: könne nicht zulaßen daß Er mit ehren und re-
@@ -824,7 +824,7 @@ nur dahin gehe  [mit] [POHLEN] [ein] [e] [#307] [e] [und] [mu] [tu] [e] [r]
    G: alliance zu schlißen nicht aber daß selbige specialiter wieder
 [#6] [#286] [re] [z] [alliance] [zu] [s] [c] [h] [lu] [s] [se] [n] [#190]
    G: Schweden und Brandenburg eingerichtet seye.
-[p] [dass] [sel] [i] [ge] [hi] [po] [ci] [a] [keit] [te] [r] [wi]
+[#6] [dass] [sel] [i] [ge] [hi] [po] [ci] [a] [keit] [te] [r] [wi]
 [w] [moscow] [und] [BRANDENBURG] [ein] [zu] [ri] [c] [h] [te] [n] [se] [x]
    G: in der
 Wie nun diese Cautel ich mir zur richtschnur  [i] [n]
@@ -832,7 +832,7 @@ Wie nun diese Cautel ich mir zur richtschnur  [i] [n]
 [c] [von] [#292] [mi] [r] [a] [r] [me] [des] [von] [na] [di] [g] [s]
    G: tion dienen laßen, auch bißher so diese affaires zu tractiren
 [ra] [co] [m] [mi] [t] [ti] [r] [te] [n] [ne] [go] [ti] [a] [tion]
-[re] [ge] [se] [t] [z] [t] [nach] [welche] [r] [ich] [die] [se] [a] [f] [a]
+[n] [ge] [se] [t] [z] [t] [nach] [welche] [r] [ich] [die] [se] [a] [f] [a]
 [n] [re] [zu] [t] [ra] [c] [ti] [re] [n]  höchst angelegen seyn
 laße; alß wird verhoffentlich auß meinen bereits dorthin
 allerunterthänigst abgestatteten rapporten, fürnemlich
@@ -873,11 +873,11 @@ so hat E. K. Mtt allergndister geheiß zu gehorsamste
 [um] [KAYSER] [lich] [e] [n] [mi] [ni] [s] [t] [ro] [a] [m] [k]
    G: vertraulich communiciren
 [he] [n] [ho] [fe] [uber] [die] [se] [m] [pu] [n] [c] [t] [pa]
-[ra] [u] [lich] [#271] [i] [re] [n]  und mich weise, wie
+[ra] [u] [lich] [von] [i] [re] [n]  und mich weise, wie
    G: damit der König in Pohlen
 en hieving gebrauchen  [da] [mit] [der] [KOENIG] [i] [mich]
    G: werde, weilen von E. Kaÿl: Mtt: eine Ambassade
-[wo] [ge] [n] [welche] [den] [um] [KAYSER] [und] [ekmt] [dreissig?] [e]  cum
+[wo] [ge] [n] [welche] [den] [#194] [i] [n] [ekmt] [dreissig?] [e]  cum
    G: et dignitate obzuschicken
 decentia  [e] [t] [di] [g] [ni] [ta] [te] [a] [b] [wu]
 [ti] [ge] [n]  Stehe auch fast nicht zweiflen, so ferne
@@ -890,13 +890,13 @@ teutschlich würde können bewürket werden, wovon
 
 == dorffler-19-100/p0295R
 glaubet daß der König in Pohlen
-[s] [g] [lich] [g] [la] [u] [be] [ho] [dass] [der] [KOENIG] [i] [n] [#931]
+[s] [g] [lich] [g] [la] [u] [be] [t] [dass] [der] [KOENIG] [i] [n] [POHLEN]
    G: Erren Seite er heimlich halte
 mehr saine  [he] [r] [re] [n] [se] [i] [te] [auf] [ri] [c] [n]
    G: der resident will Erren
 [#3] [k] [ha] [l] [te] hatt von  [auf] [co] [n] [fi] [de] [n] [z] [mit]
    G: zimligh abgeneigt seye
-[#4] [du] [n] [x] [z] [lich] [a] [b] [ge] [la] [s] [se] [n] [ha] [be]
+[#1] [du] [n] [x] [z] [lich] [a] [b] [ge] [la] [s] [se] [n] [ha] [be]
 solches mir aber die Warheit zu bekennen, noch etwas schwer
    G: der frantzösischen
 glauben vorkombt, in betrachtung, daß  [der] [FRANTZOSI] [c] [ha]
@@ -916,9 +916,9 @@ glauben vorkombt, in betrachtung, daß  [der] [FRANTZOSI] [c] [ha]
 [li] [a] [b] [ge] [me] [s] [ne] [di] [fi] [e] [h] [re] [i] [be] [n]
    G: etwas nachdenckens
 [r] [d] [mi] [r] [die] [se] [s] [ta] [ge] [#271] [i] [re] [t]
-[i] [n] [co] [pi] [a] [hi] [e] [r] [bey] [ge] [he] [ke] [auch]
-[e] [b] [t] [mi] [r] [die] [se] [s] [noch] [e] [ho] [was] [nach]
-[n] [c] [k] [e] [n] [hi]  Waß mir mit der vorigen Post
+[i] [n] [co] [pi] [a] [hi] [e] [r] [bey] [ge] [he] [x] [auch]
+[e] [b] [t] [mi] [r] [die] [se] [s] [noch] [e] [t] [was] [nach]
+[n] [c] [k] [e] [n] [s]  Waß mir mit der vorigen Post
 Warschau geschriben worden, wie nemlich der Königin in
 den Schazeister Monsr du Mont daselbst von Pariß
 [n] tagen angelangt, und noch desselbigen tages mit den
@@ -976,7 +976,7 @@ Waß der  [a] [l] [hi] [e] [si] [ge] [#310] [lich] [e] [mi] [ni] ,
    G: chen Ich E:K:M: allergnädigstem befehl zu
 [fo] [s] [e] [r] [mit] [we] [l] [c] [he] [n] [ich] [ekmt] [a] [f] [e] [r]
    G: folge
-[b] [ne] [di] [g] [s] [te] [m] [be] [fe] [h] [l] [zi] [fo] [l] [ge]
+[#1] [ne] [di] [g] [s] [te] [m] [be] [fe] [h] [l] [zu] [fo] [l] [ge]
    G: gemeine Interesse an:
 in behuef affairen so das  [ge] [me] [di] [re] [o] [n] [te]
    G: langen
@@ -987,11 +987,11 @@ respondenz halbe, unlängst  [a] [n] [mich] [#182] [s] [c] [h]
 [ge]  Novembr. abgestattete Relaon allergehorsamst
 hinterbracht: Woraus Sie nun biß zu ersehen geruht,
    G: daß König in Pohlen gute intention mit E:K:M:
-[des] [KOENIG] [fi] [i] [n] [POHLEN] [gu] [t] [te] [i] [n] [te] [e] [tion]
+[des] [KOENIG] [fi] [i] [n] [POHLEN] [gu] [t] [te] [i] [n] [te] [n] [tion]
    G: eine nähere Verbindnuß einzugehen
 [mit] [ekmt] [ein] [e] [ra] [he] [re] [ver] [n] [n] [d] [nu] [s] [ein]
    G: Herr Zierowski
-[zu] [be] [he] [n]  theils es Herr  [HERR] [zi] [e] [ro] [p] [s] [ki]
+[zu] [be] [he] [n]  theils es Herr  [HERR] [zi] [e] [ro] [w] [s] [ki]
    G: Schreiben
 in seinen andern  [s] [c] [h] [re] [i] [be] [n]  circa modum tractandi sich
    G: ausgelassen
@@ -1001,15 +1001,15 @@ in seinen andern  [s] [c] [h] [re] [i] [be] [n]  circa modum tractandi sich
    G: Alliance auffs geheimste
 [#5] [c] [he] [alliance] [lich] [s] [ge] [he] [i] [m] [s] [te] [e] [t]  et citra strepitum legationis
    G: gehandelt werden
-[ci] [t] [re] [si] [tu] [k] [le] [ga] [tion] [i] [s]  möchte könne,
-[be] [ha] [n] [co] [l] [t] [we] [r] [den]  Ich habe doch mit diesen
+[#3] [t] [re] [si] [tu] [k] [le] [ga] [tion] [i] [s]  möchte könne,
+[#7] [ha] [n] [co] [l] [t] [we] [r] [den]  Ich habe doch mit diesen
 sentimens bißhero zurückgehalten, auß Beysorge es
 möchte mir solches einige invidiam erwecken, und da-
    G: auß denen [?] vor:
 in gedeutet werden, alß ob ich  [aus] [ce] [h] [ne] [n] [mi] [r]
    G: gehabten schranken meiner activität mich bey E:
-[ne] [ge] [se] [fo] [z] [te] [n] [s] [c] [h] [ra] [n] [c] [ke] [n] [#187]
-[i] [ne] [r] [a] [c] [ti] [u] [i] [ta] [e] [t] [mich] [be] [fe] [be] [n]
+[#12] [ge] [se] [t] [z] [te] [n] [s] [c] [h] [ra] [n] [c] [ke] [n] [#187]
+[#3] [ne] [r] [a] [c] [ti] [u] [i] [ta] [e] [t] [mich] [be] [ge] [be] [n]
 
 == dorffler-19-100/p0302L
    G: undt gern in eine Kappe, die meinen schultern
@@ -1022,7 +1022,7 @@ wolte; welches  [der] [a] [r] [de] [mi] [o] [nu] [m] [fa]
    G: Herr Zierowski schon vor de
 aber besagter  [HERR] [zi] [e] [ro] [w] [s] [ki] [s] [lu]
    G: muntlich
-[vor] [die] [ro] [m] [zu]  Warschau solches  [mu] [n] [ro]
+[vor] [die] [se] [m] [zu]  Warschau solches  [mu] [n] [ro]
    G: mir gemeldet
 [ge] [ge] [n] [mi] [r] [ge] [re] [de] [t]  undt mich abreise
 in einen vom  [k]  Nov. auß Lemberg an mich ab
@@ -1045,7 +1045,7 @@ halte also, folget: Letztere brieff von Ware
    G: Herr Bernig a
 schau haben mitgebracht, daß  [HERR] [be] [r] [n] [gi] [tausend?]
    G: selbst zukommen undt verlautet habe, daß
-[da] [sel] [s] [t] [a] [n] [ko] [m] [mi] [n] [nu] [ver] [la] [w] [re]
+[da] [sel] [s] [t] [a] [n] [ko] [m] [me] [n] [nu] [ver] [la] [w] [re]
    G: ein Ambassadeur von I. K. Mt. in
 [ha] [be] [dass]  Ihm  [ein] [ambassade] [u] [r] [von] [ekmt] [#445] [schwed] [ha] [des]
 der bereits gestern pro  [g]  Jan. resolvirten Reichstag
@@ -1054,7 +1054,7 @@ der bereits gestern pro  [g]  Jan. resolvirten Reichstag
    G: folgen würde, so mir gar nicht anständig gewä-
 bey  [ge] [n] [ge] [n] [wu] [r] [de] [so] [mi] [s] [ga] [r] [nicht]
    G: rē sachen zu hören
-[a] [n] [s] [ta] [n] [di] [g] [ge] [we] [se] [e] [zu] [ke] [re] [n]
+[a] [n] [s] [ta] [n] [di] [g] [ge] [we] [se] [n] [zu] [ke] [re] [n]
    G: es würde bey dem vorī-
 in meīnūng bißheroūg  [es] [wu] [r] [de] [bey] [de] [h]
    G: bleiben eine Vollmacht
@@ -1062,13 +1062,13 @@ in meīnūng bißheroūg  [es] [wu] [r] [de] [bey] [de] [h]
    G: ūnd instruction pro foedere zūr hand habe, wie
 [es] [c] [h] [t] [und] [nu] [c] [tion] [p] [so] [f] [o] [e] [de] [se] -
    G: nebengst aber ein Ambassadeur geschickt werden sol-
-[zu] [r] [ha] [e] [d] [ha] [be] [n] [k] [ein] [es] [we] [ge] [s] [wah]
+[zu] [r] [ha] [n] [d] [ha] [be] [n] [k] [ein] [es] [we] [ge] [s] [wah]
    G: le
 [ein] [ambassade] [u] [r] [ge] [s] [c] [hi] [c] [k] [t] [wer] [den] [#306] [e]
    G: den Frantzosen
 vndt zwar auß vrsache damīt man  [den] [FRANTZOSI] [e] [n]
    G: Brandenburg allzū große ombrage gebe, undt die
-[f] [brandenburg] nicht  [a] [l] [zu] [g] [ro] [s] [se] [o] [m] [b] [ra] [ge]
+[cu] [brandenburg] nicht  [a] [l] [zu] [g] [ro] [s] [se] [o] [m] [b] [ra] [ge]
    G: zū wider gegen negotiation nicht zū sehr allarmire
 [ge] [be] [und] [sa] [e] [zu] [ein] [lu] [ge] [ge] [n] [ne] [go] [ti] [ih]
 [nicht] [zu] [se] [h] [r] [a] [l] [la] [r] [mi] [se]  Sciendum
@@ -1084,30 +1084,30 @@ enim  [den] [UNTER] [i] [h] [ne] [n] [ke] [i] [ne] [n] [to] [s] [se]
 [ne] [m] [a] [l] [lu] [g] [he] [di] [g] [s] [te] [n] [HERR] [n] [#330] [n]
 [und] [POHLEN] [ko] [m] [me] [n] [mochte] ) dahero mūß man, wie
    G: dieü Hūner, Pohlen saget, nicht mit prüglen ūnter die
-[die] [HERR] [n] [POHLEN] [ra] [ge] [n] [nicht] [mit] [p] [ri] [ge] [l] [n]
+[die] [HERR] [n] [POHLEN] [sa] [ge] [n] [nicht] [nach] [p] [ri] [ge] [l] [n]
    G: Vögell werffen, sie seind
 [UNTER] [die] [l] [o] [ge] [l] [wer] [fe] [n] [si] [e] [se] [t] [n]
    G: ohn daß unglaublich sorgfältig
-[brandenburg] [den] [be] [q] [g] [l] [a] [p] [fa] [lich] [so] [r] [g] [ge] [l]
+[brandenburg] [dass] [be] [n] [g] [l] [a] [p] [fa] [lich] [so] [r] [g] [ge] [l]
    G: am Brandenbūrgschen hofe ges
-[ti] [g] und hab man  [a] [m] [brandenburg] [s] [e] [he] [n] [ke] [fe]
+[ti] [g] und hab man  [a] [m] [brandenburg] [s] [c] [he] [n] [ho] [fe]
    G: fähren den Frantzosen nichts anders alß hūner weders,
 [auch] [hi] [e] [r] [von] [den] [FRANTZOSI] [e] [n] [nicht] [s] [a] [n] [der] [s]
    G: in summa, Sie sind ihnen nichts gūtes bewūst
 [als] [hi] [e] [von] [re] [den] [i] [n] [su] [m] [ma] [si] [e] [si]
 [n] [d] [i] [bi] [ne] [n] [nicht] [s] [gu] [t] [te] [s] [be] [wu] [s] [t]
    G: die abshickūng
-Wans nūn Ich  [die] [a] [b] [k] [c] [hi] [c] [lich] [n] [g]
+Wans nūn Ich  [die] [a] [b] [s] [c] [hi] [c] [lich] [n] [g]
 
 == dorffler-19-100/p0303L
 eines ambassadeurs redressiren könte, wan
 [ein] [es] [ambassade] [u] [s] [re] [d] [re] [s] [si] [pu]
    G: zur zeit sehr gutt, rebus secrete confectis possunt
-[ko] [n] [te] [wa] [re] [doch] [zu] [r] [ze] [i] [t] [so]
+[ko] [n] [te] [wa] [re] [ma] [zu] [r] [ze] [i] [t] [#1]
    G: in posterum per Legatos solennitates adhiberi
 [r] [gu] [t] [t] [re] [bu] [s] [se] [c] [re] [te] [co]
-[c] [ti] [s] [po] [s] [su] [n] [t] [i] [n] [po] [s] [te] [se]
-[ne] [r] [le] [ga] [to] [s] [so] [le] [e] [ni] [ta] [te]
+[c] [ti] [s] [po] [s] [su] [n] [t] [i] [n] [po] [s] [te] [#1]
+[ne] [r] [le] [ga] [to] [s] [so] [le] [n] [ni] [ta] [te]
 [a] [c] [hi] [be] [ri]  Comitiola antecomitialia
 Ihr. K. Mt. gestern pro  [c]  Decembr. resolvirt,
    G: resolutionibus adstiti
@@ -1116,11 +1116,11 @@ quibus  [re] [so] [lu] [tion] [i] [bu] [s] [a] [d] [s] [gu]
 stijs beduncken wirdt, so hab doch verum sta-
 alles dieses erforschet. Haben nach etwz hir
    G: so dann eÿle man zeitlich nach
-verichtet,  [so] [bu] [n] [n] [e] [y] [le] [vor] [a] [x]
+verichtet,  [so] [bu] [n] [n] [e] [y] [le] [vor] [a] [#3]
    G: schow undt nehmbte
 [ze] [i] [t] [lich] [nach] [wa] [r] [s] [c] [ha] [w] [und]
    G: auch daselbst
-[n] [s] [c] [h] [te]  daß sich Mt.  [auch] [bu] [#200]
+[n] [s] [c] [h] [te]  daß sich Mt.  [auch] [bu] [tion]
    G: einfinden möchte, damit Wir circa modum
 [ba] [l] [d] [ein] [fi] [n] [den] [mochte] [bu] [mit] [wir] [ci]
    G: ein und anders abreden könten. Von Churbren
@@ -1133,7 +1133,7 @@ Frantzosen nichts davon wißen; nec Regi quidquam
 nec Reginae constat, wie ich hirnach sonderlich
    G: Regi zu gewohnlichen audientzen
 nachgefraget;  [re] [li] [zu] [pe] [r] [so] [ce] [n] [b]
-[m] [m] [er] [su] [c] [he] [n]  Wie mir dieses, waß
+[m] [m] [lu] [su] [c] [he] [n]  Wie mir dieses, waß
    G: Herr Sierowski auß gutem vertrauen geschriben,
 [von] [zi] [e] [ro] [w] [s] [ki] [aus] [gu] [t] [te] [m] [ver] [lo]
    G: sich billich
@@ -1141,7 +1141,7 @@ nachgefraget;  [re] [li] [zu] [pe] [r] [so] [ce] [n] [b]
 
 == dorffler-19-100/p0303R
 an seincn ohrt gestellet seijn laßen.
-[e] [n] [s] [ein] [e] [n] [o] [t] [t] [h] [ge] [s] [we] [l] [le]
+[e] [n] [s] [ein] [e] [n] [o] [t] [t] [h] [ge] [s] [te] [l] [le]
 [t] [se] [x] [s] [la] [s] [se]  suchet noch eijh weitter
    G: nichts suche noch verlange alß daß Ew. Königl.
 [ekmt] [s] [ha] [e] [t] [UNTER] [su] [c] [he] [mit] [ver] [me] [n] [ge]
@@ -1150,13 +1150,13 @@ an seincn ohrt gestellet seijn laßen.
    G: affairen wohl klarer und gründlich unterrichte
 [s] [l] [hi] [e] [r] [i] [n] [POHLEN] [a] [l] [le] [ma] [h] [l] [k] [la]
    G: haben möge
-[re] [n] [und] [c] [ru] [n] [d] [lich] [e] [n] [und] [ri] [c] [h] [t]
+[re] [n] [und] [g] [ru] [n] [d] [lich] [e] [n] [und] [ri] [c] [h] [t]
    G: hier beij mir nicht verhalte
 [ha] [be] [n] [#194] [n]  allso kan  [hi] [e] [r] [bey] [auch] [#296] [ver]
    G: weicher gestalt mir nicht wenig nachdencken giebet
 [ha] [l] [te] [n] [welche] [r] [ge] [s] [ta] [l] [t] [mi] [r] [#296]
    G: daß
-[te] [ni] [b] [ekmt] [den] [c] [ke] [n] [s] [gi] [e] [be] [t] [dass]  Mr
+[we] [ni] [g] [ekmt] [den] [c] [ke] [n] [s] [gi] [e] [be] [t] [dass]  Mr
    G: tractirung einer allience mitt hohe
 Gierowskij in  [t] [ra] [c] [ti] [ru] [n] [g] [ein] [lu] [alliance] [mit]
    G: secretesse ist
@@ -1169,7 +1169,7 @@ Gierowskij in  [t] [ra] [c] [ti] [ru] [n] [g] [ein] [lu] [alliance] [mit]
    G: der Brandenburgische Envoijé Monsr
 damahls allß  [der] [BRANDENBURG] [s] [c] [he] [ENVOYE] [ver] [n] [si] [e]
    G: Krakow zu wien gewesen
-[l] [r] [k] [ra] [ka] [r] [zu] [#340] [ge] [we] [se] [n]  die
+[l] [r] [k] [ra] [ka] [u] [zu] [#340] [ge] [we] [se] [n]  die
    G: Keijserlichen Ministri freij und offentlich debitiret
 [KAYSER] [#288] [e] [mi] [ni] [s] [t] [ri] [f] [re] [x] [und] [o] [f]
    G: es habe daß man triple allience zwischen dem Keijser
@@ -1178,18 +1178,18 @@ damahls allß  [der] [BRANDENBURG] [s] [c] [he] [ENVOYE] [ver] [n] [si] [e]
 [ein] [e] [t] [ri] [p] [le] [alliance] [alliancezwischen] [de] [m] [KAYSER] [ekmt]
    G: gediehen und richtig were
 [und] [POHLEN] [ge] [s] [c] [h] [lo] [s] [se] [n] [und] [so] [gi] [t] [t]
-[ze] [k] [la] [r] [und] [ri] [c] [h] [ti] [g] [wa] [re]  Wo
+[als] [k] [la] [r] [und] [ri] [c] [h] [ti] [g] [wa] [re]  Wo
    G: Frantzosische Minister Sebbeville allar-
-durch der  [FRANTZOSI] [c] [he] [mi] [ni] [s] [te] [t] [se] [b] [be]
+durch der  [FRANTZOSI] [c] [he] [mi] [ni] [i] [te] [t] [se] [b] [be]
    G: miret und bewogen worden seine apprehension
-[o] [i] [l] [e] [a] [l] [la] [r] [mi] [r] [t] [und] [q] [wo] [ge] [n]
+[o] [i] [l] [e] [a] [l] [la] [r] [mi] [r] [t] [und] [be] [wo] [ge] [n]
    G: gegen dem Herrn Graffen mercken zu laßen
 [so] [he] [den] [s] [ein] [e] [a] [p] [p] [re] [he] [n] [si] [o] [n]
-[l] [ge] [n] [den] [HERR] [n] [g] [ra] [fe] [n] [me] [r] [c] [ke] [n]
+[ge] [ge] [n] [den] [HERR] [n] [g] [ra] [fe] [n] [me] [r] [c] [ke] [n]
    G: zu agiren
 [zu] [la] [s] [se] [n]  Eben diese maniere  [zu] [a] [gi]
    G: mercke ich auch beij diesem hofe
-[re] [n] [me] [r] [c] [ke] [ich] [auch] [bey] [die] [se] [h] [ho]
+[re] [n] [me] [r] [c] [ke] [ich] [auch] [bey] [die] [se] [m] [ho]
 
 == dorffler-19-100/p0304L
 daß Ich fast nichts anders daher schließe, den
@@ -1217,7 +1217,7 @@ dieser tage mir einer der Vornchmsten v.
    G: wahren Nahmen
 [h] [ne] [r] [a] [l] [hi] [e] [r]  Welcher neulich
    G: einiger Verrichtungen beÿ hoffe gewesen des
-[ein] [ci] [ge] [r] [ver] [ri] [c] [h] [tu] [n] [ge] [n] [den]
+[ein] [ci] [ge] [r] [ver] [ri] [c] [h] [tu] [n] [ge] [n] [b]
    G: Königs vornehmsten Ministri der Cron Pohlen
 [fe] [ge] [we] [se] [n] [dass] [des] [KOENIG] [s] [ver] [t] [ra]
    G: ein Secretarius Sarnowski von
@@ -1226,20 +1226,20 @@ dieser tage mir einer der Vornchmsten v.
    G: Stücken vndt Wun-
 [sa] [r] [no] [w] [ki]  all. Erwöhne  [s] [tu] [c] [ke] [n]
    G: data opera zur die achs gemacht vnd weitleüff-
-[und] [re] [c] [h] [t] [f] [ta] [o] [pe] [ra] [auf] [die]
+[und] [re] [c] [h] [t] [da] [ta] [o] [pe] [ra] [auf] [die]
    G: tig exaggeriret hatte, die Königl
 [h] [n] [ge] [b] [r] [a] [c] [h] [t] [und] [we] [i] [t] [lich]
 [f] [ti] [g] [e] [x] [a] [g] [ge] [ri] [r] [t] [he] [t]
    G: wieder Brandenb.
 [n] [die] [#318] [s]  praeparatoria  [wi] [der] [moscow]
    G: Königs Fr. v. Mr. vndt sehr beÿmisset word-
-[da] [r] [i] [n] [ekmt] [nu] [me] [h] [r] [be] [g] [ri] [me]
+[da] [r] [i] [n] [ekmt] [nu] [me] [h] [r] [be] [g] [ri] [i]
    G: zugleich gemeldet
 [we] [re] [n]  Wobeÿ auch dieses  [zu] [g] [me] [ein]
    G: worden, daß zwischen Schweden vndt Pohlen eine alli-
-[ge] [me] [l] [de] [t] [wo] [r] [den] [dass] [alliancezwischen] [schwed] [n] [und]
+[ge] [me] [l] [de] [t] [wo] [r] [den] [dass] [alliancezwischen] [schwed] [n] [g]
    G: ance obhanden were vnd es
-[POHLEN] [ein] [e] [alliance] [o] [b] [ha] [n] [den] [wa] [re] [und] [er]
+[POHLEN] [ein] [e] [alliance] [o] [b] [ha] [n] [den] [wa] [re] [und] [es]
 
 == dorffler-19-100/p0304R
    G: mithin schluß damitt stünde
@@ -1251,7 +1251,7 @@ numehr  [auf] [m] [s] [b] [h] [lu] [s] [da] [mit] [s] [tu]
    G: errathe daß Östereich dem
 es darzue nicht  [er] [ra] [t] [he] [dass] [#328] [de] [m]
    G: Churfürsten auß Brandenburg damitt eine ombrage
-[FRANTZOSI] [e] [n] [und] [sondern] [da] [mit] [ein] [e] [o] [m] [b] [ra] [ge]
+[FRANTZOSI] [e] [n] [und] [brandenburg] [da] [mit] [ein] [e] [o] [m] [b] [ra] [ge]
    G: Zu machen suche Pohlen die Muskowiter
 [zu] [ma] [c] [he] [n] [und] [POHLEN] [die] [moscow] [i] [te] [r]
    G: bevorstehende tractatus Pacis Per-
@@ -1262,13 +1262,13 @@ gegen die  [be] [vor] [s] [te] [he] [n] [de] [t] [ra] [c] [ta] [tu] [s]
 Zu bringen  [solch] [e] [n] [e] [c] [la] [t] [mit] [f] [le] [i]
 [s] [lu] [re] [ge] [t] [he] [t] [te] [n]  Sonsten halte
    G: fast tout de bon vermein-
-ich unjung wans teütsch  [ke] [f] [to] [be] [t] [de] [be] [n]
+ich unjung wans teütsch  [ke] [f] [to] [be] [t] [de] [t] [n]
    G: te mitt Ew. Kayl. Mtt. eine alliance Zu schliesen
 [ver] [la] [n] [g] [te] [mit] [ekmt] [ein] [e] [alliance] [zu] [s] [c]
    G: daß man mir das wehr wahlen gethane ein-
-[h] [lu] [s] [we] [n] [dass] [ma] [n] [mich] [auf] [me] [h] [r]
+[h] [lu] [s] [se] [n] [dass] [ma] [n] [mich] [auf] [me] [h] [r]
    G: anerbietung Zum weigsten
-[ma] [h] [re] [n] [ge] [t] [ha] [ne] [ver] [a] [n] [la] [s] [su] [n]
+[ma] [h] [le] [n] [ge] [t] [ha] [ne] [ver] [a] [n] [la] [s] [su] [n]
 [g] [zu] [m] [we] [ni] [g] [s] [te] [n]  per indirectum
    G: einmahl advertirt habe da man
 und von weitem  [wu] [r] [de] [a] [d] [u] [e] [r] [ti] [r]
@@ -1523,7 +1523,7 @@ te führen würde.  [ra] [hi] [die] [so] [nach] [der] [ri] [c] [h] [t] [s] [c] [
    G: nicht actiones Critisiren wollen
 [die] [POHLEN] [i] [s] [c] [he] [a] [c] [tion] [e] [s] [c] [ri] [ti] [si] [re] [n] [wo] [l] [e] [n]  nicht Aller dings
    G: ein olaf von Tinick und etzliche Rittmeister
-begriffen, wie es zu gehe, daß  [ein] [a] [b] [t] [von] [ti] [ni] [e] [t] [z] [und] [ma] [l] [t] [he] [ri] [wir]
+begriffen, wie es zu gehe, daß  [ein] [a] [b] [t] [von] [ti] [ni] [e] [t] [z] [und] [ma] [l] [t] [he] [#12] [#7]
    G: allhie in Beförderung der Compagnien so hoch und dazu solch ein
 [r] [ri] [t] [te] [r] [fo] [l] [ge] [n] [d] [s] [ein] [ho] [f] [ma] [r] [s] [c] [ha] [l] [c] [k] [der] [CRON] [tu]
    G: teutschen General und Kriegs officiren
@@ -1599,14 +1599,14 @@ so durch ihre  [pa] [r] [ti] [a] [li] [te] [die] [he] [x] [l] [wa] [m] [s] [te] 
    G: ten. Verderbliche par=
 [nicht] [zu] [m] [be] [s] [te] [n] [fa] [h] [si] [n] [i] [r] [f] [te] [n]  welcher höchst  [ver] [der] [b] [li] [c] [t]
    G: tialiteten noch ein frisches Beyspiel anzuführen, muß unbemercket
-[pa] [r] [ti] [a] [li] [te] [t] [e] [n] [noch] [ga] [r] [f] [ri] [s] [c] [he] [s] [bey] [s] [pi] [e] [l] [a] [n] [zu] [auch] [er]
+[pa] [r] [ti] [a] [li] [te] [t] [e] [n] [noch] [ga] [r] [f] [#173] [s] [c] [he] [s] [bey] [s] [pi] [e] [l] [a] [n] [zu] [auch] [er]
 [n] [nicht] [no] [ga] [n] [g]  nehmen kan. E. K. Mayt. in aller unterthänigkeit zu berichten,
    G: der König, alß er die Königsbergische
 welcher gestalt, für etlichen tagen.  [der] [KOENIG] [als] [er] [die] [KOENIG] [s] [be] [r] [g] [s] [c] [h] [e] [a]
    G: post visitiren lassen, unter andern ein schreiben gefunden, welches
 [s] [t] [u] [i] [si] [ti] [re] [n] [#186] [e] [n] [UNTER] [a] [n] [der] [n] [ein] [s] [c] [re] [i] [be] [n] [ge] [fu] [n] [den] [welche] [#3]
    G: der Cron Schatzmeister Morstin nach Franckreich, an selbige
-[der] [CRON] [s] [c] [h] [a] [t] [z] [me] [i] [s] [te] [r] [mo] [r] [s] [ti] [n] [nach] [FRANKREICH] , wie etliche sagen  [a] [n] [pi]
+[der] [CRON] [s] [c] [h] [a] [t] [z] [me] [i] [s] [te] [r] [mo] [r] [s] [ti] [n] [nach] [FRANKREICH] , wie etliche sagen  [a] [n] [einem]
    G: König, anderer relation aber zu folge, an jemand anders, meist in Ziffern
 [KOENIG] / [a] [n] [der] [er] [re] [la] [tion] [aber] [zu] [fo] [l] [ge] [a] [n]  jemand anders  [me] [i] [s] [t] [n] [n] [c] [hi]
    G: geschrieben; der Cron Schatzmeister zu Schloß
@@ -1614,7 +1614,7 @@ welcher gestalt, für etlichen tagen.  [der] [KOENIG] [als] [er] [die] [KOENIG] 
    G: zum König gekommen, hat S.M. den brieff ihme selbste in die
 [c] [h] [#194] [s] [se]  und selbiger  [zu] [m] [KOENIG] [ge] [ko] [m] [me] [n] [hat] [er] [den] [e] [r] [i] [e] [f] [ge] [ze] [i] [i]
    G: handt zu lesen gegeben, welchen der Cron Schatzmeister auch gethan,
-[t] [und] [zu] [le] [se] [n] [ge] [ge] [be] [n] [welche] [s] [der] [CRON] [s] [c] [ha] [z] [me] [i] [f] [te] [r] [auch] [ge] [t] [ha] [n]
+[t] [und] [zu] [le] [se] [n] [ge] [ge] [be] [n] [welche] [s] [der] [CRON] [s] [c] [ha] [z] [me] [i] [s] [te] [r] [auch] [ge] [t] [ha] [n]
    G: chiffre kommen, blieb Er stehen,
 wie er aber an die  [c] [hi] [f] [re] [ko] [m] [me] [n] [b] [li] [e] [b] [er] [s] [te] [he] [n]  und auf.  [der]
    G: Königs weitern befehl
@@ -1623,25 +1623,25 @@ wie er aber an die  [c] [hi] [f] [re] [ko] [m] [me] [n] [b] [li] [e] [b] [er] [s
    G: darinnen enthalten seyn würde, weill ers geschrieben, gab Er zur
 [da] [ri] [n] [ne] [n] [e] [n] [t] [ha] [l] [te] [n] [se] [y] [n] [wu] [r] [de] [weil] [er] [s] [ge] [s] [c] [h] [ri] [e] [be] [n]
    G: antwort, Er wüste es nicht, die chiffre weh=
-[ga] [b] [er] [zu] [r] [a] [n] [t] [wo] [r] [t] [er] [ko] [n] [te] [es] [nicht]  wolte aber  [die] [c] [hi] [f] [re] [na] [ha]
+[ga] [b] [er] [zu] [r] [a] [n] [t] [wo] [r] [t] [er] [ko] [n] [te] [es] [nicht]  wolte aber  [die] [c] [hi] [f] [re] [na] [hi]
 
 == dorffler-19-100/p0326R
    G: Haufse holen, Sehes aber nicht wieder, heit an die wand
 [u] [se] [ho] [le] [n] [ka] [h] [m] [a] [be] [r] [nicht] [wi] [e] [der]  und hat sich von der  [ze] [i] [t] [a] [n] [k] [ra]
    G: gemacht, die Schatzmeisterin ist darauf zu dem Grofs Cantzler gefah:
-[n] [c] [k] [be] [ma] [c] [h] [ga] [die] [s] [c] [ha] [t] [z] [me] [i] [s] [te] [ri] [n] [ist] [da] [ra] [u] [f] [zu] [de] [m] [g] [ro]
+[n] [c] [k] [be] [ma] [c] [h] [du] [die] [s] [c] [ha] [t] [z] [me] [i] [s] [te] [ri] [n] [ist] [da] [ra] [u] [f] [zu] [de] [m] [g] [ro]
    G: ren, undt nachdem Sie demselben ihr leydt geklagt, daneben zu ver:
 [s] [ca] [n] [t] [z] [le] [r] [ge] [fa] [h] [re] [n] [und] [nach] [de] [m] [si] [e] [de] [hi] [sel] [e] [n] [ih] [le] [y] [d] [ge] [k] [brandenburg]
    G: stehen gegeben, alfs ob Sie schon vor drey wochen die begehrte Chiffre
-[g] [t] [f] [le] [be] [n] [zu] [ver] [s] [te] [he] [n] [ge] [ge] [be] [n] [als] [o] [b] [si] [e] [s] [c] [ho] [n] [vor] [#234] [wo]
+[g] [t] [da] [le] [be] [n] [zu] [ver] [s] [te] [he] [n] [ge] [ge] [be] [n] [als] [o] [b] [si] [e] [s] [c] [ho] [n] [vor] [#234] [wo]
    G: Copiiren in vorsehens ins
 [c] [he] [n] [die] [be] [ge] [h] [r] [te] [c] [hi] [f] [re]  nebst andern  [pa] [pi] [e] [re] [n] [u] [n] [ver] [se] [he] [n]
    G: feüer geworffen undt verbrandt hette Ihre
-[s] [i] [n] [s] [fe] [u] [lu] [ge] [wo] [r] [f] [fe] [n] [und] [ver] [b] [ra] [n] [d] [t] [he] [t] [te] , alßdaun  [ih]
+[s] [i] [n] [s] [fe] [u] [er] [ge] [wo] [r] [f] [fe] [n] [und] [ver] [b] [ra] [n] [d] [t] [he] [t] [te] , alßdaun  [ih]
    G: aber gesagt, wie dafs müglich were, dass solches schon vor drey Wo:
 [a] [be] [r] [ge] [sa] [g] [t] [wi] [dass] [mo] [g] [ma] [c] [h] [we] [re] [dass] [solch] [e] [s] [s] [c] [ho] [n] [vor] [#234]
    G: chen geschehen, da doch der Brieff nür viertzehen tage alt were,
-[wo] [c] [he] [n] [ge] [s] [c] [he] [he] [n] [f] [doch] [der] [b] [ri] [e] [f] [tion] [#235] [#241] [ta] [ge] [a] [l] [t] [we] [re] [hat]
+[wo] [c] [he] [n] [ge] [s] [c] [he] [he] [n] [da] [doch] [der] [b] [ri] [e] [f] [tion] [#235] [#241] [ta] [ge] [a] [l] [t] [we] [re] [hat]
    G: hat Sie hierauf nichts zu repliciren gewust
 [si] [e] [hi] [e] [r] [auf] [nicht] [s] [zu] [re] [p] [li] [ci] [re] [n] [ge] [wu] [s] [t]  Es sagte mir der Kayßerl.
    G: es müste der König den Cla:
@@ -1663,13 +1663,13 @@ welche mehr alß andere zu wißen vermeinen, alß wan  [der] [CRON] [s] [c] [ha]
    G: der Cron Schatzmeister nichts gutes bewust sein muss,
 gewiß, daß Ihm  [der] [CRON] [s] [c] [ha] [t] [z] [me] [i] [s] [te] [r] [nicht] [s] [gu] [te] [s] [be] [wu] [s] [t] ,
    G: weil Er die Chiffre herzugeben sich geweigert über dessen con=
-[se] [y] [o] [mu] [s] [#229] [lu] [die] [f] [hi] [f] [re] [he] [r] [zu] [ge] [be] [n] [sich] [ge] [we] [i] [ge] [r] [t] [uber]
+[se] [y] [o] [mu] [s] [#229] [er] [die] [f] [hi] [f] [re] [he] [r] [zu] [ge] [be] [n] [sich] [ge] [we] [i] [ge] [r] [t] [uber]
    G: duite in dieser affaire sich jederman verwundert
 [des] [se] [n] [co] [n] [du] [i] [te] [i] [n] [die] [se] [r] [a] [f] [a] [i] [re] [sich] [i] [h] [der] [ma] [n] [ver] [wu] [n]
    G: vor einen der klügsten Köpfe allhier ge:
 [der] [t]  weh Ihm Erjederzeit  [vor] [ein] [e] [n] [der] [k] [l] [u] [g] [s] [te] [n] [ko] [p] [f] [fe] [a]
    G: halten worden; die Brandenburgischen alß seine gar grofse freündt undt parti:
-[f] [hi] [e] [r] [ge] [ha] [l] [te] [n] [wo] [r] [den] [die] [BRANDENBURG] [er] [ro] [r] [g] [ro] [s] [se] [r] [f] [re] [l] [n] [i]
+[l] [hi] [e] [r] [ge] [ha] [l] [te] [n] [wo] [r] [den] [die] [BRANDENBURG] [er] [ro] [r] [g] [ro] [s] [se] [r] [f] [re] [l] [n] [i]
    G: sanen bezeügen sich nicht wenig über diese Begebenheit allarmirt,
 [und] [pa] [r] [t] [i] [sa] [n] [t] [er] [i] [e] [der] [ze] [i] [t] [ge] [we] [se] [n] [a] [l] [la] [r] [mi] [re] [n] [sich]
    G: zufall Brandenburgische Am=
@@ -1698,7 +1698,7 @@ offendirt, daß man  [ih] [e] [po] [s] [te] [n] [zu] [UNTER] [s] [c] [hi] [e] [d
    G: daß es der König dem Brandenburgischen Residenten
 notorium,  [dass] [es] [der] [KOENIG] [de] [m] [BRANDENBURG] [s] [c] [he] [n] [re] [si] [den] [te] [n] [wi] [c] [he] [r] [t] [n]
    G: unterschiedlichen mahlen andeuten laßen, nachdem den,
-[UNTER] [s] [c] [hi] [e] [d] [lich] [e] [n] [ma] [h] [le] [n] [a] [n] [de] [u] [te] [n] [#186] [e] [n] [nach] [de] [m] [der] [KOENIG]
+[UNTER] [s] [c] [hi] [e] [d] [lich] [e] [n] [ma] [h] [le] [n] [a] [n] [de] [u] [te] [n] [ma] [e] [n] [nach] [de] [m] [der] [KOENIG]
    G: lichen Post mercklichen schade Zuwuchse.
 [e] [n] [po] [s] [t]  hiedurch  [me] [r] [c] [k] [lich] [er] [s] [c] [ha] [de] [zu] [wa] [c] [h] [s] [t]  Deß Kay[?]
 Hn. Ambassadeurs negotiation betreffend, so seind mit selbem allhie
@@ -1720,7 +1720,7 @@ hinter bringen. Nümehr finden sich auch, die bißhero außen geblie[?]
    G: der Woy-
 Proceres undt Landbothen ein; Unter welchen fürnehmlich ist  [der] [wo] [y] [wo]
    G: wode von Posen Dux et caput factionis Brandeburgicae
-[de] [von] [po] [se] [n] [du] [x] [e] [t] [ca] [pu] [x] [fa] [c] [tion] [i] [p] [BRANDENBURG] [i] [ca] [n]  Gestern ward der
+[de] [von] [po] [se] [n] [du] [x] [e] [t] [ca] [pu] [x] [fa] [c] [tion] [i] [p] [BRANDENBURG] [i] [ca] [pi]  Gestern ward der
 vor zweÿ tagen beÿm Marquis de Vitrÿ angelangte frantzosische expresser
 eilents wieder nach Frankreich spedirt. Schließlich sagt man mir, daß
 der König in Pohlen Ew: Maÿtt. zu Gevattern zu bitten entschloßen
@@ -1837,19 +1837,19 @@ handenen Conjuncturen mir allergnädigst zu committiren, und anzu-
 befehlen haben geruhen wollen. Gleich wie nun Dero hiebevor an mich ergangenen
 allergnädigsten ordres zu folge ich bißhero allen müglichen fleiß angewand, und noch anwende
    G: beÿ der in den händen habenden alliance mit dem Kaÿser auch E. K. Mtt.
-damit  [bey] [der] [UNTER] [ha] [n] [den] [ha] [be] [n] [den] [#283] [mit] [de] [m] [KAYSER] [auch] [ekmt] [i] [n] [te] [te] [s] [se] [n] [n] [a] [c]
+damit  [bey] [der] [UNTER] [ha] [n] [den] [ha] [be] [n] [den] [alliance] [mit] [de] [m] [KAYSER] [auch] [ekmt] [i] [n] [te] [te] [s] [se] [n] [n] [a] [c]
    G: interesse in acht genommen werden solle wol mit dem Kaÿser-
-[t] [ge] [no] [m] [me] [n] [we] [l] [den] [so] [ge]  also laß mir nicht angelegen seÿn, so  [wo] [n] [mit] [de] [m] [KAYSER] [lich] [c] [n]
+[ho] [ge] [no] [m] [me] [n] [we] [l] [den] [so] [ge]  also laß mir nicht angelegen seÿn, so  [wo] [l] [mit] [de] [m] [KAYSER] [lich] [c] [n]
    G: lichen Ambassadeur Grafen von Wallenstein und Hrn Baron Zierowsky alß dero-
-[o] [r] [g] [ra] [fe] [n] [von] [wa] [m] [d] [s] [te] [n] [dass]  alß auch  [mit] [de] [m] [bi] [ro] [n] [zi] [e] [ro] [w] [s] [ki] [als] [a] [b] [ge]
+[o] [r] [g] [ra] [fe] [n] [von] [wa] [l] [d] [s] [te] [n] [dass]  alß auch  [mit] [de] [m] [bi] [ro] [n] [zi] [e] [ro] [w] [s] [ki] [als] [a] [b] [ge]
    G: selben kaÿ: Resident das jenige, waß in diesem negotio passiret,
-[a] [te] [n] [ta] [n] [te] [g] [lich] [no] [n] [e] [ni] [ge] [was] [i] [n] [die] [se] [m] [ne] [go] [we] [o] [pa] [s] [si] [l] [t]  und
+[a] [te] [n] [ta] [n] [te] [g] [lich] [no] [n] [e] [ni] [ge] [was] [i] [n] [die] [se] [m] [ne] [go] [to] [o] [pa] [s] [si] [l] [t]  und
    G: zu eröffnen vertraulichen communiciren Dero
 unter dero  [zu] [ne] [h] [den] [n]  stehet,  [ver] [t] [r] [a] [z] [des] [zu] [co] [m] [mu] [zu] [ci] [re] [n]  welche mich auch  [ver]
    G: zu ihrer instruction secondiren beÿ dießen
-[d] [da] [to]  allhier praevalirenden  [FRANTZOSI] [und] [BRANDENBURG] [s] [c] [he] [n] [i] [n] [t] [re] [gu] [e] [n] [wi] [l] [t] [hu] [n] [la] [s]
+[zu] [da] [to]  allhier praevalirenden  [FRANTZOSI] [und] [BRANDENBURG] [s] [c] [he] [n] [i] [n] [t] [re] [gu] [e] [n] [wi] [l] [t] [hu] [n] [la] [s]
    G: im dato Frantzös:- und Brandenburgischen Intriguen, und thuen
-[ge] [ih] [e] [r] [f] [n] [s] [t] [ru] [c] [tion]  in so weit  [se] [co] [n] [di] [re] [n]  alß Eiß immer  [bey] [die] [re] [n]
+[ge] [ih] [e] [r] [f] [n] [s] [t] [ru] [c] [tion]  in so weit  [se] [co] [n] [di] [re] [n]  alß Eiß immer  [bey] [die] [se] [n]
    G: [?] D. V. M:te hat der meiste wiederstand biß anhero per directum
 u. weil nun selbige  [ekmt] [ENVOYE] [der] [ma] [s] [se] [n] [wi] [der] [se] [t] [re] [n] [dass] [ma] [n] [pe] [r] [di] [re] [c] [tu] [m] [ma]
    G: et indirectum dem Koring und E: K. Mtt Verbundnuß mit dem Kaÿser auff
@@ -1871,39 +1871,39 @@ stehey wurde, da die demselbe mit einem
    G: voller
 [ein] [zu] [t] [re] [t] [te] [n]  freÿ  [s] [te] [he] [n] [wu] [r] [de] [da] [pu] [e] [da] [n] [a] [l] [le] [mit] [s] [ti] [m] [a]
    G: westen fiat, sdat die thür für E:K:M:tt: umb in diese allianz
-[ru] [f] [e] [n] [x] [a] [t] [m] [a] [t]  womit also  [die] [t] [hu] [re] [fur] [ekmt] [um] [i] [n] [die] [se] [alliance] [ein] [ge] [hu] [pi]
+[ru] [f] [e] [n] [fi] [a] [t] [fi] [a] [t]  womit also  [die] [t] [hu] [re] [fur] [ekmt] [um] [i] [n] [die] [se] [alliance] [ein] [ge] [hu] [pi]
    G: geschlossen zu werden, offen geblieben Baron Zierowski
 [s] [se] [n] [zu] [we] [r] [den] [o] [f] [fe] [n] [ge] [b] [li] [e] [be] [n]  undt hielt der  [ba] [ro] [n] [zi] [e] [ro] [s]
    G: für hochnöthig, daß E:K:M: sich je
 aß ich gestern mit ihm Unterredung pflegte  [fur] [ho] [c] [h] [no] [t] [hi] [g] [dass] [ekmt] [sich] [mit] [a] [e]
    G: lieber je besser daßselben melden, und also unter denen potentaten, so sich
-[r] [e] [he] [i] [te] [h] [des] [ha] [l] [be] [n] [me] [l] [den] [und] [als] [o] [UNTER] [de] [h] [ne] [n] [pa] [te] [n] [ta] [te] [n] [so] [wer]
+[r] [e] [he] [i] [te] [h] [des] [ha] [l] [be] [n] [me] [l] [den] [und] [als] [o] [UNTER] [de] [h] [ne] [n] [pa] [te] [n] [ta] [te] [n] [so] [n]
    G: sem foederi assocÿren wollen, der erste seÿn
-[se] [ge] [fo] [e] [der] [i] [a] [s] [so] [ci] [i] [re] [n] [wo] [l] [le] [n] [der] [#232] [e] [se] [y] [n]  möchte. Auf welchen
+[se] [be] [fo] [e] [der] [i] [a] [s] [so] [ci] [i] [re] [n] [wo] [l] [le] [h] [der] [#232] [e] [se] [y] [n]  möchte. Auf welchen
    G: sich auch zetlach mit instruction und Vollmacht umb de providere
 fall.  [ich] [auch] [ze] [i] [t] [lich] [mit] [i] [n] [s] [t] [ru] [c] [tion] [und] [w] [o] [l] [ma] [c] [h] [t] [wu] [r] [de] [p] [ro] [u] [l]
    G: ben zu müßen foedus der Kaÿserliche Ambassadeur
-[t] [we] [r] [den] [mu] [s] [se] [n]  Mehr gedachtes  [s] [ge] [e] [t] [s]  wovon  [der] [KAYSER] [lich] [e] [ambassade] [u] [r] [mi] [s] [go]
+[t] [we] [r] [den] [mu] [s] [se] [n]  Mehr gedachtes  [s] [ge] [e] [du] [s]  wovon  [der] [KAYSER] [lich] [e] [ambassade] [u] [r] [mi] [s] [co]
    G: versprochen, umb solche mit nähester post
 deur mir copiam mitzutheilen  [a] [m] [mit] [zu] [t] [he] [i] [le] [n] [ver] [s] [t] [ro] [c] [he] [n] [um] [so] [l] [c] [he] [mit] [ne] [c] [h] [z] [te] [r] [pa] [r]
    G: E:K:M: zu übersenden, ist nun so weit richtig, undt beruhet nur allein auf
 [ekmt] [zu] [u] [be] [r] [se] [r] [den] [ist] [und] [n] [so] [we] [i] [t] [ri] [c] [h] [mochte] [g] [und] [be] [zu] [he] [t] [nu] [r] [a] [l] [le] [vor]
    G: dem jurament dießseits dringt, undt haben will, daß I:K:
-[auf] [de] [m] [i] [u] [ra] [me] [n] [t]  worauf man  [die] [s] [se] [i] [t] [s] [d] [ri] [n] [g] [t] [und] [ha] [be] [n] [wi] [lich]
+[auf] [de] [m] [i] [u] [ra] [me] [n] [t]  worauf man  [die] [s] [se] [i] [t] [s] [d] [ri] [n] [g] [t] [und] [ha] [be] [n] [des] [lich]
    G: Kaÿserl: diese allianz in eigner Persohn beschweren solle
-[der] [KAYSER] [die] [se] [ver] [t] [o] [d] [pi] [w] [se] [r] [so] [h] [n] [mi] [be] [s] [c] [h] [we] [re] [n] [so] [l]  wozu sich
+[der] [KAYSER] [die] [se] [ver] [bi] [o] [d] [pi] [w] [se] [r] [so] [h] [n] [lich] [be] [s] [c] [h] [we] [re] [n] [so] [l]  wozu sich
    G: dieses expedient treffen durffte, daß der Gesandte allhier in ani-
 Viellicht  [die] [se] [s] [e] [x] [pe] [di] [e] [n] [t] [t] [re] [e] [fe] [n] [du] [r] [f] [te] [dass] [der] [ge] [sa] [n] [te] [a] [l] [la]
    G: mam seines Principalen diese aufgerichtete pacta beschwere, und
 [r] [i] [n] [a] [ni] [ma] [m] [hi] [ta] [e] [s] [p] [ri] [n] [ci] [pa] [le] [n] [die] [se] [auf] [ge] [ri] [c] [h] [te] [te] [pa] [a]
    G: Moscovitische wesen betrifft, da bin
-[be] [s] [c] [h] [we] [re] [n] [su] [r] [d]  Waß daß  [mo] [s] [ko] [su] [ti] [s] [c] [he] [te] [se] [n] [be] [t] [ri] [g]
+[be] [s] [c] [h] [we] [re] [n] [su] [r] [d]  Waß daß  [mo] [s] [ko] [wi] [ti] [s] [c] [he] [te] [als] [n] [be] [t] [ri] [n]
    G: ich biß anhero gesinnenden geheimen mit verfahren
-[ha] [be] [ich] [bis] [a] [f] [he] [ro]  hirin mit aller  [ge] [zi] [e] [h] [me] [n] [den] [ge] [hu] [t] [sa] [ke] [i] [t] [ver] [fa] [h]
+[ha] [be] [ich] [bis] [a] [n] [he] [ro]  hirin mit aller  [ge] [zi] [e] [h] [me] [n] [den] [ge] [hu] [t] [sa] [ke] [i] [t] [ver] [fa] [h]
    G: beÿ diesen conjuncturen nicht rathsam vor E:K:M:
 In Betrachtung daß es.  [bey] [die] [se] [di] [co] [n] [i] [u] [n] [c] [tu] [nicht] [ra] [t] [h] [sa] [o] [noch] [ekmt]
    G: dienlich etwas zu moviren Vviel vernemmen, daß der
-[lich] [e] [t] [was] [des] [fa] [l] [s] [zu] [mo] [u] [i]  Zumahlen ich auch  [so] [wider] [ver] [no] [m] [me] [n] [dass] [der]
+[lich] [e] [t] [was] [des] [fa] [l] [s] [zu] [mo] [u] [i]  Zumahlen ich auch  [so] [was] [ver] [no] [m] [me] [n] [dass] [der]
    G: König hoc rerum statu Moscow lieber ad societatem armorum wider
 [ho] [c] [re] [ru] [m] [s] [ta] [tu] [moscow] [li] [e] [be] [r] [a] [d] [so] [ci] [e] [ta] [te] [m] [a] [r] [mo] [ru] [m] [wolle]
    G: wider den Erbfeind disponiren alß bekriegen wolle.
@@ -1924,11 +1924,11 @@ noch regier-sucht, sondern bloß und allein der eÿfer den Türckischen Glauben 
    G: Tartar chan habe zwar beÿ dem König
 propagiren, bewogen hette. Wegen daß. [po] [s] [t] [we] [#227] [n] [s] [ha] [be] [z] [wa] [r] [bey] [de] [m]
    G: errinnerung gethan, welcher auch sein darunten versirendes inter-
-[KOENIG] [me] [i] [q] [ne] [l] [n] [g] [ge] [t] [ha] [n] [welche] [r] [auch] [se] [i] [n] [da] [r] [wider] [u] [e] [r] [si] [re] [n] [des]
+[KOENIG] [me] [i] [q] [ne] [ru] [n] [g] [ge] [t] [ha] [n] [welche] [r] [auch] [se] [i] [n] [da] [r] [wider] [u] [e] [r] [si] [re] [n] [des]
    G: esse Vnd versprochen, so bald von an-
 [i] [n] [te] [r] [e] [s] [se] gnugsamb begriffen, und daher, [ver] [s] [p] [ro] [c] [he] [n] [so] [ba] [l] [d] [nu]
    G: derer hochwichtige geschäffte die Sache
-[r] [a] [der] [e] [ho] [c] [h] [wi] [c] [h] [#155] [ge] [ge] [s] [c] [he] [f] [te]  solches Zu laßen würden, [die] [sa] [c] [he]
+[r] [a] [der] [e] [ho] [c] [h] [wi] [c] [h] [ti] [ge] [ge] [s] [c] [he] [f] [te]  solches Zu laßen würden, [die] [sa] [c] [he]
    G: Vber Zunehmen, der König zu Pohlen hat auch den Tartari-
 [vor] [zu] [ne] [h] [me] [n]  Gestalt dan auch  [der] [KOENIG] [zu] [so] [l] [c] [he] [m] [e] [n] [de] [den] [po] [s] [t]
    G: schen Digratta hat zu sich beruffen
@@ -1938,17 +1938,17 @@ schaffen gemacht, habe ich diese affaire weiter nicht poussiren können. Unterde
    G: der Churfürst seinen Zweck Radzivillischen gut-
 Vernehme ich, daß. [der] [churfurst] [s] [ein] [e] [n] [z] [we] [c] [k] wegen der  [ra] [d] [zi] [wi] [l] [li] [s]
    G: ter in Littawen schon so weit erreicht, daß der König, weil Er Siehet
-[c] [he] [n] [gu] [t] [te] [r] [i] [q] [li] [t] [ta] [we] [n] [s] [c] [ho] [n] [so] [we] [i] [t] [er] [te] [i] [c] [h] [t] [dass]
+[c] [he] [n] [gu] [t] [te] [r] [i] [q] [li] [t] [ta] [we] [n] [s] [c] [ho] [n] [so] [we] [i] [t] [er] [ze] [i] [c] [h] [t] [dass]
    G: daß jene partheÿ ihm allzustarck den rucken hält vnd dahingegen
-[der] [KOENIG] [weil] [er] [si] [e] [he] [t] [dass] [s] [ein] [e] [pa] [r] [t] [he] [p] [i] [h] [m] [a] [l] [zu] [s] [t] [a] [r] [c] [k]
+[der] [KOENIG] [weil] [er] [si] [e] [he] [t] [dass] [s] [ein] [e] [pa] [r] [t] [he] [y] [i] [h] [m] [a] [l] [zu] [s] [t] [a] [r] [e] [k]
    G: alle deß Königs vorhabende intentiones traversirt, sich mit einen
 [den] [ru] [c] [ke] [n] [he] [l] [t] [und] [da] [hi] [n] [ge] [ge] [n] [a] [l] [le] [des] [KOENIG] [s] [vor] [ha] [be] [n] [de] [i] [n] [te] [n]
    G: stück geldes dürffte abkauffen
 [tion] [e] [hi] [t] [ra] [ver] [si] [r] [t] [sich] [mit] [ein] [e] [m] [s] [tu] [c] [k] [ge] [l] [des] [du] [r] [f] [te] [a] [b] [ka] [q] [f]
    G: Baron Zierowsky sagt,
-[fe] [n]  Laßen; Wie mir dan  [ba] [ro] [n] [zi] [e] [ro] [w] [do] [ki] [sa] [g] [t]  daß der deßfals,
+[fe] [n]  Laßen; Wie mir dan  [ba] [ro] [n] [zi] [e] [ro] [w] [s] [ki] [sa] [g] [t]  daß der deßfals,
    G: zwischen dem Churfürstlichen Gesandten vorgetragene Vergleich gehan-
-[durch] [den] [churfurst] [lich] [e] [n] [ke] [sa] [n] [te] [n] [vor] [ge] [t] [g] [fe] [ne] [churfurst] [g] [le] [i] [c] [h] schon ab  [ge] [ha] [n]
+[durch] [den] [churfurst] [lich] [e] [n] [ge] [sa] [n] [te] [n] [vor] [ge] [t] [g] [fe] [ne] [churfurst] [g] [le] [i] [c] [h] schon ab  [ge] [ha] [n]
    G: delt vnd so gut als richtig sein solle.
 [de] [l] [und] [so] [gu] [t] [als] [ri] [c] [h] [ti] [g] [s] [ein] [so] [l] [e]  Besagter Ambassadeur frequentiret
 nun täglich den Hof, Undt läßet sich des Abends in der Königin Zimmer mit seiner
@@ -2184,7 +2184,7 @@ so viel vernommen habe, daß  [der] [churfurst] [durch] [ke] [i] [ne] [ra] [i] [
    G: stzen oder aber es darmit zur extremitet wolle an kom-
 [ze] [n] [be] [so] [n] [der] [n] [es] [da] [mit] [zu] [r] [e] [x] [t] [re] [mi] [te] [t] [wo] [l] [e] [a] [n] [ko]
    G: men lassen
-[i] [me] [n] [la] [s] [se] [n]  Mit dehnen leztgemeldeten  [a] /m Rthlrn, hatt es, wie ich vnter der
+[m] [me] [n] [la] [s] [se] [n]  Mit dehnen leztgemeldeten  [a] /m Rthlrn, hatt es, wie ich vnter der
 handt vernommen, diese beschaffenheit, daß dieser vergleich noch von dem verstorbenen
 Baron von Ouerbeck mit dem König seÿ getroffen worden. Worauf Ihr Maytt.
 die helffte empfangen, vndt den Rest, wenn Ihro fraw Schwester der verwittibten
@@ -2249,9 +2249,9 @@ inn vertrauen sagen, daß der König mit allem fleiß suchte den Churfürsten vo
    G: werden müssen der Postmeister Gratta, so deßwegen sich
 [t] [z] [t] [wer] [den] [mu] [s] [se] [n] ; Zwar stehet  [der] [p] [o] [s] [t] [me] [i] [s] [te] [r] [g] [ra] [t] [ta] [so] [des] [we] [ge]
    G: allhier beÿ hofe aufhelt, annoch nachsinnich auß diese affaire unter der
-[n] [sich] [a] [l] [hi] [e] [r] [bey] [ho] [fe] [auf] [he] [l] [t] [le] [we] [l] [e] [he] [n] [ich] [po] [die] [se] [a] [f] [fa] [i] [re] [UNTER] [der]
+[n] [sich] [a] [l] [hi] [e] [r] [bey] [ho] [fe] [der] [he] [l] [t] [durch] [we] [l] [c] [he] [n] [ich] [po] [die] [se] [a] [f] [fa] [i] [re] [UNTER] [der]
    G: handt treibt, iedoch in gueter hofnung, daß der König in künftigen ans com-
-[q] [n] [d] [t] [re] [i] [be] [a] [n] [no] [la] [h] [i] [n] [gu] [t] [te] [r] [ho] [f] [nu] [n] [g] [dass] [der] [KOENIG] [te] [e] [h] [s] [te] [m]
+[ha] [n] [d] [t] [re] [i] [be] [a] [n] [no] [c] [h] [i] [n] [gu] [t] [te] [r] [ho] [f] [nu] [n] [g] [dass] [der] [KOENIG] [te] [e] [h] [s] [te] [m]
    G: missarien zu besagten negotio deputiren, undt den punct
 [ein] [e] [co] [m] [mi] [s] [si] [o] [n] [zu] [be] [sa] [g] [te] [m] [ne] [go] [ti] [o] [de] [pu] [ti] [re] [n] [und]  deßelben  [den] [pu] [n]
    G: festsetzen werde.
@@ -2404,7 +2404,7 @@ dieser Crone zu geben schuldig ist, ansuchung zu thun,  [wo] [r] [bey] [li]
    G: Curfurst Vornehmen die waffen
 [zu] [we] [n] [den] [da] [mit] [der] [churfurst]  Von seinem  [vor] [ne] [h] [me] [n] [die] [wa]
    G: wider E: K: M:t zu fuhren detourniret und von der sch
-[wi] [der] [ekmt] [zu] [fu] [h] [re] [n] [de] [to] [u] [r] [ni] [re] [t] [und] [von] [der] [s] [c] [h]
+[wi] [der] [ekmt] [zu] [fu] [h] [re] [n] [de] [to] [u] [r] [ni] [re] [t] [und] [von] [der] [s] [c] [he]
    G: lichen frantzösischen Partheij Zustehen bewogen we
 [lich] [e] [n] [FRANTZOSI] [c] [he] [n] [c] [r] [t] [he] [x]  ab  [zu] [s] [te] [he] [n] [be] [wo] [ge] [n]
    G: möge
@@ -2424,7 +2424,7 @@ beÿ Zu Verstehen, gegeben, daß die herren  [#307] [s] [ta] [te] [n] [de] [m] [
    G: von mihr begehrt, daß ich diese seine negotiation E: K
 [s] [von] [mi] [r] [be] [ge] [h] [r] [t] [dass] [ich] [die] [se] [s] [ein] [e] [ne] [go] [ti] [a] [ver] [ekmt]
    G: berichten und was
-allerunterthänigst  [be] [ri] [c] [h] [te] [n] [und] [was]  Sie etwa hierbeÿ  [zu] [li]
+allerunterthänigst  [be] [ri] [c] [h] [te] [n] [und] [was]  Sie etwa hierbeÿ  [zu] [er]
    G: nern hetten, auffs allerschleunigste einholen, undt
 [n] [ne] [r] [n] [he] [t] [te] [n] [auf] [s] [a] [n] [le] [r] [s] [c] [h] [l] [ein] [i] [g] [s] [ra]
    G: in supplementum negotiationis su
@@ -2447,11 +2447,11 @@ kaÿser alhier aufgerichteten Tractats sich Zu getragen, alß nemblich es b.∣�
 
 == dorffler-19-100/p0386R
 Littowsche Stallmeister Sapieha sich mit dieser clausul
-[t] [ta] [u] [s] [c] [he] [s] [ta] [l] [me] [i] [s] [te] [r] [sa] [pi] [e] [ha] [sondern] [mit] [die] [se] [r] [c]
+[t] [ta] [u] [s] [c] [he] [s] [ta] [l] [me] [i] [s] [te] [r] [sa] [pi] [e] [ha] [sich] [mit] [die] [se] [r] [c]
    G: unterschrieben, daß den schwedischen trouppen keine passage
-[la] [u] [ihr] [l] [UNTER] [s] [c] [h] [ri] [e] [be] [n] [dass] [den] [schwed] [i] [s] [c] [he] [n] [t] [ro] [fa] [p]
+[la] [u] [ihr] [l] [UNTER] [s] [c] [h] [ri] [e] [be] [n] [dass] [den] [schwed] [i] [s] [c] [he] [n] [t] [ro] [u] [p]
    G: durch Littowen verstattet werden solte.
-[pe] [n] [#182] [e] [pa] [s] [sa] [ge] [durch] [li] [t] [ta] [u] [e] [n] [ver] [s] [ta] [t] [te] [t] [wer] [den]
+[pe] [n] [#182] [e] [pa] [s] [sa] [ge] [durch] [li] [t] [ta] [u] [e] [n] [ver] [s] [ta] [t] [te] [t] [wer] [dass]
    G: demselben schon
 [sol] [te]  Worbey Er diese formalia gebrauchte, daß den  [#161] [e] [r] [n] [s] [c]
    G: damals von Cläuffel geträumt hette.
@@ -2470,7 +2470,7 @@ selben hielt Er dießes fürs rathsambste, daß  [ekmt] [mo] [c] [h] [te] [n] [u
 [n] [POHLEN] [sich] [auf] [ver] [ge] [ru] [c] [h] [te] [n] [oder] [auch] [bu] [ekmt] [sel] [s] [t] [solch] [e] [s]
    G: kliches an ihn
    G: Littower desto leichter
-[a] [n] [i] [e] [n]  schreiben wollen, gründent, die  [keit] [t] [ta] [we] [r] [des] [to] [#187] [er]
+[a] [n] [i] [e] [n]  schreiben wollen, gründent, die  [keit] [t] [ta] [we] [r] [des] [to] [#487] [er]
    G: dahin disponiren können, solchen durchzug ungehindert
 [der] [ke] [da] [hi] [n] [di] [s] [po] [ni] [re] [n] [#184] [e] [n] [solch] [e] [s] [durch] [zu] [g] [u] [n] [ge] [hi]
    G: zu verstatten
@@ -2558,11 +2558,11 @@ würde. Endlich vmb  [#6]  Vhr ließ der König die Abgeordnete zur audienz für
 beÿ welcher Gelegenheit ich mich auch inter assistentes darstellete Vndt Ihr Mtt auf-
 wartete, so daß Sie meiner gar wol warnehmen kunten. Vnterdeßen hette die Königin
    G: durch den Obersten Bernig
-(welcher ich des vorigen tages  [durch] [we] [o] [be] [r] [s] [te] [n] [be] [r] [pi] [g]  die bewü-
+(welcher ich des vorigen tages  [durch] [aus] [o] [be] [r] [s] [te] [n] [be] [r] [pi] [g]  die bewü-
    G: wegen Preüssen so anmüthige im-
 ste Vorschläge  [we] [ge] [n] [PREUSSI]  hinterbracht, Vndt damit  [so] [a] [n] [mu] [mochte] [ge] [i] [m]
    G: pressiones
-[h] [s] [si] [o] [ne] [s]  erwecket, daß Sie selbst sich darüber mit mir gerne vernehmen
+[re] [s] [si] [o] [ne] [s]  erwecket, daß Sie selbst sich darüber mit mir gerne vernehmen
 wollen) zu zweÿen mahlen fragen laßen, ob ich zugegen wäre, worauf meine Leüthe
 geantwortet, daß ich im Königlichen Gemach aufwartete. Nach dehme nun die
 GroßPohlen, Lubliner, vnd Podlachier mit ihren haranguen, vnd verlesung
@@ -2691,9 +2691,9 @@ hetten wißen wollen, waß Er beÿ diesem hofe würde anzubringen
    G: beÿ
 haben. Seihe meÿnung hierüber war diese, wann E K. Mt.  [bey] [die]
    G: diesem hofe waß fruchtbarliches verrichtet haben wolten,
-[se] [m] [ho] [fe] [was] [f] [ru] [c] [h] [t] [ba] [r] [lich] [es] [ver] [wi] [c] [h] [te]
+[se] [m] [ho] [fe] [was] [f] [ru] [c] [h] [t] [ba] [r] [lich] [es] [ver] [ri] [c] [h] [te]
    G: gelegenheit einigen esclat
-[t] , [ha] [be] [n] [wo] [l] [te] [n]  müßte alle  [ge] [durch] [ge] [n] [#175] [ein] [i]
+[t] , [ha] [be] [n] [wo] [l] [te] [n]  müßte alle  [ge] [le] [ge] [n] [#175] [ein] [i]
    G: zu machen und dadurch der wiedrigen parteÿ ombrage
 [ge] [n] [es] [c] [la] [t] [zu] [ma] [c] [he] [n] [und] [da] [durch] [der] [wi] [d] [ri] [ge]
    G: zu geben evitiret
@@ -2902,11 +2902,11 @@ befahl Er mir, zu E. K. M. zu schreiben, vndt  [bey] [der] [sel] [e] [n] [UNTER]
 mit dem Baron Zierowski Conferirt, welcher mir saget, das Er bey den Moskowitischen Gesanten
 gewesen, und Ihnen nach anleitung des vom Hn. Graf Geltbeim erhaltenen Schreibens rationes
    G: die zusammen ziehung E: K: M: armee in
-undt motiven vorgestellet habe, warumb Sie  [die] [zu] [sa] [m] [me] [n] [zi] [e] [hu] [n] [g] [#395] [ARMEE] [i] [n] [sel]
+undt motiven vorgestellet habe, warumb Sie  [die] [zu] [sa] [m] [me] [n] [zi] [e] [hu] [n] [g] [ekmt] [ARMEE] [i] [n] [sel]
    G: Liefland an der Düna nicht zu apprehendiren, noch einige widrige außlegung
-[e] [n] [la] [n] [d] [a] [n] [der] [t] [h] [ne] [nicht] [zu] [a] [pu] [p] [re] [he] [di] [re] [noch] [ein] [i] [ge] [wi] [d] [ri] [q] [aus] [le] [g] [#416] [von]
+[e] [n] [la] [n] [d] [a] [n] [der] [t] [h] [ne] [nicht] [zu] [a] [pu] [p] [re] [he] [di] [re] [noch] [ein] [i] [ge] [wi] [d] [ri] [ge] [aus] [le] [g] [#416] [von]
    G: von den übelwolenden anzunehmen hetten
-[den] [u] [be] [n] [wo] [n] [le] [n] [den] [a] [ver] [f] [ne] [h] [me] [n] [he] [t] [te] [n]  Womit Sie sehr woll zu frieden gewesen,
+[den] [u] [be] [l] [wo] [l] [le] [n] [den] [a] [f] [f] [ne] [h] [me] [n] [he] [t] [te] [n]  Womit Sie sehr woll zu frieden gewesen,
 undt solches Ihren Herren undt Principalen zu rapportiren versprochen.
 Gestern kahm Ein Courrier von Wien, so nur  [#4]  tage unterweges gewesen, welcher dem Baron Zie-
 rowski die zeitung brachte, von Graf Lambergs gutten Verrichtung zu Berlin, undt daß der
@@ -2972,7 +2972,7 @@ weitige reflexiones solle abhalten laßen, die von E. K. Mtt. mir com-
    G: der freien passage einiger frembden vol-
 mittirte negotiation wegen  [der] [f] [re] [y] [e] [n] [pa] [s] [sa] [ge] [nach] [er] [PREUSSI]
    G: ker zu bewerkstelligen,
-[we] [d] [te] [r] [zu] [be] [wer] [c] [k] [s] [te] [n] [li] [ge] [n] , besondern meine Sorg vor den
+[we] [i] [te] [r] [zu] [be] [wer] [c] [k] [s] [te] [n] [mo] [ge] [n] , besondern meine Sorg vor den
    G: solchem freien durchzug beim Könige
 anderen dahin zu trachten habe, wie  [ich] [so] [t] [ha] [ne] [n] [f] [re] [y] [e] [n] [durch] [zu]
    G: moge außwircken konnen.
@@ -2991,7 +2991,7 @@ möchte. Nach dehme ich aber verspüret, daß bemeldter Zierowski  [durch]
    G: Grafen von Lamberg impressiones auff die
 [abgesandt] [e] [n] [g] [ra] [fe] [n] [von] [me] [m] [be] [r] [g]  Ihme gemachte  [i] [m] [p] [re] [s] [si] [o]
    G: gerathen das der Churfr. mit E. K. May. dieses jahr nicht brechen und
-[auf] [die] [m] [ein] [ung] [ge] [ra] [t] [he] [n] [dass] [der] [churfurst] [mit] [ekmt] [die] [se] [s] [i] [a] [h] [r] [#190]
+[auf] [die] [m] [ein] [ung] [ge] [ra] [t] [he] [n] [dass] [der] [churfurst] [mit] [ekmt] [die] [se] [s] [i] [a] [h] [r] [nicht]
    G: die passage nach Pomeren zu wege zu bringen seyn
 [c] [he] [n] [und]  dahero auch  [die] [pa] [s] [sa] [ge] [nach] [PREUSSI] [zu] [we] [ge] [zu] [b] [ri] [n] [ge]
    G: mochte gestalten Er sich
@@ -3011,7 +3011,7 @@ geschloßenen foederis  [t] [ra] [c] [ti] [re] [k] [wer] [den] [ko] [n] [te]  So
    G: Ihm etwas temporisiren müßen und ehe an den König selbst mich
 [i] [h] [m] [et] [was] [te] [m] [po] [ri] [si] [re] [n] [mu] [s] [se] [n] [und] [als] [o] [a] [n] [b]
    G: ten
-[s] [t] [oder] [zu] [ha] [l] [te] [n]  beßer maßen bearbeitet; Er siehet zwar und
+[s] [t] [mich] [zu] [ha] [l] [te] [n]  beßer maßen bearbeitet; Er siehet zwar und
    G: diesen Hrn wehrender seiner Einsamkeit und mesnage
 re aber seyn  [die] [se] [m] [HERR] [n] [welche] [r] [der] [ein] [sa] [m] [keit] [und] [me] [s] [na] [ge]
    G: dann seiner
@@ -3030,7 +3030,7 @@ ich zwar, wie vorhin berichtet, gelegenheit gehabt den König gantz allein zu sp
    G: sehr wohl disponiret gefunden
 denselben auch  [se] [h] [r] [wo] [l] [di] [s] [po] [ni] [r] [t] [ge] [fu] [n] [den]  mehren
    G: unfüglich per indirectum et sub eo titulo zu
-[durch] [zu] [g]  (jedoch  [pe] [r] [i] [n] [di] [re] [c] [tu] [m] [e] [t] [su] [b] [b] [li] [o] [s] [li]
+[durch] [zu] [g]  (jedoch  [pe] [r] [i] [n] [di] [re] [c] [tu] [m] [e] [t] [su] [b] [b] [li] [o] [s] [dass]
    G: zu treten
 [zu] [s] [ta] [t] [te] [n]  Allein dießes habe dennoch nachgehendts remarquiret
    G: durch die von Sr. Churfürst. Erklärung einigermassen
@@ -3040,7 +3040,7 @@ der König theils  [durch] [die] [von] [des] [churfurst] [e] [n] [er] [l] [la] [
    G: Zeitungen die hofnung von dem Churfürsten
 [ne] [ze] [i] [x] [ung] [e] [n] , scheinet auch daß  [die] [ho] [f] [n] [ung] [von] [de] [m] [churfurst] [e] [n]
    G: einen Considerablen beystandt zum
-[ein] [e] [n] [co] [n] [si] [der] [a] [b] [le] [n] [bey] [s] [ta] [n] [d] [zu] [o]  TürckenKriege zu
+[ein] [e] [n] [co] [n] [si] [der] [a] [b] [le] [n] [bey] [s] [ta] [n] [d] [zu] [m]  TürckenKriege zu
    G: remissor in proposito worden
 erhalten, etwas  [re] [mi] [s] [si] [o] [r] [i] [n] [p] [ro] [po] [si] [to] [wo] [r] [den]  Dazwzu
    G: die sachen in
@@ -3048,7 +3048,7 @@ auch nicht wenig geholffen die neülich erhaltene nachricht, daß  [die] [sa] [c
    G: Littawen nicht nach des Königs wünsch von statten gehen
 [n] [li] [t] [ta] [u] [e] [n] [nicht] [nach] [des] [KOENIG] [s] [wu] [n] , [s] , [c] [h] [von] [s] [ta] [t] [te] [n] [ge]
    G: die frantzösische practiquen überhandt genommen
-[he] , [n]  weil daselbst  [die] [sel] [c] [he] [su] [ca] [c] [ti] [q] [u] [e] [n] [uber] [ha] [n] [d] [ge] [no]
+[he] , [n]  weil daselbst  [die] [sel] [c] [he] [su] [ca] [c] [ti] [q] [u] [e] [n] [uber] [ha] [di] [d] [ge] [no]
    G: und gefährliche Conspirationes wider den König decouurirt seyn
 [m] [me] [di] [und] [ge] [fa] [o] [r] [lich] [e] [co] [n] [s] [pi] [ca] [tion] [e] [s] [wi] [der] [den] [KOENIG] [de] [co] [u]
    G: selbe zu dämpfen anjetzo
@@ -3080,7 +3080,7 @@ dann da würde man für allen dingen  [ver] [sich] [er] [ung] [ha] [be] [n] [wo]
    G: theilen und handthabung gütter Ordre und Krieges disciplin solte ge=
 [durch] [den] [t] [he] [i] [le] [n] [und] [ha] [n] [d] [ha] [b] [ung] [gu] [t] [te] [r] [o] [r] [d] [re] [und]
    G: halten werden
-[t] [ri] [e] [g] [s] [di] [s] [ci] [p] [li] [n] [sol] [e] [ge] [ha] [l] [te] [n] [wer] [den]  Worüber
+[k] [ri] [e] [g] [s] [di] [s] [ci] [p] [li] [n] [sol] [e] [ge] [ha] [l] [te] [n] [wer] [den]  Worüber
 ich biß dato noch keine satsame instruction habe; in deßen aber sowol hier
 bey hofe allß sonsten vernommen, daß E. K. Mtt den Obristen Baron
 Welling von Halle ab an den Polnischen Hof zu gehen, und alhier zu ne=
@@ -3414,7 +3414,7 @@ liche intrigues Zu detourniren bemühet seÿn werde;  [weil] [mi] [r] [aber] [u]
    G: schüldiget Zu seÿn die affairen beÿ diesem Hofe nicht
 [c] [hu] [l] [di] [g] [t] [zu] [s] [ein]  wann  [die] [#252] [s] [bey] [die] [se] [m] [ho] [fe] [nicht] [nach]
    G: nach E: K: M:tt wunsch undt willen außschlagen werden
-[ekmt] [aber] [f] [s] [c] [h] [von] [wi] [l] [le] [f] [aus] [s] [c] [h] [la] [ge] [n] [wer] [den]
+[ekmt] [aber] [f] [s] [c] [h] [und] [wi] [l] [le] [f] [aus] [s] [c] [h] [la] [ge] [n] [wer] [den]
 Solte das glück dem König fügen, daß Er Kamieniec sampt der Ukraine re=
 cuperirte, dürffte dem Wetter nicht Viel Zu trauen seÿn, denn ich Versichere
 E. K. Mtt. daß die Pohlen Lieflandt noch nicht vergeßen können, welches auch Leüthe
@@ -3556,7 +3556,7 @@ Knecht
 G. Zierowsky
 
 == dorffler-19-101/p0172R
-[i] [#7] br  [#1684]  Durchläuchtigster Großmächtigster König ps. Stock d  [a]  Nov.
+[i] [#7] br  [#1684]  Durchläuchtigster Großmächtigster König ps. Stock d  [f]  Nov.
 Allergnädigster Herr.  [#1684]
 Der von der Republique Venedig an diesen Königlichen Hof abgefertigte neue Minister
 Geronimo Alberti, welcher den Ambassadr Morosini ablösen soll, kompt nicht alß
@@ -3591,15 +3591,15 @@ und auf dem bevorstehenden Reichstage im nahmen seines Königes sehr
 wichtige und plausible offerten dem Könige und der Republique Vor=
 theilen vortragen werde. Nun lasse ich mir diese Sorge fürnemlich
    G: fürfallender speciositate
-angelegen seÿn, wie ich mich beÿ sothaner  [fur] [fa] [l] [fa] [f] [den] [re] [f] [co] [f]
+angelegen seÿn, wie ich mich beÿ sothaner  [fur] [fa] [l] [u] [f] [den] [re] [f] [co] [f]
    G: gegen dessen Ministro werde comportiren sollen
 [fo] [re] [f] [ge] [ge] [f] [die] ,  [se] [m] [mi] [ni] [s] [t] [ro] [wer] [de] [co] [m] [ko] [r] [wi]
    G: bey ihm noch bey
-[re] [f] [so] [l] [le] [f]  damit ich nicht  [bey] [do] [h] [m]  in defectu  [noch] [bey]
+[re] [f] [so] [l] [le] [f]  damit ich nicht  [bey] [i] [h] [m]  in defectu  [noch] [bey]
    G: der Kayserlichen Parthey undt Jhro Ministros
-[der] [ung] [mi] [e] [f] [pa] [r] [t] [he] [p] [und] [der] [o] [mi] [ni] [s] [t] [ri] [s]  in
+[der] [KAYSER] [mi] [e] [f] [pa] [r] [t] [he] [y] [und] [der] [o] [mi] [ni] [s] [t] [ri] [s]  in
    G: peccire und anstossen möge.
-excessu  [pe] [c] [ci] [re] [f] [und] [a] [f] [s] [to] [s] [se] [f] [mo] [#87?]  Wann Jhr
+excessu  [pe] [c] [ci] [re] [f] [und] [a] [f] [s] [to] [s] [se] [f] [mo] [ge]  Wann Jhr
 
 == dorffler-19-101/p0202R
 aller unterthänigst zu bitten habe, daß E. K. Mtt. wie ich mich hier ein
@@ -3730,19 +3730,19 @@ abfertigung der ordinaire von dannen welche vorhin am Mittwoch abgelaufen, auf
 den Monntag verlegt hatt; daß man also nunmehr anstatt  [ge]  tage derer  [a]  haben
 muß vmb Antwort auf einen brief Zu erlangen; Welches nicht wenig Confusion und
    G: Man hält dafur es ge-
-verhindernuß in der Correspondenz verursachet.  [ma] [f] [ha] [l] [t] [da] [fur] [es] [be]
+verhindernuß in der Correspondenz verursachet.  [ma] [f] [ha] [l] [t] [da] [fur] [es] [ge]
    G: schehe zu dem ende damit der zu Lemberg sich enthaltenden
-[s] [c] [he] [he] [zu] [de] [m] [e] [f] [de] [da] [mit] [den] [zu] [le] [m] [e] [r] [g] [sich] [e] [f] [t] [ha] [l] [te]
+[s] [c] [he] [he] [zu] [de] [m] [e] [n] [de] [da] [mit] [den] [zu] [le] [m] [e] [r] [g] [sich] [e] [f] [t] [ha] [l] [te]
    G: außwertigen ministres ihre correspondence
-[f] [den] [aus] [wa] [s] [ti] [ke] [f] [mi] [ni] [s] [t] [re] [s] [ih] [e] [co] [r] [re] [r] [po] [n] [den] [ze]  et-
+[f] [den] [aus] [wa] [s] [ti] [ge] [f] [mi] [ni] [s] [t] [re] [s] [ih] [e] [co] [r] [re] [r] [po] [n] [den] [ze]  et-
    G: retardirt werde vndt der Polnische Hoff umb soviel Hoher ha-
-was  [re] [ta] [r] [di] [r] [t] [we] [r] [de]  und der  [ho] [f] [da] [ri] [n] [n] [den] [vor] [als] [g] [ha]
+was  [re] [ta] [r] [di] [r] [t] [we] [r] [de]  und der  [ho] [f] [da] [ri] [n] [n] [den] [vor] [ation] [g] [ha]
    G: ben möge nicht gerne mehr sihet, daß zu Wien so
-[be] [f] [mo] [be]  weil man schon  [nicht] [be] [r] [ne] [me] [h] [r] [si] [e] [hi] [t] [dass] [i] [n] [WIEN]
+[be] [f] [mo] [be]  weil man schon  [nicht] [ge] [r] [ne] [me] [h] [r] [si] [e] [hi] [t] [dass] [i] [n] [WIEN]
    G: fomb eclattire waß etwa zu Jaworow oder Zolkiew gethan
 [so] [ge] [k] [t] [h] [es] [c] [la] [t] [ti] [re] [was] [e] [t] [wa] [zu] [i] [a] [wo] [ro] [w] [oder]
    G: undt gehandelt wirdt
-[zo] [l] [ki] [e] [w] [ge] [t] [ha] [f] [und] [be] [ha] [f] [de] [l] [t] [wir] [d]  briefe so mit besagter
+[zo] [l] [ki] [e] [w] [ge] [t] [ha] [f] [und] [ge] [ha] [f] [de] [l] [t] [wir] [d]  briefe so mit besagter
 Post von Lemberg einkommen, bringen mit, daß sich der König mit der ganzen
 
 == dorffler-19-101/p0209L
@@ -3782,11 +3782,11 @@ hindernüß in der Correspondenz vervrsachet.  [ma] [n] [ha] [l] [t] [da] [fur] 
    G: zu dem ende damit dehr zu Lemberg sich enthaltenden außwärtigen
 [he] [zu] [de] [m] [e] [n] [de] [da] [mit] [den] [zu] [le] [m] [bu] [he] [g] [sich] [e] [n] [t] [ha] [l] [te] [n] [den]
    G: Ministren ihre Correspondentz
-[aus] [wa] [k] [ti] [ge] [n] [lich] [ni] [s] [t] [re] [s] [ih] [e] [co] [r] [re] [r] [po] [n] [den] [ze]
+[aus] [wa] [r] [ti] [ge] [n] [mi] [ni] [s] [t] [re] [s] [ih] [e] [co] [r] [re] [r] [po] [n] [den] [ze]
    G: retardiret werde Hoff darinn Ihren
-etwas  [re] [ta] [r] [di] [r] [t] [we] [r] [de]  und der  [ho] [f] [da] [ri] [n] [n] [den] [re] [zu]
+etwas  [re] [ta] [r] [di] [r] [t] [we] [r] [de]  und der  [ho] [f] [da] [ri] [n] [n] [den] [ze] [zu]
    G: Vorzug haben möge nicht geren mehr siehet daß in Wien
-[g] [ha] [be] [n] [mo] [d]  weil man schon  [nicht] [ge] [r] [ne] [me] [h] [r] [si] [e] [he] [t] [dass]
+[g] [ha] [be] [n] [mo] [ge]  weil man schon  [nicht] [ge] [r] [ne] [me] [h] [r] [si] [e] [he] [t] [dass]
    G: so foort esclatire waß etwa zu Javorow oder zu Zulkiew gethan vndt
 [i] [n] [t] [#6] [so] [ge] [r] [t] [h] [es] [c] [la] [t] [ti] [re] [was] [e] [t] [wa] [zu] [i] [a] [wo]
    G: gehandelt wirdt
@@ -3806,7 +3806,7 @@ seinen Schluß erreichen wirdt.  [i] [n] [so] [n] [der] [he] [i] [t] [aber]  wir
    G: frantzösischen intrigyen viel geredet, daß Sie die rathschläge diesen
 [i] [s] [c] [he] [n] [i] [n] [t] [ri] [gu] [e] [n] [wider] [ge] [re] [de] [t] [dass] [si] [e] [auf] [ta] [t] [h] [x]
    G: Reichstages gewaltig brouilliren undt damit deßen schluß undt
-[c] [h] [la] [ge] [die] [se] [re] [i] [c] [h] [s] [ta] [ge] [s] [ge] [wa] [l] [ti] [g] [b] [ro] [u] [i] [l] [li]
+[c] [h] [la] [ge] [die] [se] [re] [o] [c] [h] [s] [ta] [ge] [s] [ge] [wa] [l] [wo] [g] [b] [ro] [u] [i] [l] [li]
    G: folgends den feldzug auf die lange banck schieben werden
 [re] [n] [und] [da] [mit] [des] [se] [n] [s] [c] [h] [lu] [s] [und] [fo] [l] [ge] [n] [d] [s] [den] [fe] [q] [d] [ze]
 [g] [auf] [die] [la] [n] [ge] [ba] [n] [c] [fo] [s] [c] [hi] [e] [be] [n] [we] [den]
@@ -3864,9 +3864,9 @@ Pohlen gerne waß prognosticiren pflegen, es fur ein sonderliches gluck halten
    G: Jn son
 dafern dieser Reichßtag umb Ostern seinen Schluß erreichen wirdt.  [i] [n] [einem]
    G: derheit aber Frantzösischen intriquen viel gere
-[n] [der] [he] [f] [t] [aber]  wirdt von den  [#309] [i] [s] [c] [he] [n] [i] [n] [t] [ri] [gu] [e] [g]
+[n] [der] [he] [f] [t] [aber]  wirdt von den  [FRANTZOSI] [i] [s] [c] [he] [n] [i] [n] [t] [ri] [gu] [e] [g]
    G: det, daß Sie die Rathschläge dieseß reichßtages gewaltig broui
-[wider] [ge] [se] [de] [t] [dass] [si] [g] [die] [ra] [t] [he] [s] [c] [h] [la] [ge] [die] [se] [re] [i] [c] [#4]
+[wider] [ge] [se] [de] [t] [dass] [si] [g] [die] [ra] [t] [r] [s] [c] [h] [la] [ge] [die] [se] [re] [i] [c] [#4]
    G: liren undt domit deßen schluß undt folgends den feldtzug auf
 [s] [ta] [ge] [s] [ge] [wa] [l] [li] [g] [b] [ro] [u] [i] [l] [li] [re] [n] [und] [da] [mit] [der] [se] [f]
    G: die lange banck schieben werden,
@@ -3884,11 +3884,11 @@ dafern dieser Reichßtag umb Ostern seinen Schluß erreichen wirdt.  [i] [n] [ei
    G: ordre zu ertheilen wie ich mich
 [s] [te] [m] [ge] [me] [s] [se] [ne] [o] [r] [d] [re] [zu] [er] [t] [he] [i] [le] [n] [wi] [ich] [mich] [#6]
    G: gegen ihm comportieren soll Kaÿserliche
-[ge] [n] [i] [h] [m] [co] [m] [po] [r] [ti] [re] [n] [so] [r]  damit die  [KAYSER] [lich] [e] [e]
+[ge] [n] [f] [h] [m] [co] [m] [po] [r] [ti] [re] [n] [so] [l]  damit die  [KAYSER] [lich] [e] [e]
    G: Ministri mit ihrer Parteÿ keine ombrage
 [ni] [s] [t] [ri] [mit] [ih] [er] [pa] [k] [t] [he] [y] [k] [ein] [e] [o] [m] [b] [ra] [ge]  daßu sie so
    G: sehr geneigt, darab nehmen mögen
-[se] [a] [r] [ge] [ne] [i] [g] [t] [de] [ra] [b] [ne] [h] [me] [n] [mo] [ge] [n]  Weil mich auch thei
+[se] [h] [r] [ge] [ne] [i] [g] [t] [de] [ra] [b] [ne] [h] [me] [n] [mo] [ge] [n]  Weil mich auch thei
    G: die equippage zu der mir Ee. Cfr. Dl. befohlenen reise
 [die] [e] [q] [be] [i] [p] [pa] [ge] [zu] [der] [von] [ekmt]  mir an  [ge] [fo] [h] [la] [ne] [n] [re] [p]
    G: lägnig der Tranckst. worzu die nöthige undt z
@@ -3908,9 +3908,9 @@ dafern dieser Reichßtag umb Ostern seinen Schluß erreichen wirdt.  [i] [n] [ei
    G: mit behörigen Mitteln versorgen, damit ich auf bevorsthende
 [n] [und] [mich] [mit] [be] [ho] [ri] [ge] [n] [mit] [te] [l] [n] [ver] [so] [r] [ge] [n] [da] [mit] [ich] [auf] [be] [konig]
    G: Reichßtage wo der punct von der Lifländischen
-[s] [te] [he] [f] [de] [m] [wo] selbst  [der] [pu] [f] [c] [k] [t] [von] [der] [li] [e] [f] [la] [f] [di]
+[s] [te] [he] [n] [de] [m] [wo] selbst  [der] [pu] [f] [c] [k] [t] [von] [der] [li] [e] [f] [la] [n] [di]
    G: gräntze=scheidung wieder urgirt werden
-[s] [c] [he] [f] [g] [ra] [f] [t] [bo] [s] [c] [he] [i] [h] [ung] [wi] [der] [u] [r] [gi] [r] [t] [wer] [den] [du] [r]
+[s] [c] [he] [n] [g] [ra] [n] [t] [bo] [s] [c] [he] [i] [h] [ung] [wi] [der] [u] [r] [#08] [r] [t] [wer] [den] [du] [r]
    G: dörffte, Ew. K. Mt. hohes interesse zu beobachten capabel
 [f] [#182] [ekmt] [ho] [he] [s] [i] [#182] [r] [es] [se] [zu] [be] [o] [ba] [c] [h] [te] [n] [ca] [pa] [be] [l]  seÿn möge.
 Verschiedene Anzeigungen geben mehr undt mehr an den tag daß die freundtschafft zwi=
@@ -3994,13 +3994,13 @@ hievon  [noch] [auch] [da] [to] [nicht] [s] [nach] [r] [ich] [t] [lich] [es] [we
    G: werden gewehret soll; Weil nun
 [wi] [der] [m] [p] [re] [c] [he] [f] [sol] [weil] [nu] [n]  meines geringen und un
    G: E: K: M: hohes interesse erfordert, das
-maßgeblichen Erachtens  [ekmt] [ho] [he] [s] [i] [n] [re] [k] [se] [lu] [fo] [r] [der] [t]
+maßgeblichen Erachtens  [ekmt] [ho] [he] [s] [i] [n] [re] [s] [se] [er] [fo] [r] [der] [t]
    G: ich materie möge informirt seÿn, So stelle es Ew
 [dass] [ich]  in dieser  [ma] [te] [ri] [e] [mo] [ge] [i] [f] [fo] [r] [mi] [r] [t] [se] [y] [n] [#1]
    G: Königl: Mt: tieffster unterthänigkeit hein
 [s] [te] [l] [le] [es] [ekmt]  in  [ti] [e] [f] [s] [te] [r] [UNTER] [t] [ha] [ni] [g] [keit]  an. [he]
    G: ob Sie mir deßfals einiges esclaircissement geben zu lassen
-[m] [b] [o] [b] [so] [e] [mi] [r] [des] [u] [l] [s] [ein] [i] [ge] [s] [ma] [c] [la] [i] [r] [ci] [s] [#12]
+[m] [b] [o] [b] [so] [e] [mi] [r] [des] [fa] [l] [s] [ein] [i] [ge] [s] [es] [c] [la] [i] [r] [ci] [s] [#12]
    G: ergnädigst geruhen wollen
 [m] [ent] [ge] [be] [i] [zu] [la] [s] [se] [n] all. [er] [g] [na] [di] [g] [s] [t] [ge] [ru] [he] [n]
 [wo] [l] [le] [n]  Womit beÿ nümahr herannahendem Reichstage und m
@@ -4077,13 +4077,13 @@ teren allergnädigsten Schreiben vom  [i] t und  [k] t Januarij  [mit] [a] [l] [
    G: thänigstem danck wohl vergnügt,
 [t] [ha] [ni] [g] [s] [te] [di] [da] [n] [c] [k] [welche] [r] [ge] [s] [ta] [l] [t]  dz die darin enthaltene
    G: unterschiedtliche summa diesem jahre noch resti
-[UNTER] [s] [e] [hi] [e] [d] [lich] [e] [po] [s] [te] [n]  theils mein von  [die] [se] [m] [i] [a] [h] [re] [noch]
+[UNTER] [s] [c] [hi] [e] [d] [lich] [e] [po] [s] [te] [n]  theils mein von  [die] [se] [m] [i] [a] [h] [re] [noch]
    G: rendtes theils was mir von den vorigen jahren noch zukomt
 [re] [s] [ti] [re] [n] [des] [t] [he] [i] [l] [s] [was] [mi] [r] [von] [den] [vor] [i] [ge] [n] [i] [a] [h] [re]
    G: ablehnung der Curfländischen
 [i] [noch] [zu] [ko] [m] [p] [t]  theils auch was ich zu  [a] [b] [le] [h] [i] [ung] [der] [li] [e] [f]
    G: grentz Commission zu unterbrec=
-[i] [di] [s] [c] [he] [n] [g] [ra] [n] [t] [z] [co] [m] [mi] [s] [si] [o] [n]  und  [zu] [hi] [f] [te] [r] [t]
+[i] [di] [s] [c] [he] [n] [g] [ra] [n] [t] [z] [co] [ge] [mi] [s] [si] [o] [n]  und  [zu] [hi] [f] [te] [r] [t]
    G: hung deß däßigen Ministri negotiation, und zur transp ceden=
 [re] [i] [b] [ung] [des] [#252] [i] [s] [c] [he] [n] [mi] [ni] [s] [t] [ri] [ne] [go] [ti] [ation] [f] [zu] [r]
    G: dirt das praesent für Morstein
@@ -4091,7 +4091,7 @@ teren allergnädigsten Schreiben vom  [i] t und  [k] t Januarij  [mit] [a] [l] [
    G: die Bischöffe von Kiow und Luccoria für
 [ti] [n]  undt die für  [die] [BISCHOF] [e] [von] [k] [y] [o] [w] [und] [lu] [ce] [o] [ri] [a]  wie auch  [fur] [den]
    G: den Secretarium Sarnowskij und den Abt Hackij destinirte honoraria
-[se] [c] [re] [ti] [ri] [u] [m] [sa] [r] [no] [da] [s] [ki] [und] [a] [b] [t] [ha] [c] [ki] [de] [s] [ti] [ni]
+[se] [c] [re] [ti] [ri] [u] [m] [sa] [r] [no] [da] [s] [ki] [und] [a] [b] [t] [ha] [d] [ki] [de] [s] [ti] [ni]
    G: mit aller ersten zu übermachen
 [r] [te] [ho] [no] [ra] [ri] [a]  betreffen und mir  [mit] [a] [l] [er] [f] [he] [s] [te] [m] [zu] [uber] [ma] [e]
    G: nachdrückliche ordre Stats Contoir
@@ -4238,13 +4238,13 @@ Er, daß  [ekmt] [i] [n] [t] [er] [es] [se] [e] [be] [n] [so] [we] [ni] [g] [als
 
 == dorffler-19-101/p0278L
    G: dieses werck hintertreiben zu helffen, worauf ich die-
-[se] [s] [we] [k] [c] [k] [hi] [n] [te] [m] [t] [re] [i] [be] [n] [zu] [he] [l] [f] [#8?]
+[se] [s] [we] [k] [c] [k] [hi] [n] [te] [r] [t] [re] [i] [be] [n] [zu] [he] [l] [f] [ge]
    G: antwort gab, das Ich
-[f] [wo] [r] [auf] [ich] [die] [se] [a] [n] [t] [wo] [r] [t] [ga] [f] [dass] [ich]  Super
+[f] [wo] [r] [auf] [ich] [die] [se] [a] [n] [t] [wo] [r] [t] [ga] [b] [dass] [ich]  Super
    G: wovon Ew. K.Mt. Vielleicht noch nichts gewust,
 hoc nouo emergenti,  [wo] [von] [ekmt] [wider] [le] [ich] [t] [noch] [nicht] [s] [ge] [wu]
    G: nicht instruiret were, wolte es aber ad referendum nehmen.
-[s] [t] [nicht] [#315] [i] [r] [t] [wa] [re] [wo] [l] [mit] [es] [aber] [a] [h] [re] [fe]
+[s] [t] [nicht] [#315] [i] [r] [t] [wa] [re] [wo] [l] [mit] [es] [aber] [a] [h] [re] [gi]
 [re] [n] [du] [m] [ne] : [h] [me] [n]  Dises ist, waß E. K. Mtt ich für
 dises mahl in uth habe hinterbringen sollen. Im übrigen mit tief-
 ster Deuotion Verbleibendt
@@ -4300,11 +4300,11 @@ Schatzmeister würde verfolgen helfen, der solte wißen,
 daß Er solches nicht Ihm, sondern Regi Christianissimo selbs
 gethan, undt dafür eine gewiße reuenge zugewarten habe.
    G: Er soll von der Königin viel dinges in Chiffren geschrieben
-[li] [sol] [von] [der] [#318] [i] [n] [wider] [di] [g] [s] [i] [n] [f] [hi] [o]
+[li] [sol] [von] [der] [#318] [i] [n] [wider] [di] [g] [s] [i] [n] [f] [hi] [n]
    G: haben, welches nicht zum besten gereichen dürfte
-[re] [n] [ge] [s] [c] [h] [ri] [e] [be] [n] [ha] [be] [n] [welche] [s] [nicht] [h]
+[re] [n] [ge] [s] [c] [h] [ri] [e] [be] [n] [ha] [be] [n] [welche] [s] [nicht] [#4]
    G: wenn es geöfnet werden solte
-[m] [be] [s] [te] [n] [ru] [c] [he] [si] [n] [r] [f] [mit] [wa] [f] [n]
+[m] [be] [s] [te] [n] [ru] [c] [he] [n] [n] [r] [f] [mit] [wa] [f] [n]
 [es] [ge] [ru] [h] [r] [t] [wer] [den] [sol] [te]  Seine freunde undt
 partisanten haben sich dahin sehr bemühet, daß Er sampt ihnen
 per Decretum à Crimine perduellionis & læsæ Majestatis loß
@@ -4371,12 +4371,12 @@ Stifft Pilten
    G: diese
 Stifft Pilden geben dürffte. Ich spüre schon so viel, daß  [die] [se]
    G: innovation seltsame motus in Churland erwecke, undt
-[i] [f] [no] [u] [a] [#200] [se] [l] [za] [me] [mo] [tu] [s] [i] [n] [cu] [r]
+[i] [f] [no] [u] [a] [tion] [se] [l] [za] [me] [mo] [tu] [s] [i] [n] [cu] [r]
    G: den Piltnischen Adell, der voller feuer und courage
 [la] [gi] [d] [er] [we] [c] [ke] [und] [den] [pi] [l] [t] [ni] [s] [c] [he] [n]
    G: ist, leichtlich zu einem abfall animiren durffte
 [a] [de] [l] [der] [u] [o] [l] [er] [fe] [u] [er] [und] [co] [u] [ra] [ge] [ist]
-[le] [ich] [t] [lich] [zu] [ta] [e] [m] [a] [b] [fa] [l] [a] [ni] [mi] [re] [n] [gi]
+[le] [ich] [t] [mi] [zu] [ta] [e] [m] [a] [b] [fa] [l] [a] [ni] [mi] [re] [n] [gi]
    G: außwertigen potentaten
 [r] [f] [te]  wann sie eines  [aus] [wa] [r] [ti] [ge] [n] [po] [te]
    G: Schutz undt Hülfe obtiniren könten wie dann etliche
@@ -4394,7 +4394,7 @@ Stifft Pilden geben dürffte. Ich spüre schon so viel, daß  [die] [se]
    G: wenn Sie nur deßen gewiß seÿn könten, daß E: Königl:
 [re] [fu] [du] [u] [m] [ne] [h] [me] [f] [wo] [l] [te] [n] [wa] [n] [n] [si]
    G: M:tt ihre protection ihnen nicht versagen würden, Von
-[e] [nu] [r] [k] [se] [n] [ge] [su] [s] [se] [y] [n] [ko] [n] [te] [n] [dass]
+[e] [nu] [r] [auf] [se] [n] [ge] [wi] [s] [se] [y] [n] [ko] [n] [te] [n] [dass]
    G: diesen ist einer, der sich in krieges diensten umb die
 [ekmt] [ihr] [e] [p] [ro] [te] [c] [tion] [i] [h] [ne] [n] [nicht] [ver] [sa] [ge] [f]
    G: republic meritirt gemacht
@@ -4415,26 +4415,26 @@ an  [ge] [se] [ho] [f] [ist] [ge] [s] [te] [r] [n] [bey] [mi] [r] [ge] [we] [se]
    G: wünschte, alß
 [t] [ti] [re] [n] [wo] [l] [te]  und nicht anders  [wu] [n] [s] [c]
    G: E: K: M:t diensten sein Leben zuzubringen,
-[h] [te] [als]  in  [ekmt] [die] [n] [s] [te] [n] [s] [ein] [le] [ge] [n] [als]
+[a] [te] [als]  in  [ekmt] [die] [n] [s] [te] [n] [s] [ein] [le] [ge] [n] [als]
    G: wann Er daß glück haben könte beÿ dero Milice ein
-[z] [u] [e] [ri] [n] [ge] [n] [we] [f] [n] [er] [#854] [g] [lu] [c] [k] [ha]
+[z] [u] [e] [ri] [f] [ge] [n] [we] [f] [n] [er] [#854] [g] [lu] [c] [k] [ha]
    G: anständiges emploÿ zuerlangen, zu welchem ende Er
 [be] [f] [ko] [n] [te] [bey] [der] [o] [mi] [li] [c] [ein] [a] [n] [s] [c]
    G: vorhabens ist, selbst eine reise diesen Sommer nach
 [n] [di] [ge] [s] [n] [m] [p] [lo] [y] [zu] [er] [la] [n] [ge] [f] [zu] [e]
    G: Schweden zuthun, undt gelegenheit zu suchen, umb
-[l] [c] [he] [m] [e] [f] [g] [er] [vor] [ha] [ge] [n] [s] [ist] [sel] [r]
+[l] [c] [he] [m] [e] [f] [g] [er] [vor] [ha] [be] [n] [s] [ist] [sel] [r]
    G: E: Königl: M:t persöhnlich aufzuwarten, mich dahero
 [t] [ein] [h] [ri] [y] [se] [die] [se] [f] [so] [m] [me] [r] [nach]
    G: bittlich ersucht, daß beÿ E: Königl: M:t ich mit einem
-[schwed] [n] [zu] [t] [h] [s] [n] [und] [ge] [le] [ge] [f] [he] [i] [t] [zu]
+[schwed] [n] [zu] [t] [h] [u] [n] [und] [ge] [le] [ge] [f] [he] [i] [t] [zu]
    G: gutten worte seiner gedencken undt durch Versiche-
 [su] [c] [he] [n] [um] [ekmt] [pe] [r] [so] [f] [lich] [auf] [zu] [wa] [r]
    G: rung seiner unterthänige devotion
-[te] [f] [m] [ich] [da] [he] [ro] [bi] [t] [lich] [er] [su] [c] [h]
+[te] [f] [m] [ich] [da] [he] [ro] [t] [t] [lich] [er] [su] [c] [h]
 [t] [dass] [bey] [ekmt] [ich] [mit] [ein] [lich] [m] [gu] [t] [te] [m] [wo] [ha]
 [te] [s] [ein] [er] [ge] [de] [f] [c] [ke] [f] [und] [durch] [ver] [s] [ich]
-[er] [c] [s] [ein] [er] [UNTER] [t] [ha] [ni] [ge] [n] [de] [u] [o] [tion]  Ihm
+[er] [ung] [s] [ein] [er] [UNTER] [t] [ha] [ni] [ge] [n] [de] [u] [o] [tion]  Ihm
    G: access und gnädiges gehör beÿ E: Königl: Maÿ:t
 einen  [a] [c] [ce] [s] [und] [g] [na] [di] [ge] [s] [ge] [ho] [r] [bey] [o]
    G: vorbereiten mögte
@@ -5816,18 +5816,18 @@ Republ: keine pflicht zuleisten
    G: Deputirte vom district, sonder d
 [die] [de] [pu] [ti] [r] [te] [u]
    G: Abgeordnete vornehnen laße
-[we] [i] [f] [e] [x] [mochte] [#232] [be]
+[we] [i] [f] [e] [x] [mochte] [vor] [be]
    G: das E: Könige: Maj: das Fürsten
 [b] [ge] [o] [y] [ich] [ne] [bey] [n]
    G: einzuziehen wolten die Piltner S
-[h] [wa] [n] [n] [si] [e] [zu] [n]
+[f] [wa] [n] [n] [si] [e] [zu] [n]
    G: für Ihren Lehnsherrn rekognoscire
-[solch] [dass] [FRANTZOSI] [e] [n] [t] [h] [#2?]
+[ekmt] [dass] [#308] [e] [n] [t] [h] [g]
    G: faßen.
-[n] [t] [c] [hu] [t] [z] [ne] [h]
+[f] [s] [c] [hu] [t] [z] [ne] [h]
 [f] [pu] [e] [sich] [von] [POHLEN] [t] [#12]
-[le] [h] [n] [t] [HERR] [n] [re] [co]
-[t] [nu] [n] [ihr] [e] [n] [wo]
+[le] [h] [n] [s] [HERR] [n] [re] [co]
+[t] [nu] [f] [ihr] [e] [n] [wo]
 wird die Zeit bald lehren.
 
 == dorffler-19-102/p0328R
@@ -5858,7 +5858,7 @@ Republ keine pflicht Zuleisten schuldig.  [ihr] [mich] [ha] [be] [n] [sich]
    G: daß S: Königl: Maÿ: das Fürstenthumb Churland in ihren schutz nehmen
 [b] [be] [o] [y] [pe] [ne] [te] [n] [#309] [ne] [h] [la] [n] [brandenburg] [s] [se]
    G: würden, so wolten die sich von Pohlen trennen, und S: Königl: Maÿ:
-[n] [wa] [n] [n] [si] [e] [zu] [y] [ver] [sich] [e] [r] [t] [be] [y] [n] [bey]
+[n] [wa] [n] [n] [si] [e] [zu] [n] [ver] [sich] [e] [r] [t] [be] [y] [n] [dass]
    G: für ihren Lehnsherrn recognosciren, wie weit nun ihren Worten zu
 [ekmt] [dass] [FURST] [e] [n] [t] [h] [um] [cu] [r] [la] [n] [d] [i] [n] [ih] [e]
    G: trauen
@@ -5994,7 +5994,7 @@ schreibt,  [der] [a] [b] [t] [ha] [c]
    G: zu leisten, in hoffnung, der Pabst
 [p] [n] [ich] [gi] [mi] [r] [zu] [ver] [b]
    G: Tarnowski
-[ci] [a] [zu] [le] [i] [s] [te] [n] [#2?]
+[ci] [a] [zu] [le] [i] [s] [te] [n] [i]
 [s] [t] [ver] [e] [ver] [e]
 [no] [w] [s] [ki]  werde beÿ mir
 hernegst einen Visite nehmen
@@ -6010,7 +6010,7 @@ hernegst einen Visite nehmen
    G: durchs Rathhauß machen decc
 [die] [se] [m] [ho] [r] [e] [t] [l] [d]
    G: Wenn ich aber ohn
-[re] [n]  könne;  [wo] [ri] [n] [n] [ich]
+[re] [n]  könne;  [wo] [ri] [n] [n] [#477]
 [ni] [g] [den] [r] [ich] [te] [n] [wer]
 Beÿ schlüßung meiner Briefe Ve
 gen Session die von der driten
@@ -6091,7 +6091,7 @@ gutte officia würde præstiren
    G: daß sie aber Chur Brandenburgschen Mi
 [e] [i] [hi] [h] [si] [ge] [n] [f] [hu] [r] [#1]
    G: seehr verdächtig vor und wil
-[pi] [s] [t] [ri] [de] [ma] [r] [c] [he] [s]
+[pi] [s] [t] [ri] [de] [#406] [r] [c] [he] [s]
 [e] [n] [sa] [c] [he] [was] [ver] [da] [c] [h]
    G: Ihm nicht gefallen daß der Churfür
 [es] [i] [h] [m] [nicht] [ge] [fa] [l] [le] [n]
@@ -6224,9 +6224,9 @@ digst gerůhen wollen, damit
 mich beÿ Zeiten von hinnen
 alß die Extremität nicht erw
    G: Matthæi hier angelangt
-[n] [ist] [der] [b] [a] [ba] [ha] [c] [gu]
+[n] [ist] [der] [b] [a] [t] [ha] [c] [gu]
    G: nur beÿ diesen troublen u
-[we] [l] [c] [ha] [r] [sa] [m] [p] [t]
+[we] [l] [c] [he] [r] [sa] [m] [p] [t]
 [r] [bey] [die] [se] [n] [t] [ro] [u] [b]
 [i] [s] [te] [n] [ko] [n] [te]  Aller
    G: gethane promessen noch immer u
@@ -6262,10 +6262,10 @@ mich beÿ Zeiten von hinnen retiriren könne, und wegen Geld man-
    G: vorgestern ist Hr
 gels die extremität nicht erwarten müße.  [vor] [ge] [s] [te] [r]
    G: Bathacki hier angelangt, welcher sehret Hrn Sarnowski
-[n] [ist] [der] [b] [a] [ba] [ha] [c] [gu] [hi] [e] [r] [a] [n] [ge] [la] [n] [g] [t]
+[n] [ist] [der] [b] [a] [t] [ha] [c] [gu] [hi] [e] [r] [a] [n] [ge] [la] [n] [g] [t]
    G: und beÿ diesen troublen EChD gute officia leisten könte
 [we] [l] [c] [he] [r] [sa] [m] [p] [t] [de] [m] [sa] [r] [no] [w] [s] [gu] [lich]
-[r] [bey] [die] [se] [n] [t] [ro] [u] [b] [le] [n] [ko] [t] [te] [o] [a] [fi] [ci] [a] [le]
+[r] [bey] [die] [se] [n] [t] [ro] [u] [b] [le] [n] [gu] [t] [te] [o] [a] [fi] [ci] [a] [le]
    G: die so vielfältig
 [i] [s] [te] [n] [ko] [n] [te]  Allein weil  [die] [so] [wider] [fa] [l] [ti] [g] [ge]
    G: gethane promessen noch immer zu waßer blieben, darf ich mich
@@ -6344,7 +6344,7 @@ tern, ohne alle Contrad
 Baldachin alles noch still ist, trage ich bedencken von
 [UNTER] [de] [m] [ba] [l] [da] [d] [hi] [n] [a] [l] [le] [s] [noch] [s] [ti] [l] [le]
    G: dieser Materie zu reden, damit nicht Öl ins Feür gegossen
-[ist] [t] [ra] [ge] [ich] [be] [de] [n] [c] [ke] [n] [von] [die] [se] [r] [sol] [te]
+[ist] [t] [ra] [ge] [ich] [be] [de] [n] [c] [ke] [n] [von] [die] [se] [r] [ma] [te]
    G: werde
 [ri] [lich] [zu] [re] [den] [da] [mit] [nicht] [o] [h] [le] [i] [n] [s] [fe] [u] [er]
 [ge] [go] [s] [se] [n] [wer] [de]  Vorgestern ist des Königes Fr. Schwe-
@@ -6377,38 +6377,38 @@ an daß Maul verbrennen,  [UNTER] [de] [m] [he] [d]
    G: mutation vor augen wovon Ihr Euer bes
 [m] [n] [q] [di] [me] [r] [c] [k] [l] [ich] [e] [mu] [su]
    G: aufnehmen und
-[fe] [r] [n] [die] [ge] [na] [c] [h] [ba] [r] [te]
+[fe] [r] [n] [die] [be] [na] [c] [h] [ba] [r] [te]
    G: verborgen wesen.
 [r] [ze] [i] [te] [n] [auf] [wa] [c] [he] [n] [und]
 [e] [s] [de] [m] [u] [n] [he] [y] [l] [vor] [be] [u] [#6]
 diese indignation deß Königes bloß umd
 uchiren scheinet, so ist doch dessen binnere
    G: itel aus einer vornehmen
-zu ermessen,  [was] [mi] [ein] [e] [UNTER] [ne] [i]
+zu ermessen,  [was] [lich] [ein] [e] [vor] [ne] [i]
    G: falsch ist und alles weiß was daselbst pa
 [o] [te] [ho] [r] [ho] [c] [a] [a] [m] [b] [re] [t] [#6]
    G: önigin Cabinet gethan und geredet wirdt, u
-[i] [s] [was] [da] [se] [l] [b] [s] [t] [i] [n] [f]
+[i] [s] [was] [da] [se] [l] [b] [s] [t] [i] [n] [#13]
    G: t und Sende gesaget mit diesen formalien:
 [n] [ca] [t] [ne] [t] [ge] [t] [ha] [n] [und] [ge] [re]
 [#7] [ra] [u] [e] [n] [zu] [tion] [r] [q] [u] [a] [si] [c]
-[l] [ge] [t] [e] [ge] [n] [mit] [die] [se] [n] [fo] [s]
+[l] [ge] [t] [e] [ge] [n] [mit] [die] [se] [n] [fo] [k]
 lß dem Könige in Schweden würde gefall
 alß die Reduction in Liefland vorgangen
 hen ihre Gütter weg genommen worden
    G: Mil d
 ür Sie hette intercediren lassen,  [mit] [de] [hi]
    G: der hochheit des konigs erforderte da
-[die] [s] [ich] [fe] [he] [n] [t] [des] [#318] [fo] [hu] [m] [#4]
+[die] [s] [ich] [zu] [he] [n] [t] [des] [#318] [fo] [hu] [m] [#4]
    G: e sintemahln alßd die brandenb:
 [h] [ha] [l] [te] [ich] [noch] [so] [la] [n] [ge] [hi] [n] [te]
    G: achten wurden, aber auch dieses so weit
-[f] [BRANDENBURG] [lich] [ni] [s] [t] [ri] [fur] [#181] [t] [h] [#1?]
+[hi] [BRANDENBURG] [lich] [ni] [s] [t] [ri] [fur] [#181] [t] [h] [#12]
    G: bnd zu brechen und damit etwas vollkom
 [aus] [aber] [m] [ich] [t] [n] [c] [k] [t] [es] [wer] [de] [e]
    G: geworffen werden.
 [n] [da] [mit] [lo] [s] [zu] [b] [re] [c] [he] [n] [und]
-[n] [d] [s] [dass] [ki] [n] [d] [aus] [der] [wi] [e] [ge] [ge]
+[f] [d] [s] [dass] [ki] [n] [d] [aus] [der] [wi] [e] [ge] [ge]
 rüber werde ich mich mit dem jüngst angel
 hen Enuoyé Extraordre Grafen von Dohe
 nteresse ein sehr güttes Vertrauen gegen
@@ -6574,7 +6574,7 @@ solte man dießes mittel ergreiffen, und eine Deputation zu untersuchung, und
 daß Neulich der Baron Zierowski
 [als] [ne] [cu] [lich] [des] [ba] [si] [zi] [e]
    G: und Ihm daß pacquet abgenommen
-[er] [z] [t] [ra] [s] [se] [a] [n] [ge] [pa]
+[er] [s] [t] [ra] [s] [se] [a] [n] [ge] [pa]
 [me] [n] [wo] [r] [den] [hat] [s] [ich]  in [?]
    G: polnischen Secretario Chassagnet z
 [m] [KAYSER] [lich] [e] [n] [se] [c] [ze] [ta] [#12]
@@ -6584,15 +6584,15 @@ daß Neulich der Baron Zierowski
 [m] [li] [t] [ta] [u] [s] [c] [he] [n] [ge]
    G: nahmen
 [c] [he] [gu] [l] [den] [ver] [s] [p] [ro]
-[p] [fa] [l] [t] [z] [g] [ra] [fi] [n] [#1]
+[p] [fa] [l] [t] [z] [g] [ra] [fi] [n] [#13]
    G: consilio e. Arme
 [n]  und derhalben  [co] [n] [si] [li]
    G: der König sehr gepocht und damit dr
-[d] [zu] [le] [i] [s] [te] [n] [auf]
-[r] [ge] [po] [c] [h] [t] [und] [da] [noch]
+[d] [zu] [durch] [i] [s] [te] [n] [auf]
+[x] [ge] [po] [c] [h] [t] [und] [da] [noch]
 [c] [h] [t] [ha] [t] [ta] [i] [a] [ge]
    G: gleich pars contraria fast darauf
-ob  [g] [le] [ich] [pa] [r] [s] [co] [n] [#6]
+ob  [g] [gu] [ich] [pa] [r] [s] [co] [n] [#6]
    G: dürffen
 [ru] [n] [ge] [n] [nicht] [zu] [m] [vor] [#3]
    G: im recess
@@ -6612,7 +6612,7 @@ Worauf eine Constitution auf
 sessenten entworfen, und in s
 anderen Theil verfänglich eing
    G: auf waß sonderbahres seye zielend
-[n] [ci] [u] [s] [wa] [r] [ge] [pe] [t] [e]
+[n] [ci] [u] [s] [wa] [r] [ge] [no] [t] [e]
    G: Zurüge gebracht, durch der Könige
 [g] [t] [ra] [s] [er] [durch] [s] [ta] [e]
    G: Er mit Ihm scharffe worte gewe
@@ -6626,7 +6626,7 @@ daß neulich deß Baron Zierowskis Courrier auß freyer Straße angepackt
    G: und ihm daß pacquet abgenommen worden, hat sich
 [er] [s] [t] [ra] [s] [se] [a] [n] [ge] [pa] [c] [k] [ba] [und] [i] [h] [m] [dass] [a] [b] [ge] [no] [m]
    G: ein Brieff von dem Kay=
-[me] [n] [wo] [r] [den] [hat] [s] [ich]  in demselben auch  [ein] [b] [ri] [e] [f] [UNTER] [de]
+[me] [n] [wo] [r] [den] [hat] [s] [ich]  in demselben auch  [ein] [b] [ri] [e] [f] [von] [de]
    G: serlichen Secretario Cassagnetti gefunden, welcher nach Wien berichtet
 [m] [KAYSER] [lich] [e] [n] [se] [c] [ze] [ra] [ri] [o] [c] [ha] [s] [sa] [n] [pe] [t] [ge] [fu] [n] [den]
    G: daß Baron Zierowski dem Littauischen Feldherrn teutsche Kayserliche und Königliche
@@ -6641,7 +6641,7 @@ daß neulich deß Baron Zierowskis Courrier auß freyer Straße angepackt
    G: der Konig sehr gepocht und damit dem Feldherrn furcht hat einjagen wollen
 [d] [zu] [durch] [i] [s] [te] [n] [auf] [welche] [n] [b] [ri] [e] [f] [der] [ge] [se] [h]
 [r] [ge] [po] [c] [h] [t] [und] [da] [mit] [de] [m] [fe] [l] [d] [he] [r] [re] [n] [fu] [r]
-[c] [h] [t] [ha] [r] [ta] [i] [a] [ge] [n] [wo] [q] [le] [n] , iedoch hat er solchen,
+[c] [h] [t] [ha] [t] [ta] [i] [a] [ge] [n] [wo] [l] [le] [n] , iedoch hat er solchen,
    G: gleich pars contraria hart darauff gedrungen, nicht zum Vorschein kommen
 ob  [g] [le] [ich] [pa] [r] [s] [co] [n] [t] [ra] [ri] [a] [ha] [r] [ba] [da] [r] [su] [ge] [d]
    G: dörffen
@@ -6653,7 +6653,7 @@ ob  [g] [le] [ich] [pa] [r] [s] [co] [n] [t] [ra] [ri] [a] [ha] [r] [ba] [da] [r
    G: seyn soll, daß also daß eine Schwerdt daß andere in der Scheiden
 [r] [la] [n] [d] [da] [von] [die] [s] [er] [ho] [f] [ga] [n] [t] [z] [u] [o] [f] [ist]
    G: halten
-[ent] [ha] [q] [te] [se] [y] [n] [sol] [dass] [als] [o] [ta] [s] [c] [h] [we] [r] [t] [dass]
+[ent] [ha] [l] [te] [se] [y] [n] [sol] [dass] [als] [o] [ta] [s] [c] [h] [we] [r] [t] [dass]
 [a] [n] [der] [e] [i] [n] [der] [s] [c] [he] [i] [de] [ge] [ha] [i] [te] [n]  In mei=
 nem vorigen habe allerunterthänigst gemeldet, welcher gestalt der
 Bäpstliche Nuncius Zur güttlichen Composition dehnen in Causa Pala
@@ -6682,11 +6682,11 @@ Er am Monntage wieder zuru
 [g] [t] [so] [l] [er] [mit] [de] [m] [UNGAR]
 [n] [c] [ke] [n] [ha] [be] [n]
    G: zu sammen gehaltenen co
-In der lezt  [zu] [sa] [m] [me] [n] [ge] [hi]
+In der lezt  [zu] [sa] [de] [me] [n] [ge] [hi]
    G: Baron Zierowski gegen stuß andern,
-[er] [we] [h] [n] [te] [der] [KAYSER] [lich] [e]
+[er] [we] [h] [n] [#182] [der] [KAYSER] [lich] [e]
    G: in maintenierung des Wahl grechtichen Reiß
-[ro] [w] [s] [he] [ke] [q] [e] [n] [konig] [f] [n]
+[ro] [w] [s] [ki] [ke] [q] [e] [n] [#717] [a] [n]
    G: ruthischen Landt. undt Constitution
 [mi] [t] [ta] [u] [s] [c] [he] [g] [ro] [s]
    G: ihren credit schier auf einmahl bey
@@ -6716,7 +6716,7 @@ hielt er für hoch nöthig, daß die
 [sa] [n] [te] [n] [hu] [l] [f] [fe] [su]
 welche aber nicht  [i] [n] [he] [e]
    G: in handt weiset, sondern in einen arg
-[i] [n] [ein] [e] [m] [ver] [s] [c] [hi] [s]
+[i] [n] [ein] [e] [m] [ver] [s] [c] [hu] [t]
    G: machten eine antwort die dieser seith
 [te] [l] [n] [be] [s] [te] [he] [n] [mu] [#3]
 
@@ -6728,10 +6728,10 @@ aüß, undt allß Er daselbst  [n]  nächte undt einen tag zugebracht, kahm
    G: Wie mir Sarnowski sagt, so soll Er mit
 Er am Monntage wieder zurück;  [wi] [mi] [r] [sa] [r] [no] [w] [s] [ki] [sa]
    G: dem Kinerow licho geheimes gehandelt haben
-[g] [t] [so] [l] [er] [mit] [de] [m] [hertzog] [lu] [s] [ti] [g] [h] [er] [um] [ge] [t] [ru]
+[g] [t] [so] [l] [er] [mit] [de] [m] [UNGAR] [lu] [s] [ti] [g] [h] [er] [um] [ge] [t] [ru]
 [n] [c] [ke] [n] [ha] [be] [n]
    G: Insinuon gehaltenen conferenz ersuchte der Kaÿserliche Minister
-In der lezt  [zu] [sa] [m] [me] [n] [ge] [ha] [q] [te] [ne] [n] [de] [n] [fe] [re] [n] [z]
+In der lezt  [zu] [sa] [m] [me] [n] [ge] [ha] [l] [te] [ne] [n] [de] [n] [fe] [re] [n] [z]
    G: Baron Zierowski, wegen [?] andern, welcher gestalt der Litthauische Großfeldherr
 [er] [we] [h] , [n] [so] [der] [KAYSER] [lich] [e] [mi] [ni] [s] [te] [r] [ba] [se] [n] [zi] [g]
    G: in mainteniring der Pfaltzgräflichen Sache sich noch wohl und tapfer hielte und weill sich
@@ -6748,7 +6748,7 @@ In der lezt  [zu] [sa] [m] [me] [n] [ge] [ha] [q] [te] [ne] [n] [de] [n] [fe] [r
    G: der Konig Ihn in die länge zu [?] satzen und Er endlich hinter das Licht würde fuc-
 [der] [KOENIG] [i] [di] [q] [i] [n] [die] [la] [n] [ge] [lu] [s] [c] [h] [se] [r] [fa] [di] [le] [n]
    G: cumbiren müßen, bevorab, weill die unter Ihm in commercio stehende division
-[und] [er] ,  [f] [n] [d] [lich] [UNTER] [der] [la] ,  [s] [t] [wu] [r] [de] [m] [c] [cu] [m] [bi] [re]
+[und] [er] ,  [mu] [n] [d] [lich] [UNTER] [der] [la] ,  [s] [t] [wu] [bi] [de] [m] [c] [cu] [m] [bi] [re]
    G: Ihm abspenstig gemacht würde und der Unterfeldherr Sluszka selbst auf solchen
 [n] [mu] [s] [so] [n] [be] [vor] [a] [b] [wa] [n] [n] [die] [UNTER] [s] [ein] [ta] [m] [co] [m]
    G: fall
@@ -6758,17 +6758,17 @@ In der lezt  [zu] [sa] [m] [me] [n] [ge] [ha] [q] [te] [ne] [n] [de] [n] [fe] [r
    G: benachbahrte Potentaten, dero hohe interesse
 hielt er für hoch nöthig, daß die  [be] [na] [c] [h] [ba] [r] [te] [po] [te] [n] [ta]
    G: hirunter versiret, beÿzeiten redeten, in dehme hirohn das jus vetandi untergedruckt,
-[te] [n] [de] [h] [re] [r] [ho] [he] [s] [i] [n] [te] [re] [s] [se] ,  [hi] [er] [UNTER] [u] [er]
+[te] [n] [de] [h] [re] [r] [ko] [he] [s] [i] [n] [te] [re] [s] [se] ,  [hi] [er] [UNTER] [u] [er]
    G: und endlich wohl leÿden würde, mit einer suBiearten hulffe succurriren müßten
-[si] [re] [t] [be] [sa] [m] [te] [m] [FELD] [HERR] [n] [i] [n] [die] [se] [n] [pe] [t] [so]
-[h] [n] [dass] [i] [be] [s] [u] [e] [ta] [n] [di] [UNTER] [ge] [d] [ru] [d] [ru] [c] [k] [t] [und]
+[si] [re] [t] [be] [sa] [m] [te] [m] [tion] [HERR] [n] [i] [n] [die] [se] [n] [pe] [t] [so]
+[h] [n] [dass] [i] [u] [s] [u] [e] [ta] [n] [di] [UNTER] [ge] [d] [ru] [d] [ru] [c] [k] [t] [und]
 [e] [n] [d] [lich] [no] [t] [h] [le] [y] [den] [wu] [r] [de] [mit] [ein] [er] [su] [f] [fi]
 [sa] [n] [te] [n] [hu] [l] [f] [fe] [su] [c] [cu] [r] [re] [n] [mo] [c] [h] [te] [n]
 welche aber nicht  [i] [n] [he] [e] [re] [s] [ma] ,  [c] [h] [t] [so] [n] [der] [n]
    G: in Ikares nahmen sondern in einem wege 3 von Pohlen gescheukewen seÿn würde den
-[i] [n] [ein] [e] [m] [ver] [s] [c] [hu] [ci] [f] ;  [ba] [h] [#922] [n] [ge] [s] [d] [mi] [t]
+[i] [n] [ein] [e] [m] [ver] [s] [c] [hu] [ci] [f] ;  [ba] [h] [re] [n] [ge] [s] [d] [mi] [t]
    G: maßen zu besorgen das diesen seiten depeschen auffs nicht zulangen würde
-[te] [q] [n] [be] [s] [te] [he] [n] [pa] [s] [te] /  [ma] [s] [se] [n] [s] [ein] [ver] [mo]
+[te] [l] [n] [be] [s] [te] [he] [n] [pa] [s] [te] /  [ma] [s] [se] [n] [s] [ein] [ver] [mo]
 
 == dorffler-19-102/p0469L
 respective hohe Principalen sich zeitlich her-
@@ -6776,9 +6776,9 @@ respective hohe Principalen sich zeitlich her-
    G: pro rata ein gewisßes quantum beÿschaffen mo-
 [n] [de] [da] [mit] [nu] [n] [co] [re] [a] [n] [er] [se]
    G: -chte solches er und zugleich begehren, daß denen
-[e] [ho] [he] [du] [ri] [n] [i] [pa] [le] [n] [sich] [ze] [n]
+[e] [ho] [he] [w] [ri] [n] [i] [pa] [le] [n] [sich] [ze] [n]
    G: -palen so von und was hieraus erwachsen pro futu-
-[ne] [h] [me] [n] [und] [ein] [i] [e] [wah] [p] [ro] [ra] [#1]
+[ne] [h] [me] [n] [und] [ein] [i] [e] [der] [p] [ro] [ra] [#1]
    G: -re sollten
 [ha] [a] [n] [tu] [m] [bey] [t] [ra] [ge] [n] [mo] [c] [h]
 [#7] [n] [den] [KAYSER] [e] [h] [s] [te] [s] [ge] [la] [n] [fo]
@@ -6898,7 +6898,7 @@ nd banden nach seinen gütern brin-
    G: dahero Bidzinsky sich so nahe
 [sa] [g] [te] [r] [y] [d] [zi] [n]
    G: den Praesidenten zu Dantzig
-[n] [ha] [be] [n] [dass] [er] [auch] [de] [m] [#3]
+[y] [ha] [be] [n] [dass] [er] [auch] [de] [m] [#3]
    G: fangen nachsuchen wolle
 [g] [lich] [den] [po] [n] [s] [t] [pa] [s] [#13]
 [o] [h] [ich] [n] [wo] [l] [le]  d[?]
@@ -6939,11 +6939,11 @@ romet er, daß Er ihms von der gasse will wegnehmen und in eißsen
 und banden nach seinen gütern bringen laßen
 [ein] [e] [n] [gu] [t] [te] [r] [n] [b] [ri] [n] [ge] [n] [la] [s] [se] [n]  Weßwegen Er
    G: von dem Bischoff zu Posen und andern am Hofe, sich ein Bette
-[von] [de] [m] [#200] [zu] [oder] [se] [n] [und] [a] [n] [auf] [n] [so] [zu] [ho] [fe] [ho] [c]
+[von] [de] [m] [#200] [zu] [po] [se] [n] [und] [a] [n] [auf] [n] [so] [zu] [ho] [fe] [ho] [c]
    G: seyn gewarnet ist ba-
 [h] [c] [o] [b] [re] [te] [se] [y] [n] [ge] [wa] [k] [ne] [t] [ist]  Endlich soll Ge-
    G: -layter Bidzinsky sich so weit vermeßen haben, daß Er auch
-[pu] [g] [te] [r] [sich] [d] [zi] [n] [s] [ki] [sich] [so] [we] [i] [t] [so] [me] [n] [se]
+[pu] [g] [te] [r] [y] [d] [zi] [n] [s] [ki] [sich] [so] [we] [i] [t] [so] [me] [n] [se]
    G: dem Praesidenten von Dantzig auf den Dienst paßen und ihn ge-
 [gi] [ha] [be] [n] [dass] [er] [auch] [de] [m] [p] [ra] [e] [si] [den] [te] [n] [zu] [da] [n] [t] [zi]
    G: fangen wegführen wolle
@@ -6953,7 +6953,7 @@ und banden nach seinen gütern bringen laßen
    G: Stadt, so ihre Negotien hier in Pohlen haben, sehr übell dran
 [me] [l] [d] [te] [r] [s] [ta] [d] [t] [so] [ih] [e] [ze] [ge] [ti] [e] [n] [hi] [lu] [i]
    G: seyn, weil sie sich von dem König und allen denen, so justi-
-[n] [s] [ha] [be] [n] [se] [h] [r] [u] [be] [f] [d] [ra] [n] [se] [y] [n] [weil] [si] [a] [sich]
+[n] [POHLEN] [ha] [be] [n] [se] [h] [r] [u] [be] [f] [d] [ra] [n] [se] [y] [n] [weil] [si] [a] [sich]
    G: tiam administriren sollen, verlaßen sehen, und kein mittell
 [von] [de] [m] [KOENIG] [und] [a] [ge] [le] [n] [de] [h] [ne] [n] [die] [n] [s] [ti] [ti] [a] [m] [a]
    G: auß solchem Labyrinth zu kommen, finden konnen
@@ -7021,9 +7021,9 @@ dieser aber  [a] [l] [le] [ma] [a] [l]  in term
    G: der GroßCantzler deßhalben
 [si] [z] [ne] [s] [se] [y] [der] [g] [ro]
    G: den Bischoff weeden
-[bu] [alliancezwischen] [m] [ko] [m] [me] [n] [und] [ha] [#6?]
+[da] [alliancezwischen] [m] [ko] [m] [me] [n] [und] [ha] [#6?]
    G: secondiret; Uber dießes het
-ski  [se] [do] [n] [h] [r] [t] [uber] [die]
+ski  [se] [co] [n] [h] [r] [t] [uber] [die]
    G: Marienburg weeden den Domb
 [y] [wo] [de] [von] [ma] [ri] [me] [n] [bu] [r]
 
@@ -7041,7 +7041,7 @@ von sind verschiedene Relationes, welche in dehnen umbstän-
    G: Von dem Kaÿserlichen Mi-
 den ettlicher maßen discrepiren.  [von] [de] [m] [KAYSER] [lich] [e] [n] [lich]
    G: nister Zierowski vernehme ich
-[ni] [s] [te] [r] [ba] [ro] [n] [zi] [c] [ro] [w] [s] [ki] [vor] [ne] [h] [me] [ich]
+[ni] [s] [te] [r] [ba] [ro] [n] [zi] [e] [ro] [w] [s] [ki] [vor] [ne] [h] [me] [ich]
 daß der Bischof zur Wilde Brzostowski den Littauschen Landbotten
    G: hart zugesetzet und
    G: ohn ge-
@@ -7049,25 +7049,25 @@ Dambrowski  [ha] [r] [t] [ation] [be] [se] [t] [z] [t] [und]  Ihn mit  [e] [h] [
    G: bührigen worten angegriffen
 [n] [ro] [h] [ri] [be] [n] [wo] [r] [te] [n] [a] [n] [be] [g] [ri] [f] [fe] [n]  Alß
    G: dieser aber alleine in terminis retorsionis verblieben seÿ
-[a] [l] [le] [ma] [a] [l] [i] [n] [te] [r] [ma] [ni] [s] [re] [to] [r]
+[a] [l] [le] [ma] [a] [l] [i] [n] [te] [r] [lich] [ni] [s] [re] [to] [r]
    G: der Groß Cantzler dem Bischoff dazwischen kommen, und habe
 [si] [z] [ne] [s] [se] [p] [der] [g] [ro] [m] [ca] [n] [t] [z] [le] [r] [do] [n] [ho] [f]
    G: den Bischoff weidlich
-[da] [alliancezwischen] [m] [ko] [m] [me] [n] [und] [ha] [x] [dass] [t] [r] [c] [ho] [f] [wi] [den]  Dambrow-
+[da] [alliancezwischen] [m] [ko] [m] [me] [n] [und] [ha] [x] [den] [t] [r] [c] [ho] [f] [wi] [den]  Dambrow-
    G: secondiret; Uber diesem Gezäncke seÿ der Woÿwode von
-ski. [se] [do] [n] [di] [r] [t] [uber] [mo] [se] [m] [be] [za] [n] [c] [ge] [se] [p] [der] [wo]
+ski. [se] [co] [n] [h] [r] [t] [uber] [#189] [se] [m] [be] [za] [n] [c] [ge] [se] [p] [der] [wo]
    G: Marienburg wieder den Dombrowski
-[y] [wo] [de] [von] [ma] [ri] [e] [n] [bu] [r] [g] [wi] [der] [den] [do] [m] [b] [ro] [w] [s] [ki]
+[y] [wo] [de] [von] [ma] [ri] [e] [n] [bu] [r] [g] [wi] [der] [den] [do] [m] [b] [ro] [w] [s] [gu]
 
 == dorffler-19-102/p0475L
 geantwortet, geendigt, hat der K
 [t] [z] [n] [er] [ge] [a] [n] [t] [wo] [r]
    G: Königs nahmen einen Zettul üb
-[sel] [be] [n] [zu] [g] [le] [ich] [a] [y] [de] [#5]
+[sel] [be] [n] [zu] [g] [le] [ich] [a] [n] [de] [#5]
    G: worauß die Machinationes wider d
 [n] [ze] [t] [te] [n] [von] [ein] [e] [m] [f]
    G: der benachbahrten Potentaten, nembl
-[den] [wo] [r] [aus] [die] [ma] [b] [hi] [na] [f]
+[den] [wo] [r] [aus] [die] [sol] [b] [hi] [na] [f]
    G: Brandenburg nebst etlich Mitglied
 [he] [i] [m] [lich] [e] [p] [ra] [c] [ti] [q] [#6]
    G: deuthlich genung erwiesen Zuersuchen
@@ -7075,31 +7075,31 @@ geantwortet, geendigt, hat der K
    G: König mit aufbürdung deß Ca
 [e] [mit] [g] [le] [e] [der] [der] [re] [pu] [b]
    G: schen laßen, und wolte Ihre Mtt
-[be] [nu] [g] [wu] [r] [den] [#175] [ver] [ne] [h]
+[be] [nu] [g] [wu] [r] [den] [ation] [ver] [ne] [h]
 [c] [t] [nu] [n] [ha] [t] [te] [der] [KOENIG] [f]
 [la] [u] [s] [c] [he] [n] [si] [e] [ge] [l] [ge]
 [se] [n] [und] [wo] [l] [te] [durch] [aus] [ha] [be]
    G: von dem
 [te]  welches aber einer  [von] [den]
    G: Bisch: daselbst der Chur Brandenburg
-[ha] [n] [ih] [die] [se] [s] [c] [a] [ri] [f]
+[ha] [n] [ih] [die] [se] [s] [c] [h] [ri] [f]
 [t] [welche] [m] [die] [s] [er] [c] [ha] [ra] [c] [te]
    G: ad importunam instantiam von h
 [ta] [n] [ti] [a] [m] [von] [sel] [i] [ge] [r]
    G: hanlet fallen laßen.
 [aus] [u] [na] [c] [h] [t] [sa] [m] [li] [u]
    G: dieses enthaltes, daß man
-zettel,  [die] [ich] [s] [ent] [ha] [l] [te]
+zettel,  [die] [se] [s] [ent] [ha] [l] [te]
    G: Ihr Königl auf diesen Reichstage
 [se] [he] [n] [he] [t] [te] [weil] [der] [KOENIG] [#1]
    G: Jacobi zu promoviren solches zu ver
-[h] [te] [die] [i] [n] [t] [h] [ro] [ne] [e]
+[h] [te] [die] [i] [n] [t] [h] [ro] [ni] [e]
    G: allen müglichen fleiß anwenden,
 [zu] [p] [ro] [lich] [be] [i] [re] [n] [solch] [e]
    G: Zu erweisen, mit willen der be
 [mi] [e] [sich] [a] [l] [durch] [n] [mo] [g] [lich]
    G: und von ihm
-[re] [ich] [s] [ta] [g] [durch] [die] [li] [t] [ta]
+[ze] [ich] [s] [ta] [g] [durch] [die] [li] [t] [ta]
    G: sachen das Obstat Zu halten,
 [weil] [der] [li] [t] [ta] [y] [i] [c] [he] [sa]
 [s] [ein] [lich] [n] [e] [i] [g] [ne] [n] [mi] [#6]
@@ -7110,9 +7110,9 @@ zettel,  [die] [ich] [s] [ent] [ha] [l] [te]
 [m] [su] [b] [pu] [di] [o] [wider] [die] [a] [r]
 Und was dergleichen mehr war,
    G: Relationis ausweist. Diese des
-[r] [ma] [ze] [la] [#200] [i] [s] [auf] [be] [r]
+[r] [ma] [re] [la] [#200] [i] [s] [auf] [be] [r]
    G: hat hierauf ChfG:
-[su] [n] [der] [KOENIG] [der] [die] [me] [sa] [d] [#13]
+[su] [l] [der] [KOENIG] [der] [die] [me] [sa] [d] [#13]
    G: zu gemüthe so genomm
 dardurch die  [ver] [mu] [t] [he] [r] [des]
 
@@ -7154,22 +7154,22 @@ gefehr  [die] [ich] [s] [ent] [ha] [l] [te] [n] [dass] [ma] [n] [y] [ich] [wo] [
    G: allen möglichen fleiß anwenden den Reichstag durch die Littauische
 [zu] [p] [ro] [mo] [u] [l] [re] [n] [solch] [es] [zu] [ver] [hu] [x] [te] [n] [wer] [de] [der] [KAYSER]
    G: zu zerreißen, undt weilen die Littauische Feldherrn nicht suffisant
-[lich] [zo] [sich] [d] [l] [durch] [n] [mo] [g] [#200] [e] [n] [f] [le] [n] [s] [a] [n] [te] [n] [den] [den]
+[mi] [e] [sich] [d] [l] [durch] [n] [mo] [g] [#200] [e] [n] [f] [le] [n] [s] [a] [y] [te] [n] [den] [den]
    G: wehren von ihren eigenen Mitteln des Königs:
 [re] [ich] [s] [ta] [g] [durch] [die] [ge] [t] [ta] [u] [et] [zu] [ze] [r] [re] [i] [s] [se] [n] [und]
    G: faction das Obstat zu halten,
-[weil] [pa] [li] [t] [ra] [u] [s] [c] [he] [si] [HERR] [nicht] [su] [f] [fi] [sa] [n] [t] [wa] [re] [von]
-[s] [ein] [e] [n] [e] [i] [g] [ne] [n] [mi] [t] [te] [l] [n] [der] [KOENIG] [lich] [e] [n] [pa] [s]
+[weil] [der] [li] [t] [ra] [u] [s] [c] [he] [si] [HERR] [nicht] [su] [f] [fi] [sa] [n] [t] [wa] [re] [von]
+[s] [ein] [e] [n] [e] [i] [g] [ne] [n] [mi] [t] [te] [l] [n] [der] [KOENIG] [lich] [e] [n] [pa] [r]
    G: benachbahrten
 [t] [he] [y] [dass] [o] [b] [s] [ta] [t] [zu] [ha] [l] [te] [n] so wüerden die  [be] [nach] [ba]
    G: Potentaten einen zulängenden
-[r] [te] [po] [te] [n] [ta] [te] [n] ihn mit  [ein] [e] [m] [ze] [la] [n] [ge] [sondern] [de]
+[#325] [te] [po] [te] [n] [ta] [te] [n] ihn mit  [ein] [e] [m] [ze] [la] [n] [ge] [sondern] [de]
    G: Subsidio unter die Arme greiffen müßen,
-[m] [su] [b] [pu] [di] [o] [wider] [mo] [g] [#200] [e] [als] [re] [f] [fe] [n] [mu] [s] [we] [n]
+[m] [su] [b] [pu] [di] [o] [wider] [die] [a] [r] [me] [g] [re] [f] [he] [n] [mu] [s] [se] [n]
    G: zusamment in forma
 Vnd waß dergleichen mehr geweßen, so er  [als] [pu] [m] [me] [n] [i] [s] [fo]
    G: Relationis aufgesetzet. dieße Schrifft ließe der König auf die Land=
-[r] [ma] [ze] [la] [#200] [i] [s] [auf] [me] [se] [t] [z] [t] [die] [se] [s] [c] [h] [ri] [l] [z]
+[r] [ma] [re] [la] [#200] [i] [s] [auf] [me] [se] [t] [z] [t] [die] [se] [s] [c] [h] [ri] [l] [z]
    G: täge herumb schicken,
 [su] [l] [der] [KOENIG] [auf] [die] [me] [pu] [d] [ta] [be] [h] [er] [um] [s] [c] [hi] [c] [ke] [n] umb
    G: die gemüther des gemeinen Adells zu conciliiren und wieder
@@ -7230,18 +7230,18 @@ uchen würde,  [#465] [#189] [ha] [n] [de] [si] [n]
    G: protestationes aufgesezt
 bereits unterschiedliche  [p] [ro] [mit] [s] [ta] [n]
 Königs antrieb, welcher eine
-[es] [aus] [des] [KOENIG] [s] [a] [n] [n] [c]
+[es] [aus] [des] [KOENIG] [s] [a] [n] [n] [#1]
    G: wider Ihn erzewgen,
-[wi] [der] [i] [h] [n] [a] [n] [s] [t] [re]
+[wi] [der] [i] [h] [n] [a] [n] [s] [t] [#12]
 [ga] [f] [ge] [n] , wie dann auch in
    G: in nahmen der gantzen bischöfflichen
-[s] [c] [ha] [cu] [c] [k] [i] [m] [na] [h]
+[s] [c] [ha] [cu] [c] [k] [i] [k] [na] [h]
 [te] [r] [s] [c] [ha] [f] [t] [wi] [der]
-[t]  Sonsten ist  [der] [ba] [p] [s] [t]
+[r]  Sonsten ist  [der] [ba] [p] [s] [#6]
    G: Päbstliche Cron qui iden cum ipso
 [ga] [n] [t] [ze] [pa] [r] [t] [he] [y]
    G: Residenten
-[r] [so] [se] [f] [ti] [u] [n] [t] [mit] [cu]
+[r] [so] [se] [f] [ti] [u] [n] [t] [mit] [#7]
    G: sehr übel zu frieden
 [si] [den] [te] [n]  Es ist alß misbilligt
 [ge] [be] [n] [fur] [r] [d] [dass] [er] [i]
@@ -7252,12 +7252,12 @@ Königs antrieb, welcher eine
    G: mit der Königin alß auch mit
 [pu] [b] [li] [cu] [m] [re] [p] [ra] [se]
    G: harte Worte gewechselt was durch
-[ci] [u] [s] [ha] [r] [wah] [ma] [h] [l] [ri]
+[ci] [u] [s] [ha] [r] [wah] [ma] [h] [l] [#12]
    G: Nuncium Pallavicini
-[mit] [ge] [da] [c] [h] [te] [m] [re] [de]
+[mit] [ge] [da] [c] [h] [te] [m] [re] [#7]
 [zi] [m] [lich] [ha] [r] [te] [wo] [r] [tu]
-[e] [ge] [ne] [re] [u] [se] [zu] [s] [p] [ri]
-[ci] [u] [x] [pa] [l] [la] [u] [i] [ci] [c]
+[e] [ge] [ne] [re] [u] [se] [zu] [s] [p] [#12]
+[ci] [u] [x] [pa] [l] [la] [u] [i] [ci] [#1]
    G: dem Hofe gar nicht lieb war, so
 [de] [m] [hi] [w] [ga] [r] [nicht] [li] [e]
 [t]  Weßen alß ich bey dem
@@ -7267,20 +7267,20 @@ Königs antrieb, welcher eine
 Reichstag von  [a]  Tagen ansezen
 wolte, daß Er eylends einen d-
    G: selbst den Cron Marschalck
-worde,  [uber] [den] [sich] [ma] [r] [s] [e]
+worde,  [uber] [den] [sich] [ma] [r] [s] [#4]
    G: wird sehr geklaget, daß Er die Sa-
-[d] [se] [i] [r] [ge] [k] [la] [ge]
+[d] [se] [a] [r] [ge] [k] [la] [ge]
    G: sachen verlaßen und sich dem
-[he] [y] [der] [er] [so] [fur] [die]
+[he] [p] [der] [er] [so] [fur] [die]
    G: moderat habe.
-[he] [n] [ver] [la] [s] [se] [n] [f]
-[lich] [o] [b] [se] [q] [u] [i] [o] [re]
+[he] [n] [ver] [la] [s] [se] [n] [n]
+[lich] [o] [b] [se] [q] [u] [i] [o] [#1]
 
 == dorffler-19-102/p0476R
 Königs antrieb, welcher einen proceß wieder Ihn anfangen wile,
 [es] [aus] [des] [KOENIG] [s] [a] [n] [ho] [ri] [e] [b] [welche] [r] [ein] [e] [n] [p] [ro] [ce] [s]
    G: wieder Ihn ergangen;
-[wi] [der] [i] [h] [n] [a] [n] [s] [t] [re] [n] [ge] [n] [ro] [wi] [der] [i] [h] [n] [er]
+[wi] [der] [i] [h] [n] [a] [n] [s] [t] [re] [n] [ge] [n] [#324] [wi] [der] [i] [h] [n] [er]
    G: der Landbothen Marschald im Nah
 [ga] [f] [ge] [n]  wie dann auch  [der] [la] [gi] [d] [bo] [ho] [he] [n] [ma] [k]
    G: men der gantzen Ritterschaft wieder Ihn protestirt hat,
@@ -7293,7 +7293,7 @@ Königs antrieb, welcher einen proceß wieder Ihn anfangen wile,
    G: Residenten
 [k] [so] [se] [f] [ti] [u] [n] [t] [mit] [de] [m] [u] [e] [ne] [ti] [a] [ti] [s] [c] [he] [n] [re]
    G: die schuld gegeben
-[si] [den] [te] [n]  sehr übel zufrieden, dehme  [die] [s] [b] [hu] [l] [d] [ge]
+[si] [den] [te] [n]  sehr übel zufrieden, dehme  [die] [u] [b] [hu] [l] [d] [ge]
    G: wirdt daß Er in alle iniustitien vnd scandale sich mische vnd mehr
 [ge] [be] [n] [es] [r] [d] [dass] [er] [i] [n] [a] [l] [le] [u] [n] [no] [t] [hi] [ge]
    G: einen Cammerdiener bey der Königin als einen Ministrum
@@ -7322,7 +7322,7 @@ rede, daß Er zu gleich einen Ritt hinunter nach Preußen Thun
    G: Vber den Cron Marschald Lubomirski
 werde.  [uber] [den] [sich] [ma] [r] [s] [c] [ha] [l] [c] [k] [lu] [bo] [mi] [r] [s] [gu] [wir]
    G: wird sehr geclaget, daß Er die Parthey derer so für die freyheit
-[d] [se] [i] [r] [ge] [k] [la] [ge] [t] [dass] [er] [die] [pa] [te] [t]
+[d] [se] [a] [r] [ge] [k] [la] [ge] [t] [dass] [er] [die] [pa] [te] [t]
    G: stehen verlassen vnd sich dem hofe so deformi Obsequio accom
 [he] [p] [der] [er] [so] [fur] [die] [f] [re] [y] [he] [i] [t] [s] [te]
    G: modiret habe.
@@ -7407,31 +7407,31 @@ digsten Befehl in schüldigster unterthänigkeit beobachten.  [was] [nu] [n] [ab
    G: aber den Capitain Lieutenant Wittenberg
 [den] [bischof] [li] [e] [u] [te] [n] [ent] [wi] [t] [te] [n] [bo] [r] [g]  anbetrifft, so be-
    G: Er schon über funfzig Mann beysammen
-richte allergehorsamst daß  [er] [s] [c] [ho] [n] [uber] [#236] [tausend?] [ma] [n] [n] [bey]
+richte allergehorsamst daß  [lu] [s] [c] [ho] [n] [uber] [#236] [tausend?] [ma] [n] [n] [bey]
    G: hat und mit ersten die versprochene Compagnie complet zu stellen
 [sa] [m] [me] [n] [ha] [t] [und] [mit] [e] [h] [s] [te] [m] [die] [ver] [s] [p] [ro] [c]
 
 == dorffler-19-102/p0483L
-[zu] [s] [te] [l] [le] [n] [p] [ro] [mit] [ti] [r] [t] [f]
+[zu] [s] [te] [l] [le] [n] [p] [ro] [mit] [ti] [r] [t] [d]
 Mtt: Rath und General Gouverneur.  [i] [n]
 [t] [e] [l] [ke]  anzuhnehmen, wie Er mir  [aus] [t]
    G: alle mügliche anstalt Cgmirh, we
-habe ich  [a] [l] [e] [mo] [g] [lich] [e] [a] [n] [s] [ta] [f]
+habe ich  [a] [l] [e] [mo] [g] [lich] [e] [a] [n] [s] [ta] [n]
    G: ohchin duse Güte nach der Pillau und vo
-[durch] [dass] [KOENIG] [t] [h] [um] [te] [die] [se] [le] [u] [t] [ke]
+[durch] [dass] [hertzog] [t] [h] [um] [PREUSSI] [die] [se] [le] [u] [t] [hi]
    G: dert verflossen muge;
 [da] [n] [ne] [n] [zu] [s] [c] [hi] [f] [zu] [#330] [ver]
 ich nun in meinem vorigen geziehmende er
 lebe der unterthänigsten hofnung, es wird es
    G: fiindend Chur Brandenb: Minister
-[ca] [hi] [n] [den] [de] [c] [hu] [r] [von] [mi] [ne] [s] [t] [c]
+[ca] [hi] [n] [den] [de] [c] [hu] [r] [von] [mi] [ne] [s] [t] [et]
    G: nicht seyn, mit bey seinem herren die Verstatun
 [n] [be] [re] [i] [t] [s] [er] [pu] [c] [h] [t] [se] [y] [n]
    G: schiffung durch die Pillau für diese Man schaf
-[n] [die] [ver] [s] [ta] [t] [t] [ung] [der] [f] [re] [w] [la]
-[hi] [c] [hi] [f] [ung] [durch] [die] [pi] [l] [la] [u] [fur] [die] [se]
+[n] [die] [ver] [s] [ta] [t] [t] [ung] [der] [f] [re] [r] [e]
+[hi] [c] [hi] [f] [ung] [durch] [die] [pi] [l] [la] [be] [fur] [die] [se]
    G: hat der Craf
-[#5] [be] [lich] [r] [c] [ke] [n]  Vnterdes  [ha] [t] [der] [f]
+[#5] [be] [lich] [r] [c] [ke] [n]  Vnterdes  [ha] [t] [der] [n]
    G: von Dohna an den Marschalen Dörflinge
 [t] [g] [ra] [aber] [von] [do] [h] [na] [a] [n] [den] [mit] [#186]
    G: hibe geschriben, und
@@ -7574,25 +7574,25 @@ rie mit mir, und sagte  [weil] [na] [ri] [cu] [mu]
    G: proportionte Zusamensch. Verfürsehung thun
 [s] [du] [te] [p] [zi] [n] [ci] [pa] [le] [f] [sich] [m] [tion]
    G: da der Käyser herzu zwey drittl beytragt
-[po] [r] [#200] [a] [zu] [sa] [x] [me] [f] [ver] [g] [le] [d]
+[po] [r] [#200] [a] [zu] [sa] [m] [me] [f] [ver] [g] [le] [d]
    G: vnd Chur Brandenburg unam tertiam
 [n] [te] [ihr] [dass] [s] [ein] [#310] [auf] [KAYSER] [ge] [r] [po]
    G: solcher Gestaltgestalt mann ein fond
 [#6] [n] [brandenburg] [ekmt] [mit] [e] [hu] [r] [brandenburg] [u] [na] [m] [te] [k]
-[#4] [ne] [h] [me] [f] [wo] [l] [te] [n] [solch] [er] [ge] [ki]
+[#4] [ne] [h] [me] [f] [wo] [l] [te] [n] [solch] [er] [ge] [s]
    G: 36 Rthl. gemacht würde,
 [f] [d] [von] [x] [#190] [d] [h] [t] [weil]
    G: Part un in 24 E. K. Mt. antheil
 [#3] [pa] [k] [t] [und] [auf] [ekmt] [a] [n] [t] [he]
    G: kunftigs nit einen gringsten
-[q] [l] [t] [sa] [m] [te] [er] [ko] [n] [te] [mit] [ta] [le]
+[q] [l] [t] [sa] [m] [te] [er] [ko] [n] [te] [mit] [ta] [e]
    G: abgewendet werden, dahero Ferner meing,
 [se] [s] [ver] [hu] [t] [te] [t] [was] [a] [b] [ge] [wa]
    G: Eygne freyheit halber in hiesige betortte gantz
 [m] [t] [f] [der] [KOENIG] [die] [s] [ni] [s] [b] [he] [f] [re]
    G: mit zusehen würden müssen.
-[m] [t] [re] [t] [te] [f] [c] [#200] [t] [ze] [ARMEE] [f] [um] [einem]
-[wer] [den] [mu] [s] [se] [n] [UNTER] [ha] [l] [te] [n] [wer] [#5]
+[m] [t] [re] [t] [te] [f] [ka] [f] [t] [ze] [ARMEE] [f] [um] [einem]
+[wer] [den] [mu] [s] [se] [n] [wider] [ha] [l] [te] [n] [wer] [#5]
 h E K Mt allerunterthänigst zu hinterbr
 erlichen Ministro Graf Nostizen auff d
 g gehalten, undt ein gewißes Conclusum
@@ -7602,13 +7602,13 @@ Tékéli seÿ, hat sich in Vngarischer Kleydung
    G: alß ein Baron Zierowsky
 eweg begeben.  [als] [nu] [f] [ba] [ro] [f] [als]
    G: Ein Emissarius
-[no] [m] [me] [f]  und daß  [ein] [e] [lich] [s] [b]
+[no] [m] [me] [f]  und daß  [ein] [e] [lich] [s] [#1]
    G: seÿ, hat Er so fort seinen Eidam den
 [ge] [f] [ge] [me] [se] [n] [ha] [t] [c] [so] [fo] [r] [t]
    G: blichen bericht von allem, was ihm disfa
-[l] [s] [c] [hi] [mo] [f] [s] [gu] [mit] [mu] [f] [#12]
+[l] [s] [c] [hi] [mo] [f] [s] [gu] [mit] [mu] [f] [d]
    G: nach Wien abgefertigt.
-[l] [le] [m] [was] [er] [#190] [fa] [l] [s] [i] [t] [er] [t]
+[l] [le] [m] [was] [er] [#190] [fa] [l] [s] [i] [t] [er] [#6]
 [#5] [WIEN] [a] [b] [ge] [fe] [r] [ti] [f] [t]
 der Abgesandte vom Tarter Chan
 vor Vernehman, waß der nach M
@@ -7725,7 +7725,7 @@ net worden.  [ba] [se] [f] [zi] [e] [ro] [w] [s] [gu] [u] [te] [he] [t] [i] [n]
    G: macht hier beÿ Hof spargiren, daß der von Monspeur
 [s] [keit] [f] [te] [brandenburg] [me] [da] [c] [h] [te] [k] [be] [t] [hu] [ne] [ma] [c] [h] [t] [hi]
    G: de Feuquiere hinterlaßene Secretarius la Piquetiere sich
-[er] [bey] [ho] [le] [ein] [e] [n] [b] [ru] [i] [t] [dass] [der] [von] [oder] [f] [pu] [e] [u] [k]
+[er] [bey] [ho] [le] [ein] [e] [n] [b] [ru] [i] [t] [dass] [der] [von] [mo] [f] [pu] [e] [u] [k]
 
 == dorffler-19-102/p0487L
 privatim aufgehalten, nümohr aber
@@ -7792,9 +7792,9 @@ daß auch der König Sie nicht gern
    G: Misverständtnus gerathen
 [me] [n] [i] [n] [g] [ro] [s] [se]
    G: so drunten zu Marienburg
-[ge] [ra] [t] [he] [n] [und] [#229] [uber]
+[ge] [ra] [t] [he] [n] [und] [#229] [vor]
    G: Königin eine zimliche go
-[so] [d] [tu] [n] [te] [n] [zu] [ma]
+[so] [d] [ru] [n] [te] [n] [zu] [ma]
    G: dreymahl hundert tausend
 [von] [den] [e] [n] [die] [KOENIG] [i] [n]
    G: macht und der Officier so
@@ -7848,23 +7848,23 @@ daß auch der König Sie nicht gerne habe mit sich nehmen wollen,  [so]
 
 == dorffler-19-102/p0503L
    G: anbietung worden, welche stett vor dies
-[n] [aus] [ein] [e] [m] [z] [c] [h] [ne] [i] [der] [o]
+[n] [aus] [ein] [e] [m] [z] [c] [wolle] [ne] [i] [der] [do]
    G: res verwaltet haben, durch unvorsichti
 [#3] [e] [n] [bu] [r] [g] [wo] [r] [als] [welche] [s] [wo]
    G: ob über siebentzig tausend gülden schaden
 [k] [s] [se] [le] [u] [t] [he] [und] [se] [na] [to] [#12]
-[n] [#1162] [u] [n] [vor] [sich] [ti] [ge] [n] [ver] [ka] [#3]
+[n] [#1162] [u] [di] [vor] [sich] [ti] [ge] [n] [ver] [ka] [#3]
 [#13] [#283] [zi] [g] [tausend?] [gu] [l] [den] [s] [c] [ha] [den] [#6]
    G: der Königin
 [hi]  desen geschehen ist, wegeñb  [der] [KOENIG] [hi] [n]
    G: eht in der Haüßhaltung revisor seÿ
-[#3] [s] [ba] [i] [n] [der] [ha] [u] [s] [ha] [l] [t] [ung] [d]
+[#3] [s] [t] [i] [di] [der] [ha] [u] [s] [ha] [l] [t] [ung] [einem]
    G: die Königin von
 [y]  Man hält dafür daß  [die] [KOENIG] [i] [n] [von]
    G: elt auf den Landtagen employren wer
-[l] [de] [ein] [t] [he] [i] [i] [auf] [#187] [la] [n] [d] [#13]
+[l] [de] [ein] [t] [he] [i] [di] [auf] [#187] [la] [n] [d] [#13]
    G: Nobilitatis nach Ihren Gefallen zu stiu
-[n] [wer] [de] [um] [da] [#263] [s] [ba] [die] [ca] [pi] [ta]
+[n] [wer] [de] [um] [da] [#263] [s] [t] [die] [ca] [pi] [ta]
 [n] [er] [p] [fe] [i] [f] [fe] [zu] [s] [ti] [m] [me] [n]
 verbleibe in tiefster Devotion
 Allerunterthänigst
@@ -7977,10 +7977,10 @@ bewandt sey;  [i] [m] [#200] [wi] [a] [h] [ne] [n] [re] [ih] [s] [ta] [ge] [als]
    G: habt selbige gelder ohn des Rege angegriffen haben, welche die
 [n] [ba] [i] [re] [ge] [l] [d] [mi] [n] [#1] [n] [l] [von] [ent] [t] [he] [e] [ge] [ha] [b] [t] [FRANTZOSI] [i] [ge]
    G: nun eben widerumb her bey geschaffet und deßwegen der König
-[ge] [l] [der] [i] [n] [s] [ci] [o] [KOENIG] [a] [t] [#187] [b] [ri] [d] [fe] [n] [ha] [be] [n] [welche] [si]
+[ge] [l] [der] [i] [n] [s] [ci] [o] [KOENIG] [a] [t] [#187] [b] [ri] [f] [fe] [n] [ha] [be] [n] [welche] [si]
    G: von neuen ne so lang zeit her gefochten hat.
 [e] [nu] [n] [aber] [ri] [der] [um] [he] [l] [te] [ge] [ci] [c] [ha] [f] [t] [und] [des] [we] [ge] [n]
-[den] [KOENIG] [von] [s] [ein] [er] [re] [y] [se] [so] [#161] [n] [ge] [zu] [ru] [c] [k] [ge] [ha] [l] [te]
+[den] [KOENIG] [von] [s] [ein] [er] [re] [y] [se] [so] [la] [n] [ge] [zu] [ru] [c] [k] [ge] [ha] [l] [te]
 [n] [ha] [t]  Gestern, allß ich bey dem Baron Zierowski war und gegen Ihn
 gedachte, daß Graf Carl von Wallstein am Kayserlichen Hofe zum Ambassadeurn
 nach Pohlen destinirt wäre, gab Er mir zur antwort, Er konte es nimmer-
@@ -8090,7 +8090,7 @@ allergnädigst erinnern, daß Ich
 [die] [se] [m] [ho] [fe] [co] [n] [#7]
 [be] [hu] [t] [sa] [m] [ge] [he] [n]
    G: fern auf E:K:M: ordre hi
-[ru] [m] [lich] [ekmt] [o] [r] [ihr] [#7]
+[se] [m] [lich] [ekmt] [o] [r] [ihr] [#13]
    G: auff ferneren bescheid an m
 [y] [p] [ro] [c] [he] [n] [bis]
 [he] [i] [d] [a] [n] [mich] [ha] [l] [#13]
@@ -8139,17 +8139,17 @@ allergnädigst erinnern, daß Ich  [ich] [i] [n] [de] [h] [ne] [n] [sa] [c] [he]
 [he] [i] [d] [a] [n] [mich] [ha] [l] [te] [n] [so] [l]  werde ich mit schül-
 digster Treue zu menagiren mir angelegen seÿn laßen; gestalten ich
    G: hierin weiter zu gehen, da seit neulicher er-
-auch ohne dehm  [hi] [e] [von] [we] [i] [to] [r] [zu] [ti] [q] [re] [c] [he]
+auch ohne dehm  [hi] [e] [von] [we] [i] [to] [r] [zu] [s] [q] [re] [c] [he]
    G: wehnung
 [n] [fur] [u] [n] [no] [t] [hi] [g] [er] [#239] [et]  nach dehm ich vernom-
    G: daß die hiesige proceres, wie auch der König
-men,  [we] [s] [se] [n] [#264] [die] [hi] [e] [si] [ge] [p] [ro] [ce] [re] [ti]
+men,  [we] [s] [se] [n] [#264] [die] [hi] [e] [si] [ge] [p] [ro] [ce] [re] [s]
    G: in puncto securitatis deß
-[ri] [auch] [der] [pe] [alliancezwischen] [s] [t] [i] [fo] [pu] [n] [c] [to] [se] [cu] [ri]
+[ti] [auch] [der] [pe] [alliancezwischen] [s] [t] [i] [fo] [pu] [n] [c] [to] [se] [cu] [ri]
    G: Ertzbisthumbs Ermelandt gegen die beÿm
 [ta] [ti] [go] [des] [hertzog] [t] [h] [um] [s] [PREUSSI] [ge] [ge] [n] [die] [bey] [de]
    G: letzten Reichstage allhier erschienene Churfürstliche Mini-
-[m] [le] [t] [x] [r] [n] [re] [ich] [s] [ta] [ge] [f] [l] [hi] [er] [er] [fi]
+[m] [le] [t] [x] [r] [n] [re] [ich] [s] [ta] [ge] [a] [l] [hi] [er] [er] [fi]
    G: stros erkläret haben.
 [c] [hi] [e] [ne] [n] [e] [churfurst] [lich] [e] [mi] [ni] [s] [t] [ro] [s] [er] [k]
    G: der Kaÿser-
@@ -8162,9 +8162,9 @@ men,  [we] [s] [se] [n] [#264] [die] [hi] [e] [si] [ge] [p] [ro] [ce] [re] [ti]
 Durchlauchtigster Großm
 Allergnädigster Kän
 Zierowskij etwas gedacht, daß d
-[ge] [zi] [e] [ro] [w] [s] [ki] [et] [was] [ge] [da]
+[ge] [zi] [c] [ro] [w] [s] [ki] [et] [was] [ge] [da]
    G: sche conduite in der Hollsteinschen
-[sa] [co] [n] [du] [i] [te] [i] [n] [#186] [t]
+[BRANDENBURG] [co] [n] [du] [i] [te] [i] [n] [der] [t]
    G: J:M: so verdächtig vorgekommen,
 [ekmt] [ver] [da] [c] [h] [ti] [g] [ne] [ge] [ko]
 auch so forth meine mesures genommen,
@@ -8275,7 +8275,7 @@ Er über  [n] /m Dukaten in specie verlohren. Von Wien auß hatt Er
    G: von den beyden der erste u
 [#175] [ung] [den] [bey] [den] [der] [i]
    G: von Franckreich alß Österr
-[he] [ro] [so] [wo] [l] [fa] [FRANKREICH] [#1]
+[he] [ro] [so] [wo] [l] [von] [FRANKREICH] [#1]
    G: Er auf der Kayserlichen S
 [ge] [n] [we] [s] [wo] [ge] [n] [er]
 [k] [ein] [e] [n] [c] [re] [di] [#6]
@@ -8479,7 +8479,7 @@ Hofe kommend alhir en passant a
 ten wißen, wir schon um soldatel
 Österreich lauten. Es ist zwar nicht
    G: jablonowsky war wohl Ihle eine
-[b] [lo] [no] [w] [s] [ki] [i] [wo] [n]
+[b] [lo] [no] [w] [s] [ki] [wi] [wo] [h]
    G: geneigten dinst durch das gan
 [t] [he] [r] [KAYSER] [lich] [e] [pe] [n] [#12]
 [noch] [nicht] [hi] [des] [to] [we] [ni] [g]
@@ -8513,7 +8513,7 @@ len wißen, wie schön und holdselig anitzo die worte zu Zolkiew für
    G: der Cron Feldherr
 Östereich lauten. Es ist zwar nicht ohne daß  [der] [CRON] [ENVOYE] [HERR] [i] [a]
    G: jablonowsky weil Er eine geraume Zeit her Frantzos: pensiones
-[b] [lo] [no] [w] [s] [ki] [ri] [wo] [l] [er] [ein] [e] [ge] [ra] [u] [me] [ze] [i]
+[b] [lo] [no] [w] [s] [ki] [moscow] [wo] [l] [er] [ein] [e] [ge] [ra] [u] [me] [ze] [i]
    G: genoßen annoch nichts desto weiniger die Frantzösche Seite hält
 [t] [he] [r] [#310] [lich] [e] [pe] [n] [si] [o] [n] [es] [ha] [no] [s] [se] [n] [den]
 [noch] [nicht] [hi] [des] [to] [we] [ni] [g] [er] [die] [FRANTZOSI] [s] [c] [he] [se] [i] [te] [he]
@@ -8592,26 +8592,26 @@ wird, im nahmen Ihr K. Mt. schreiben könne. p.
 
 == dorffler-19-102/p0603L
 Zu verhalten, behutsam vor
-[n] [si] [c] [he] [n] [mit] [der] [CRON] [#1]
+[n] [sa] [c] [he] [n] [mit] [der] [CRON] [#1]
 [te] [u] [we] [s] [se] [n] [si] [e] [sich]
-[fur] [g] [di] [zu] [ver] [se] [he] [n] [ka]
+[fur] [e] [n] [zu] [ver] [se] [he] [n] [ka]
    G: nicht zu u
 [h] [re] [n] [UNTER] ) Weilen  [nicht] [zu] [#1]
    G: E: K: Mayt: ordres zu fu
 ich vorhin  [ekmt] [o] [r] [d] [re] [s] [#1]
 [hi] [e] [si] [ge] [n] [ho] [fe] [s] [p] [#1]
    G: conjuncturen,
-nun Twar dieselbige  [#275] [c] [tu] [b]
+nun Twar dieselbige  [#275] [c] [tu] [#13]
    G: vorbey sey
-[ge] [di] [nu] [me] [h] [r] [fur] [bey] [se]
+[m] [di] [nu] [me] [h] [r] [fur] [bey] [se]
    G: in Teutschland sich erregenden neue
-[i] [n] [te] [#238] [t] [s] [c] [h] [la]
+[i] [n] [te] [#256] [t] [s] [c] [h] [la]
    G: kan, wie E. K. Mayt:
 [u] [bi] [n] [e] [me] [r] [ge] [n] [ti] [#7]
 [s] [se] [n] [ka] [n] [wi] [ekmt] ) wielh
 [he] [di] [als] ) Lebe aller demuthig
    G: gnadigst geruhen, mir weitern Be
-[l] [li] [g] [e] [di] [g] [s] [t] [ge]
+[l] [#185] [g] [e] [di] [g] [s] [t] [ge]
 [n] [UNTER] [r] [ich] [t] [zu] [er] [t]
    G: passu bey jetzigen con
 in diesem  [mu] [s] [wa] [g] [i] [y]
@@ -8623,15 +8623,15 @@ Worbey ich dann auch meine du
    G: allerunterthanigste suppli
 reiche  [a] [l] [er] [UNTER] [t] [be] [u]
    G: dieses Diensttages solch notigen
-[e] [we] [ge] [di] [des] [zu] [den] [e] [#1]
+[e] [we] [ge] [n] [des] [zu] [den] [e] [#1]
 [s] [re] [ich] [s] [ta] [ge] [s] [ho]
    G: sub
 [si] [di] [i] ) ohne welches Zu  [su]
 [n] [mo] [g] [#185] [fa] [l] [e] [n] [b]
    G: demuhtigst bittend, daß E: K: M
-[de] [mu] [t] [ti] [g] [s] [t] [bi]
+[de] [mu] [t] [ti] [g] [s] [n] [bi]
    G: mittel Zu verschaffen.
-[be] [di] [s] [mi] [t] [te] [l] [zu]
+[be] [di] [s] [mi] [n] [te] [l] [zu]
    G: außerste noht und dua
 ehe die  [e] [u] [s] [er] [s] [te]
    G: stoßen
@@ -8644,13 +8644,13 @@ Hof aber berichten Sie schmerzlich,
 == dorffler-19-102/p0603R
 zu rathe halten, behutsam verfahren, und
 [n] [sa] [c] [he] [n] [mit] [der] [CRON] [#187] [da] [ekmt] [nicht] [wi] [s] [se] [n] [lich] [n]
-[te] [u] [we] [s] [se] [n] [si] [e] [sondern] [e] [i] [g] [ent] [lich] [ge] [ge] [n] [de] [m]
+[te] [u] [we] [s] [se] [n] [si] [e] [sich] [e] [i] [g] [ent] [lich] [ge] [ge] [n] [de] [m]
 [fur] [e] [n] [zu] [ver] [se] [he] [n] [ha] [t] [te] [n] [be] [hu] [t] [sa] [m] [ver] [fa]
    G: nicht zu desselben Faveur
 [h] [re] [n] [vor]  Weilen  [nicht] [zu] [wi] [le] [e] [n] [fa] [u] [e] [u] [bi]  wie
    G: E: K: Maytt ordres zu folge gethan, am hiesigem hofe spahren solle
-ich vorhin  [ekmt] [o] [r] [d] [re] [s] [zu] [dass] [l] [ge] [s] [ba] [ha] [n] [a] [m]
-[hi] [e] [si] [ge] [n] [ho] [fe] [s] [p] [re] [de] [he] [n] [so] [l] [te]  Wanu
+ich vorhin  [ekmt] [o] [r] [d] [re] [s] [zu] [dass] [l] [ge] [n] [ba] [ha] [n] [a] [m]
+[hi] [e] [si] [ge] [n] [ho] [fe] [s] [p] [re] [c] [he] [n] [so] [l] [te]  Wanu
    G: conjuncturen, so E: K: Maytt hiesigen besagten ministro
 nun unter dieselbige  [#275] [c] [tu] [re] [n] [so] [ekmt] [hi] [er] [zu] [be] [wo]
    G: vorbesagten
@@ -8681,7 +8681,7 @@ reichte  [a] [w] [er] [UNTER] [t] [ha] [ni] [g] [s] [te] [wi] [p] [y] [li] [x] [
    G: zu subsistiren, mir unmoglich fallen wird
 [si] [di] [i]  ohne welches zu  [su] [b] [si] [s] [ti] [re] [n] [mi] [r] [u]
    G: und
-[n] [mo] [g]  . [lich] [fa] [l] [e] [n] [bey] [d]  nochmahlen wiederhole,  [und]
+[n] [mo] [g]  . [lich] [fa] [l] [e] [n] [bey] [ze]  nochmahlen wiederhole,  [und]
    G: demuthigst bitte, daß E. K: Maytt
 [de] [mu] [t] [ti] [g] [s] [t] [bi] [t] [te] [dass] [ekmt]  mir die  [se] [le]
    G: mittel zu rechter zeit selben
@@ -8842,7 +8842,7 @@ Knecht
 G. Lörs Cler.
 
 == dorffler-19-103/p0033R
-Dat: Warschau d  [k]  Martij  [#1690]  præsent: Stockholm d  [e]  April.
+Dat: Warschau d  [m]  Martij  [#1690]  præsent: Stockholm d  [e]  April.
 Durchläuchtigster Großmächtigster König
 Allergnädigster Herr.
 Für dieses mahl fällt weinig importirliches à part zu berichten vor, auß-
@@ -8858,7 +8858,7 @@ sent-  [ein] [er] [i] [n] [den] [ko] [p] [f] [e] [n] [ver] [ru] [c] [k] [t] [et]
    G: mit unter, für eine farce passiren
 scenia  [ge] [z] [n] [t] [er] [s] [ce] [ni] [d] [mit] [wider]  die wol  [fur] [ein] [g] [fa] [r] [ce] [be] [s] [te]
    G: können. en detail erzehlet werden solten,
-[he] [n] [ko] [n] [ne] [n] , welche, wan sie alle  [e] [n] [de] [ta] [i] [q] [er] [als] [h]
+[ke] [n] [ko] [n] [ne] [n] , welche, wan sie alle  [e] [n] [de] [ta] [i] [q] [er] [als] [h]
    G: der Nation zum Schimpf und spott gereichen
 [le] [t] [wer] [den] [sol] [te] [n] [der] [na] [si] [zu] [m] [s] [c] [hi] [m] [p] [l] [und] [s] [po]
    G: einer satÿre als hatten
@@ -8870,7 +8870,7 @@ scenia  [ge] [z] [n] [t] [er] [s] [ce] [ni] [d] [mit] [wider]  die wol  [fur] [e
    G: König selbst begegnet ist, allhier anzuführen.
 [te] , so dem  [KOENIG] [sel] [s] [t] [y] [ge] [g] [ne] [e] [ist] [a] [l] [hi] [er] [a] [n] [zu] [fu] [h] [re]
    G: Königl gesinten es für andern mit kir-
-[n]  In diesen Tagen, da die  [ro] [mi] [s] [c] [h] [ge] [pu] [n] [n] [te] [sich] [fur] [a] [n]
+[n]  In diesen Tagen, da die  [hat] [mi] [s] [c] [h] [ge] [pu] [n] [n] [te] [sich] [fur] [a] [n]
    G: chengehen und äuserlichen ceremonien devot beweisen
 [der] [n] [mit] [ki] [r] [c] [he] [n] [ge] [he] [n] [und] [e] [u] [se] [r] [lich] [e] [n] [ce] [re] [mo]
    G: junger Landbotte von eihm
@@ -8878,7 +8878,7 @@ scenia  [ge] [z] [n] [t] [er] [s] [ce] [ni] [d] [mit] [wider]  die wol  [fur] [e
    G: vornehmen Hause und ex Familia senatoria, deßen Vater ein Officialis
 [he] [von] [ein] [e] [ke] [vor] [ze] [h] [me] [t] [ha] [u] [se] [und] [e] [x] [fa] [lich] [li] [no] [se]
    G: Regni ist,
-[pi] [to] [ri] [bu] [des] [se] [n] [u] [a] [te] [e] [ein] [o] [f] [fi] [s] [a] [li] [s] [re] [g] [ni]
+[pi] [to] [ri] [a] [des] [se] [n] [u] [a] [te] [e] [ein] [o] [f] [fi] [s] [a] [li] [s] [re] [ca] [ni]
    G: Es eine wallfahrt nach der kirchen hatte thun
 [ist] , anstalt, daß  [er] [se] [i] [ne] [wa] [l] [fa] [h] [r] [t] [h] [nach] [der] [ki] [r] [c] [he]
    G: sollen, nach des Königs cabinet
@@ -8997,9 +8997,9 @@ Bey solcher gelegenheit  [ka] [n] [es] [so] [ge] [na] [u] [nicht] [a] [b] [ge] [
    G: auh eine kostbahre Zobell mutz
 [wi] [da] [o] [n]  für wenig tagen  [auch] [ein] [e] [he] [s] [t] [ba] [ze] [d]
    G: mitt einer Strauß federn ertz von Demanten verEhrt
-[l] [pi] [t] [ze] [mit] [ein] [doch] [da] [aus] [n] [ge] [he] [f] [te] [t] [le] [n] [ro] [s]
+[l] [pi] [t] [ze] [mit] [ein] [doch] [da] [aus] [n] [ge] [he] [f] [te] [t] [e] [n] [ro] [s]
    G: worden ist. hievon Ich still.
-[von] [de] [ma] [n] [te] [n] [y] [n] [sich] [t] [ba] [x] [wo] [r] [den] [ist] [hi] [er] [s]
+[von] [de] [ma] [n] [te] [n] [y] [n] [sich] [t] [ba] [r] [wo] [r] [den] [ist] [hi] [er] [s]
 [he] [ich] [s] [ti] [l] [und]  Bitte E K Mt mit aller unterthänigstem resp
 ümb pardon, wofern ich mich bey dieser materie zu lang und über
 gebühr aufgehalten habe.
@@ -9062,22 +9062,22 @@ wann der König seine Coffres rühren, und den Vorschub thun
    G: allein die Nachbarschaft wurde nicht gar wohl dabeÿ fahren
 [a] [l] [ein] [die] [er] [ba] [r] [s] [ung] [ha] [f] [t] [wer] [de] [nicht] [ga] [r] [wo]
    G: sondern allezeit auf ihr hutt stehen müßen, wann Pohlen d
-[r] [te] [q] [h] [re] [r] [sondern] [a] [l] [als] [n] [t] [auf] [ih] [er] [hu] [t] [t] [s] [ti]
+[r] [bey] [q] [h] [re] [r] [sondern] [a] [l] [ze] [n] [t] [auf] [ih] [er] [hu] [t] [t] [s] [ti]
    G: Augen aufthun und seine Macht recht kennen und gebr
 [n] [e] [s] [se] [n] [wa] [n] [n] [POHLEN] [die] [a] [u] [ge] [n] [auf] [t] [hu] [n] [UNTER] [s] [ein]
    G: solte
 [ma] [c] [h] [t] [ein] [re] [c] [h] [t] [ke] [n] [ne] [n] [und] [ge] [b] [ra] [u] [c] [he] [n] [so]
 [te] | derhalben ist nöthig, daß die Ministri exterorum Princip
    G: die Landtbothen auf dem Reichstage, durch heimliche Vorstellu
-[die] [la] [n] [be] [bo] [t] [he] [die] [de] [m] [re] [ich] [m] [ta] [ge] [durch] [s] [c] [h]
+[die] [la] [n] [ge] [bo] [t] [he] [die] [de] [m] [re] [ich] [m] [ta] [ge] [durch] [s] [c] [h]
    G: daß der König, wann dieser modus contribuendi eingeführet w
-[ba] [re] [vor] [s] [te] [l] [ung] [e] [n] [dass] [der] [hertzog] [wa] [n] [n] [die] [s] [e]
+[ba] [re] [#232] [s] [te] [l] [ung] [e] [n] [dass] [der] [hertzog] [wa] [n] [n] [die] [s] [e]
    G: solte, keine Reichstäge mehr von nothen habe und alsdann au
-[du] [s] [co] [n] [t] [ri] [n] [lich] [n] [di] [ein] [ge] [fu] [h] [r] [t] [#232] [den] [sol] [te]
+[du] [s] [co] [n] [t] [ri] [f] [lich] [n] [di] [ein] [ge] [fu] [h] [r] [t] [#232] [den] [sol] [te]
    G: ihre freÿe Stimme, die ihre große Gewalt in comitiis exercirt
 [er] [re] [ich] [r] [ta] [ge] [me] [h] [r] [von] [no] [t] [he] [ha] [be] [n] [und] [als] [den] [n]
    G: wenig mehr gelten wurde
-[ih] [e] [f] [re] [r] [e] [s] [ti] [m] [me] [die] [ih] [e] [g] [ro] [s] [te] [ge] [wa] [l] [#3]
+[ih] [mu] [f] [re] [r] [e] [s] [ti] [m] [me] [die] [ih] [e] [g] [ro] [s] [te] [ge] [wa] [l] [#3]
 [n] [co] [mi] [ti] [i] [s] [e] [x] [er] [ci] [r] [r] [we] [ni] [g] [me] [h] [r] [ge] [l] [te] [#3]
 [de] | Weil mit morgendem Tage die prolongation des Reichstag
 endigt; zu dato aber wegen der großen Uneinigkeit und Spaltu
