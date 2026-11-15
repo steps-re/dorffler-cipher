@@ -1,0 +1,7 @@
+data/full/
+data/halves/
+data/dta/
+data/lm6.json
+data/*.lock
+__pycache__/
+*.log

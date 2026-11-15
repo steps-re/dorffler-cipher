@@ -1,0 +1,44 @@
+{"n": "295", "uses": 80, "examples": 10, "value": "ekmt", "confidence": "high", "why": "Consistently aligns with 'ekmt' or 'ekm' (Eure Königliche Majestät) across multiple decryptions."}
+{"n": "2", "uses": 66, "examples": 10, "value": "n", "confidence": "high", "why": "Completes words: geruhen, gefallen, promessen, in, unkosten."}
+{"n": "1", "uses": 55, "examples": 10, "value": "UNKNOWN", "confidence": "low", "why": "Contexts require different values (i, so, d, ra, m), suggesting transcription errors or polysemy."}
+{"n": "3", "uses": 42, "examples": 10, "value": "UNKNOWN", "confidence": "low", "why": "Contexts suggest conflicting values (s, z, r, ssen), likely representing a null cipher character."}
+{"n": "6", "uses": 40, "examples": 10, "value": "UNKNOWN", "confidence": "low", "why": "The decoded text fragments do not align with the provided contemporary decryptions, indicating severe noise/nulls."}
+{"n": "200", "uses": 30, "examples": 10, "value": "UNKNOWN", "confidence": "low", "why": "Context suggests conflicting values like 'tion' (innovation) and 'ewkmtt' (Ew. K. Mtt.)."}
+{"n": "4", "uses": 30, "examples": 10, "value": "hs", "confidence": "medium", "why": "Fits 'dieses reichs[hs]stages' and possibly 'capu[t]' if misread or 'dahufge[hs]en'."}
+{"n": "9", "uses": 30, "examples": 10, "value": "hi", "confidence": "high", "why": "Fits mite[hi]stem (mitehistem), dec[hi]cirt (dechiffriret/decifirt), span[hi]m (Spanheim), frewla[hi]s (Frewlahisch)."}
+{"n": "269", "uses": 26, "examples": 10, "value": "churfurst", "confidence": "high", "why": "Direct matches in decryptions: 'der [N] seinen' -> 'derchurfurstseinen', '[N] lichen' -> 'churfurstlichen'."}
+{"n": "8", "uses": 25, "examples": 6, "value": "ge", "confidence": "medium", "why": "Fits 'davongegan[ge]n' and 'rathzufol[ge]'; 'mi' fits 'minister' in first two."}
+{"n": "12", "uses": 24, "examples": 10, "value": "UNKNOWN", "confidence": "low", "why": "Contexts show different lengths and values (se, rder, rio, etc.), possibly a null or punctuation."}
+{"n": "5", "uses": 23, "examples": 10, "value": "l", "confidence": "medium", "why": "Fits so[l]che, mitte[l] in context, though some examples suggest 'n' (koenigi[n], pose[n])."}
+{"n": "201", "uses": 20, "examples": 10, "value": "brandenburg", "confidence": "high", "why": "Matches 'brandenburg' in multiple decryptions (e.g., 'von chur brandenburg komt', 'am brandenburg[i]schen')."}
+{"n": "13", "uses": 18, "examples": 10, "value": "UNKNOWN", "confidence": "high", "why": "Decryption text fails to align with the provided before/after context, indicating a null or mismatch."}
+{"n": "7", "uses": 17, "examples": 10, "value": "UNKNOWN", "confidence": "low", "why": "Surrounding text and decryptions are misaligned and do not point to a single value."}
+{"n": "187", "uses": 16, "examples": 10, "value": "UNKNOWN", "confidence": "low", "why": "The contexts (uberein-stehen, werden-mochte, ungarn) do not converge on a single plausible value."}
+{"n": "230", "uses": 14, "examples": 10, "value": "alliancezwischen", "confidence": "high", "why": "Consistently aligns with 'alliance zwischen' after 'triple', 'keiner', and 'eine'."}
+{"n": "191", "uses": 14, "examples": 10, "value": "mich", "confidence": "high", "why": "Directly aligns with 'mich' in multiple decryptions (e.g., an[mich]sch, wieich[mich], und[mich]mitbehori)."}
+{"n": "202", "uses": 13, "examples": 10, "value": "le", "confidence": "high", "why": "Forms 'leichtlich' (ensichnicht [le] ichtlichein) and 'gleich' (g [le] ichpars) matching the decryptions."}
+{"n": "253", "uses": 13, "examples": 10, "value": "alliance", "confidence": "high", "why": "Consistently aligns with 'alliance' or 'allience' in the contemporary decryption across multiple contexts."}
+{"n": "175", "uses": 12, "examples": 10, "value": "UNKNOWN", "confidence": "low", "why": "The provided decryptions do not consistently align with the surrounding context."}
+{"n": "198", "uses": 12, "examples": 10, "value": "mit", "confidence": "medium", "why": "Matches 'mit' before 'pruglen' and 'vorbewust' in contemporary decryptions."}
+{"n": "172", "uses": 12, "examples": 10, "value": "ze", "confidence": "medium", "why": "Fits 'der gant[ze]n christenheit', though other lines show garbled or misaligned context."}
+{"n": "193", "uses": 9, "examples": 10, "value": "mochte", "confidence": "high", "why": "Consistently aligns with 'mochte' after 'finden', 'kommen', and 'einfinden' in the decryptions."}
+{"n": "168", "uses": 9, "examples": 10, "value": "er", "confidence": "high", "why": "Fits 'erofnen' ([N]ofnen), 'erofnet' ([N]ofnet), and 'dasserauch' (habendass[N]auchdemp)."}
+{"n": "11", "uses": 8, "examples": 5, "value": "einem", "confidence": "high", "why": "Fits 'in [einem]', 'zu s[einem] ungluck' matching contemporary decryption 'diener zu seinem u[ngluck]'."}
+{"n": "254", "uses": 8, "examples": 10, "value": "ambassade", "confidence": "high", "why": "Forms 'ambassade' before 'betrefend', and 'ambassadeur' when followed by 'ur'."}
+{"n": "182", "uses": 7, "examples": 10, "value": "UNKNOWN", "confidence": "high", "why": "Cipher contexts correspond to different words in decryptions (keine, michge, teewkmt)."}
+{"n": "217", "uses": 7, "examples": 10, "value": "konig", "confidence": "high", "why": "Matches 'konig' in 'koniginpohlen' and 'konig[lichen]mayt' across multiple decryption lines."}
+{"n": "190", "uses": 7, "examples": 10, "value": "UNKNOWN", "confidence": "high", "why": "Contexts require incompatible values (nichtab, nichtbre, mitt, dis), suggesting a null or variable homophone."}
+{"n": "336", "uses": 7, "examples": 10, "value": "schwed", "confidence": "high", "why": "Fits '[schwed]nundpohlen' (Schweden und Pohlen) and 'der[schwed]ische' (der schwedischen)."}
+{"n": "160", "uses": 7, "examples": 10, "value": "doch", "confidence": "medium", "why": "Aligns with 'dadochderbrieff' (geschehen-[doch]-derbrie) and 'woltedochgleichwoll' (nwolti-[doch]-gleichwo)."}
+{"n": "163", "uses": 7, "examples": 10, "value": "li", "confidence": "high", "why": "Fits 'fureinepo[li]ti(que)' and 'beyderomi[li]ce'."}
+{"n": "312", "uses": 6, "examples": 10, "value": "hertzog", "confidence": "high", "why": "Matches 'dass [N]thum' -> 'dasshertzogthum' and 'den [N] incur' -> 'denherczogincurland'."}
+{"n": "181", "uses": 6, "examples": 10, "value": "UNKNOWN", "confidence": "high", "why": "Contexts require contradictory values (e.g., 'la' in ablauffen, 'ra' in rapporte, 'e' in kayserlichen)."}
+{"n": "185", "uses": 6, "examples": 10, "value": "UNKNOWN", "confidence": "low", "why": "Nomenclator appears to be a null (non-significant symbol) as surrounding text is contiguous."}
+{"n": "229", "uses": 6, "examples": 10, "value": "UNKNOWN", "confidence": "high", "why": "N represents a null or line break; fits zube[N]rgen -> zubesorgen and gerathenund[N]zwar."}
+{"n": "148", "uses": 6, "examples": 10, "value": "ation", "confidence": "high", "why": "Forms denunciation, negotiation, information, legation from stems denuci-, negoti-, iform-, leg-."}
+{"n": "186", "uses": 6, "examples": 10, "value": "UNKNOWN", "confidence": "low", "why": "Conflicting contexts: 'lass' in 'lassen' vs 'ma' in 'kriegesmacht'."}
+{"n": "02", "uses": 6, "examples": 8, "value": "fa", "confidence": "high", "why": "Forms 'favoriten' (with 'uorite') as seen in the contemporary decryption 'diefavoritendeshoffes'."}
+{"n": "184", "uses": 5, "examples": 10, "value": "UNKNOWN", "confidence": "high", "why": "Different instances require different values (konn, to, ro) due to misalignment or multiple cipher numbers."}
+{"n": "271", "uses": 5, "examples": 9, "value": "communic", "confidence": "high", "why": "Fits communiciren, communiciret, and communication in the decryptions."}
+{"n": "250", "uses": 5, "examples": 8, "value": "abgesandt", "confidence": "high", "why": "Matches 'abgesanten'/'abgesandten' before '-en' in multiple decryptions (e.g., damahligen [abgesandt]en breza)."}
+{"n": "266", "uses": 5, "examples": 8, "value": "bischof", "confidence": "high", "why": "Matches 'den bischof von kamieniec' and 'bischof von luceoria' in contemporary decryptions."}
