@@ -1,0 +1,86 @@
+align.py: key key_c04.json, W=8, draws=20. W and tau chosen on the FIT half only (W grid: align.py tune); test half not used for any choice.
+tau = 0.40 (smallest step-0.05 threshold with mean shuffled G acceptance < 2% on fit-half G lines)
+G acceptance, fit half: real 694/962 = 0.721 | shuffled mean 0.018 max 0.026
+plain acceptance, fit half: real 19/3406 = 0.0056 | shuffled mean 0.0002 max 0.0006
+G acceptance, all halves: real 1045/1386 = 0.754 | shuffled mean 0.017 max 0.023
+plain acceptance, all halves: real 31/5213 = 0.0059 | shuffled mean 0.0002 max 0.0004
+
+C04 score             oldN old next-two: real shuf mean/max |    newN new alignment: real shuf mean/max
+test                   422 0.621  0.101 / 0.119        |   14272 0.609  0.003 / 0.007
+fit                    960 0.553  0.099 / 0.116        |   31496 0.561  0.004 / 0.007
+fresh                  825 0.660  0.104 / 0.123        |   28731 0.647  0.003 / 0.005
+dorffler-19-100        604 0.646  0.102 / 0.123        |   20743 0.620  0.003 / 0.006
+dorffler-19-101        184 0.672  0.101 / 0.115        |    6168 0.675  0.002 / 0.004
+dorffler-19-102        512 0.421  0.093 / 0.108        |   15858 0.451  0.005 / 0.010
+dorffler-19-103         82 0.685  0.113 / 0.142        |    2999 0.723  0.002 / 0.007
+(oldN = G lines with numbers in the next two L lines; newN = G lines >= 4 letters. Denominators are letters of those lines, not lines.)
+
+accepted lines: G 1045, plain recovered 31 | token classes {'ok': 14737, 'conflict': 3041, 'unknown': 308, 'edge': 187}
+misread candidate rows 161 (distinct tokens 156)
+unknown tokens with non-null opp: 113 over 51 numbers
+
+unknown-number votes (fit): number, total, top opp letters x count
+  269     8  churfurst x6, ver x2
+  200     7  tion x3, ewkmtt x1, bischoff x1
+  295     5  ekmtt x2, tewkaylmtt x1, ekmt x1
+  201     5  ohn x2, la x1, sbrandenburgi x1
+  198     4  si x1, mit x1, lich x1
+  07      3  ge x3
+  323     2  muskow x1, moscow x1
+  336     2  schwed x2
+  186     2  lass x1, ma x1
+  213     2  uber x2
+  193     2  ti x1, thi x1
+  182     2  kein x1, bey x1
+  191     2  noch x1, mich x1
+  3       2  z x1, ti x1
+  349     1  dtha x1
+  1       1  her x1
+  5       1  ht x1
+  307     1  general x1
+  292     1  ekglmtt x1
+  181     1  la x1
+  234     1  drey x1
+  321     1  franckreich x1
+  232     1  erst x1
+  172     1  re x1
+  184     1  konn x1
+  185     1  konte x1
+  175     1  heit x1
+  168     1  er x1
+  315     1  instru x1
+  4       1  zu x1
+
+unknown-number votes (all): number, total, top opp letters x count
+  295    10  ekm x3, ekmtt x2, nach x1
+  269     9  churfurst x7, ver x2
+  200     7  tion x3, ewkmtt x1, bischoff x1
+  201     6  ohn x2, la x1, sbrandenburgi x1
+  198     5  nach x2, si x1, mit x1
+  07      5  ge x5
+  1       4  ticu x1, seh x1, i x1
+  182     4  kein x1, d x1, nte x1
+  323     3  moscow x2, muskow x1
+  5       3  spi x1, l x1, ht x1
+  213     3  uber x2, umb x1
+  168     3  er x2, lich x1
+  2       2  kten x1, n x1
+  181     2  e x1, la x1
+  296     2  nicht x2
+  336     2  schwed x2
+  186     2  lass x1, ma x1
+  193     2  ti x1, thi x1
+  172     2  re x1, ne x1
+  175     2  heit x2
+  315     2  instru x1, rinstru x1
+  4       2  hs x1, zu x1
+  191     2  noch x1, mich x1
+  3       2  z x1, ti x1
+  349     1  dtha x1
+  307     1  general x1
+  292     1  ekglmtt x1
+  310     1  kayser x1
+  194     1  mich x1
+  234     1  drey x1
+
+runtime 2s
