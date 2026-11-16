@@ -1,29 +1,49 @@
-number	C04	new	votes_for_new	votes_total
-323	-	moscow	3	4
-213	-	uber	3	4
-07	-	ge	3	3
-295	-	ekmt	model:high	80 uses
-2	-	n	model:high	66 uses
-9	-	hi	model:high	30 uses
-269	-	churfurst	model:high	26 uses
-8	-	ge	model:medium	25 uses
-201	-	brandenburg	model:high	20 uses
-230	-	alliancezwischen	model:high	14 uses
-191	-	mich	model:high	14 uses
-202	-	le	model:high	13 uses
-253	-	alliance	model:high	13 uses
-198	-	mit	model:medium	12 uses
-172	-	ze	model:medium	12 uses
-193	-	mochte	model:high	9 uses
-168	-	er	model:high	9 uses
-11	-	einem	model:high	8 uses
-254	-	ambassade	model:high	8 uses
-217	-	konig	model:high	7 uses
-336	-	schwed	model:high	7 uses
-160	-	doch	model:medium	7 uses
-163	-	li	model:high	7 uses
-312	-	hertzog	model:high	6 uses
-148	-	ation	model:high	6 uses
-02	-	fa	model:high	6 uses
-250	-	abgesandt	model:high	5 uses
-266	-	bischof	model:high	5 uses
+number	C04	new	step	evidence (fit half only)
+175	-	heit	order	sorts between hat and ich; reproduced whole at 0.33 of 9 fit-half places; local score 0.673 -> 0.713
+191	-	mich	order	sorts between lich and mit; reproduced whole at 0.38 of 13 fit-half places; local score 0.61 -> 0.676
+200	-	tion	vote	clerk's votes on the fit half
+213	-	uber	order	sorts between tion and um; reproduced whole at 0.44 of 25 fit-half places; local score 0.628 -> 0.697
+241	-	zehen	order	sorts after wolle (end of list); reproduced whole at 0.5 of 2 fit-half places; local score 0.686 -> 0.724
+253	-	alli	order	sorts before armee; reproduced whole at 0.44 of 16 fit-half places; local score 0.525 -> 0.576
+254	-	ambassad	order	sorts before armee; reproduced whole at 0.43 of 7 fit-half places; local score 0.599 -> 0.692
+266	-	capitain	order	sorts between brandenburg and cron; reproduced whole at 0.67 of 3 fit-half places; local score 0.463 -> 0.716
+269	-	churf	order	sorts between brandenburg and cron; reproduced whole at 0.38 of 32 fit-half places; local score 0.654 -> 0.72
+275	-	conjunctur	order	sorts between brandenburg and cron; reproduced whole at 1.0 of 3 fit-half places; local score 0.404 -> 0.618
+301	FRANKREICH	franckreich	reassign	C04 spelling never reproduced (0.0); new spelling 0.5 of 10 fit-half places
+307	-	general	order	sorts between furst and herr; reproduced whole at 0.6 of 5 fit-half places; local score 0.416 -> 0.557
+315	-	instru	order	sorts between herr and kayser; reproduced whole at 0.5 of 4 fit-half places; local score 0.752 -> 0.83
+317	KOENIG	konig	reassign	C04 spelling never reproduced (0.0); new spelling 0.43 of 109 fit-half places
+318	-	konig	order	sorts between koenig and pohlen; reproduced whole at 0.5 of 4 fit-half places; local score 0.31 -> 0.43
+328	-	oster	order	sorts between koenig and pohlen; reproduced whole at 0.5 of 4 fit-half places; local score 0.657 -> 0.73
+336	-	schwed	order	sorts between rheini and ungar; reproduced whole at 0.5 of 10 fit-half places; local score 0.609 -> 0.695
+
+# Withdrawn: the 28 additions of 15 Nov 2026. They were chosen with test-half decryptions in view (votes on every line, and model prompts that showed test-half examples), so their held-out gain was not a test. Fate under the fit-half-only rerun:
+number	withdrawn_value	now
+323	moscow	not supported on the fit half
+213	uber	kept as uber
+07	ge	outside the number system (under 14), likely a misread
+295	ekmt	not supported on the fit half
+2	n	outside the number system (under 14), likely a misread
+9	hi	outside the number system (under 14), likely a misread
+269	churfurst	kept as churf
+8	ge	outside the number system (under 14), likely a misread
+201	brandenburg	not supported; Brandenburg is already 261 in the names list
+230	alliancezwischen	not supported on the fit half
+191	mich	kept as mich
+202	le	not supported on the fit half
+253	alliance	kept as alli
+198	mit	not supported on the fit half
+172	ze	not supported on the fit half
+193	mochte	not supported on the fit half
+168	er	not supported on the fit half
+11	einem	outside the number system (under 14), likely a misread
+254	ambassade	kept as ambassad
+217	konig	not supported on the fit half
+336	schwed	kept as schwed
+160	doch	not supported on the fit half
+163	li	not supported on the fit half
+312	hertzog	not supported on the fit half
+148	ation	not supported on the fit half
+02	fa	outside the number system (under 14), likely a misread
+250	abgesandt	not supported on the fit half
+266	bischof	replaced by capitain (bischof cannot sort between brandenburg and cron)

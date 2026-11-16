@@ -13,6 +13,7 @@ The language model sees the cipher of every volume (no decrypts), which is fair:
 
   python3 analysis/p5.py merge            # data/reread.jsonl -> data/p5_lines.jsonl
   python3 analysis/p5.py score KEY.json   # train / held-out / shuffled scores
+  python3 analysis/p5.py vote             # clerk votes on the fit half -> data/key_fitvote.json
   python3 analysis/p5.py refine           # coordinate ascent from C04 -> data/key_p5.json
   python3 analysis/p5.py decode KEY.json  # readable decode of every line -> data/p5_decoded.txt
 """
@@ -282,25 +283,14 @@ def vote(rounds=3):
         if not ch:
             break
     report("C04 + votes (fit fold)", cv)
-    # final key: the same procedure on every decrypt; its expected accuracy is the test-fold figure
-    final = key
-    log = []
-    for r in range(rounds):
-        final, ch = vote_key(final, pairs)
-        log += ch
-        if not ch:
-            break
-    json.dump(dict(sorted(final.items(), key=lambda kv: int(kv[0])),
-                   _source="TABLE-C04 (B. Dudout, CC BY 4.0) + decrypt votes, analysis/p5.py vote"),
-              open(os.path.join(P.D, "key_final.json"), "w"), ensure_ascii=False, indent=0)
-    with open(os.path.join(P.D, "key_changes.tsv"), "w") as o:
-        o.write("number\tC04\tnew\tvotes_for_new\tvotes_total\n")
-        for row in log:
-            o.write("\t".join(map(str, row)) + "\n")
-    print("final key: %d changes over C04 -> data/key_final.json, data/key_changes.tsv" % len(log))
+    json.dump(dict(sorted(cv.items(), key=lambda kv: int(kv[0])),
+                   _source="TABLE-C04 (B. Dudout, CC BY 4.0) + decrypt votes from the fit half only, analysis/p5.py vote"),
+              open(os.path.join(P.D, "key_fitvote.json"), "w"), ensure_ascii=False, indent=0)
+    print("fit-half key: %d change(s) over C04 -> data/key_fitvote.json" % sum(cv.get(n) != key.get(n) for n in cv))
 
 
-# ---------- fill: model-proposed values for numbers the key lacks, kept only if the fit fold improves ----------
+# ---------- fill: WITHDRAWN. Its prompts showed decrypts from both halves, so its test score is not held out.
+# Kept for the record; analysis/order.py replaces it. ----------
 
 FILL_PROMPT = """You are helping complete the codebook of a 1680s German diplomatic cipher (Simon Dorffler, Swedish
 resident in Poland, writing to Charles XI). Each cipher number stands for a letter, a syllable, a word or

@@ -39,9 +39,13 @@ The pages were split before any key was changed:
 | Key | Test half | Shuffled key |
 |---|---|---|
 | TABLE-C04 as published | 62.1% | 10.3% (best of 200: 13.8%) |
-| Final key (this repository) | **64.7%** | 11.9% (best of 200: 14.6%) |
+| C04 + 1 fit-half vote | 62.1% | 10.5% (best of 200: 13.5%) |
+| + 14 alphabetical-order fills | 62.8% | 11.1% (best of 200: 14.0%) |
+| Final key (+ 2 spelling fixes) | 62.9% | 11.3% (best of 200: 14.7%) |
 
 On every decryption line outside 19/102 that the table's authors never used (825 lines), TABLE-C04 alone scores 66.0%.
+
+The changes raise the raw score 0.8 points and the shuffled score 1.0, so they are no measurable gain. TABLE-C04 itself is the result.
 
 So the key is real. It works across all four volumes, 1682-1690, and it reproduces about two thirds of the clerk's letters, while a shuffled key reproduces about one tenth. The remaining third is mostly noise around the key, not errors in it:
 
@@ -53,13 +57,15 @@ On volume 19/102 the decryptions are in very pale ink, and our readers often mis
 
 ## Step 4. What changed in the key, and what did not work
 
-- **Votes from the clerk.** Where one number sits alone in a stretch the decoding gets wrong, the clerk's letters opposite it count as a vote. Only 3 entries changed, because the table was already about as good as the decryptions can confirm.
-- **Filling the gaps.** About 100 numbers had no entry. For the 44 used five or more times, Gemini 4 Argon saw up to ten places each one occurs, with the decoding around it and the nearby decryption, and proposed a value. A proposal was kept only if it raised the score on the fit half. 25 were kept: for example 295 = "E. K. Mt." (Euer Königliche Majestät, the address to the king), 201 = Brandenburg, 253 = alliance, 266 = Bischof, 312 = Hertzog, 336 = Schwed(en). On the untouched test half, these fills raised the score from 62.0% to 64.2%. The others stay unknown.
+- **Votes from the clerk.** Where one number sits alone in a stretch the decoding gets wrong, the clerk's letters opposite it count as a vote. On the fit half this changed one entry (200 = tion).
+- **The lists are alphabetical.** In C04, 89% of pairs in the word list (146-249) and 99% in the names list (250 and up) are in alphabetical order: abgesandt 250, alliance 253, ambassade 254, bischof 260, Brandenburg 261, cron 284 ... Pohlen 331, Wien 346. So a missing value must sort between its neighbours. For each missing number, words from the letters' own plain German and the fit-half decryptions that sort into its slot were tried. A word was kept only if the fit-half decryptions reproduce it whole at least as often as an established entry (33% of its places, since each number is scored against its own decryption line and the one before) and it raised the fit-half score. 14 were kept, for example 191 = mich, 213 = uber, 269 = churf(ürst), 336 = schwed.
+- **Spelling.** Two C04 names were never reproduced: 317 KOENIG (109 fit-half places) and 301 FRANKREICH, because the clerk writes König and Franckreich. They now read konig and franckreich.
+- **What was withdrawn.** An earlier version added 28 entries and reported a held-out rise from 62.1% to 64.7%. That was not held out: the votes came from every line, and the model proposing values was shown test-half examples. Six of those values were numbers under 14, outside the number system and likely misreads. Several broke the alphabetical order (198 = mit, 266 = Bischof, 201 = Brandenburg, which is already 261). Daniel Bourdeau found the leak.
 - **A language model alone does not work.** We also tried improving the key by choosing, for each number, the value under which the decoded text reads most like 17th-century German. The model was built from 1,114 German texts of 1600-1699 in the Deutsches Textarchiv. It made the key worse on the test, 64.1% against 65.5%, and raised the shuffled score from 10% to 17%. A language model prefers common letters, not correct ones. The code is kept (`analysis/refine.py`) as a documented negative result.
 
 ## Step 4b. Re-checking disputed numbers against the image
 
-The two readers disagreed on 2,019 single numbers. Gemini 4 Argon looked at each half-page again with every disputed number listed beside its neighbours, and picked one reading. It kept the first reader 1,571 times and switched to the second 448 times. The key was not used, so the test stays fair. The held-out score rose half a point, from 64.2% to 64.7%. Letting the key decide instead gave the same result to within 0.05 points. Disputed numbers are only 8% of the total, so they were never the main gap. The rest is the looseness of the clerk's decryptions, numbers both readers misread the same way, and the 2.6% of numbers with no value.
+The two readers disagreed on 2,019 single numbers. Gemini 4 Argon looked at each half-page again with every disputed number listed beside its neighbours, and picked one reading. It kept the first reader 1,571 times and switched to the second 448 times. The key was not used, so the test stays fair. C04's held-out score rose from 61.7% to 62.1%. Letting the key decide instead gave the same result to within 0.05 points. Disputed numbers are only 8% of the total, so they were never the main gap. The rest is the looseness of the clerk's decryptions, numbers both readers misread the same way, and the 4% of numbers with no value.
 
 ## Step 5. The reading
 
@@ -69,7 +75,7 @@ The two readers disagreed on 2,019 single numbers. Gemini 4 Argon looked at each
 
 ## What is still uncertain
 
-- About 2.6% of the numbers have no key value. Most are rare, or fragments of numbers cut at the page fold.
+- About 4% of the numbers have no key value. Most are rare, or fragments of numbers cut at the page fold.
 - Single numbers are sometimes misread, and the key cannot fix those.
 - The scores are a floor: a perfect key would not reach 100%, because the decryptions themselves are loose.
 - No one has yet read the whole decode against the images by eye.

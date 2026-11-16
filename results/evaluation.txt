@@ -1,5 +1,7 @@
-After image check of 2,019 disputed numbers (448 changed to the second reading).
+Every key change below was chosen on the fit half. The test half (odd pages outside 19/102) was scored once, after all choices.
 C04 (Dudout): test half 422 decrypts 14245 letters: 0.621 | shuffled mean 0.103 max 0.138
-final: test half 422 decrypts 14245 letters: 0.647 | shuffled mean 0.119 max 0.146
-C04 on all 825 fresh decrypts outside 19/102: 0.660 | shuffled mean 0.105 max 0.136
-Before the image check: C04 test 0.617, final test 0.642, C04 fresh 0.655
+C04 + 1 fit-half vote: test 0.621 | shuffled mean 0.105 max 0.135
++ 14 alphabetical-order fills: test 0.628 | shuffled mean 0.111 max 0.140
++ 2 spelling re-assignments (final): test 0.629 | shuffled mean 0.113 max 0.147
+C04 on all 825 fresh decrypts outside 19/102: 0.660 | shuffled mean 0.104 max 0.139
+The final key's 0.8-point raw gain is matched by a 1.0-point rise in the shuffled score. It is not a measurable improvement over C04.
