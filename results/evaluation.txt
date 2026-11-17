@@ -1,7 +1,18 @@
-Every key change below was chosen on the fit half. The test half (odd pages outside 19/102) was scored once, after all choices.
-C04 (Dudout): test half 422 decrypts 14245 letters: 0.621 | shuffled mean 0.103 max 0.138
-C04 + 1 fit-half vote: test 0.621 | shuffled mean 0.105 max 0.135
-+ 14 alphabetical-order fills: test 0.628 | shuffled mean 0.111 max 0.140
-+ 2 spelling re-assignments (final): test 0.629 | shuffled mean 0.113 max 0.147
-C04 on all 825 fresh decrypts outside 19/102: 0.660 | shuffled mean 0.104 max 0.139
-The final key's 0.8-point raw gain is matched by a 1.0-point rise in the shuffled score. It is not a measurable improvement over C04.
+Old reading (two whole-page Gemini reads), TABLE-C04 unchanged: test half 62.1%, shuffled key 10.3% (best of 200: 13.8%); 825 fresh lines 66.0%; 19/100 64.6%, 19/101 67.2%, 19/102 42.1%, 19/103 68.5%.
+New reading | held-out test half (odd pages outside 19/102) | TABLE-C04 unchanged: 71.6% | shuffled key mean 10.5%, best of 200 14.1% | 415 decryption lines, 14482 letters
+New reading | held-out test half (odd pages outside 19/102) | C04 + 15 fills + 6 proposals: 73.9% | shuffled key mean 11.5%, best of 200 15.8% | 415 decryption lines, 14482 letters
+New reading | fit half | TABLE-C04 unchanged: 60.3% | shuffled key mean 9.7%, best of 200 12.7% | 954 decryption lines, 31534 letters
+New reading | fit half | C04 + 15 fills + 6 proposals: 62.5% | shuffled key mean 10.3%, best of 200 12.9% | 954 decryption lines, 31534 letters
+New reading | fresh lines (outside 19/102, pages Dudout/Bourdeau never used) | TABLE-C04 unchanged: 73.0% | shuffled key mean 10.4%, best of 200 13.7% | 813 decryption lines, 28847 letters
+New reading | fresh lines (outside 19/102, pages Dudout/Bourdeau never used) | C04 + 15 fills + 6 proposals: 75.6% | shuffled key mean 11.4%, best of 200 13.9% | 813 decryption lines, 28847 letters
+New reading | volume 19/100 | TABLE-C04 unchanged: 71.7% | shuffled key mean 10.3%, best of 200 12.9% | 596 decryption lines, 20730 letters
+New reading | volume 19/100 | C04 + 15 fills + 6 proposals: 75.1% | shuffled key mean 11.1%, best of 200 14.7% | 596 decryption lines, 20730 letters
+New reading | volume 19/101 | TABLE-C04 unchanged: 75.3% | shuffled key mean 10.8%, best of 200 13.3% | 186 decryption lines, 6444 letters
+New reading | volume 19/101 | C04 + 15 fills + 6 proposals: 77.1% | shuffled key mean 11.4%, best of 200 14.3% | 186 decryption lines, 6444 letters
+New reading | volume 19/102 | TABLE-C04 unchanged: 47.7% | shuffled key mean 9.0%, best of 200 11.9% | 510 decryption lines, 15965 letters
+New reading | volume 19/102 | C04 + 15 fills + 6 proposals: 48.9% | shuffled key mean 9.5%, best of 200 12.2% | 510 decryption lines, 15965 letters
+New reading | volume 19/103 | TABLE-C04 unchanged: 71.4% | shuffled key mean 11.1%, best of 200 15.9% | 77 decryption lines, 2877 letters
+New reading | volume 19/103 | C04 + 15 fills + 6 proposals: 71.6% | shuffled key mean 11.8%, best of 200 15.7% | 77 decryption lines, 2877 letters
+Cipher numbers in the new reading: 26270. Without a key value: C04 4.4%, final key 3.3%.
+Half-pages: 270. From 25%-height strips: 249; from 15%-height strips: 8; kept from the old whole-page reading because the strip read failed a key-free sanity check: 13.
+Every key change was chosen from fit-half evidence only. Scores: share of the clerk's decryption letters reproduced in runs of 3+ letters.

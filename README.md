@@ -1,76 +1,102 @@
-# Simon Dörffler's cipher despatches, 1682-1690
+# Simon Dörffler's cipher despatches
 
-A transcription, a tested key and a full decode of the coded passages in the despatches of Simon Dörffler, Swedish resident at the Polish court, to King Charles XI. Source: Riksarkivet SE/RA/2115/I/19/100, 101, 102 and 103 (Polonica), Public Domain Mark.
+A transcription, a tested key and a full decode of the coded passages in the despatches of Simon Dörffler, Swedish resident at the Polish court, to King Charles XI, 1682-1690. Source: Riksarkivet SE/RA/2115/I/19/100, 101, 102 and 103 (Polonica), Public Domain Mark.
 
-**Where it stands:** TABLE-C04 works on all four volumes. On 825 decryption lines from pages its authors never used, it reproduces 66% of the letters that a clerk in the 1680s wrote over the cipher. A shuffled key reproduces 10%. No change we tested improves on C04 by more than chance. About 96% of the cipher numbers have a key value. Every coded page has a mechanical decode, and 243 of 250 half-pages also have a readable version. `METHOD.md` explains how, in plain terms.
+**Where it stands:** On a full-resolution strip reading of the pages, TABLE-C04 unchanged reproduces 71.6% of the clerk's decryption letters on the held-out test half (415 decryption lines, 14482 letters, odd pages outside 19/102). A shuffled key reproduces 10.5% (best of 200: 14.1%). On all 813 decryption lines outside 19/102 (28847 letters) from pages that Brice Dudout and Daniel Bourdeau never used, TABLE-C04 unchanged reproduces 73.0% (shuffled key 10.4%, best of 200: 13.7%). Adding 15 agreed fills and 6 proposals from the fit half brings the held-out test half to 73.9% (shuffled key 11.5%, best of 200: 15.8%) and the 813 fresh lines to 75.6% (shuffled key 11.4%, best of 200: 13.9%). The reading covers 270 half-pages and 26270 cipher numbers. Only 4.4% of cipher numbers lack a key value under TABLE-C04, and 3.3% under the final key.
 
-The key is built on **TABLE-C04 by Brice Dudout** (Europe chiffrée), published in Dan Bourdeau's [cyphersolver](https://github.com/dbourdeau/cyphersolver/tree/main/research/dudout_dorffler1773) (CC BY 4.0). Dudout worked out the layout of the code. This repository adds:
-- a transcription of all four volumes
-- a character-level test on pages the table's authors never used
-- the finding that C04's word list (146-249) and names list (250 and up) are in alphabetical order, which bounds every missing value
-- 17 new or changed entries, all chosen on the fit half only (see Results: none is a measurable gain)
-- the decode
+The key is built on **TABLE-C04 by Brice Dudout**, published in Daniel Bourdeau's [cyphersolver](https://github.com/dbourdeau/cyphersolver/tree/main/research/dudout_dorffler1773). Dudout worked out the layout of the code and built the table. Mike German chose the data split and the measure, made the transcription and ran the test. This repository adds:
+- a strip transcription of volumes 19/100, 19/101, 19/102 and 19/103 across 270 half-pages and 26270 cipher numbers
+- a character-level test on the held-out test half and on 813 fresh decryption lines from pages the table's authors never used
+- the finding that C04's word list (146-226) and names list (250+) are alphabetical (95% and 99% of pairs in order, with v-words sorting before u-words), while 227-249 is a non-alphabetical supplement (`ein`, `dreissig`, `tausend`, `zwey`, `drey`)
+- 15 agreed fills and 6 weaker proposals, all found on the fit half only by two-set cloze agreement
+- the mechanical decode of every coded page
 
 ## What is here
 
 | Path | What it is |
 |---|---|
 | `results/overview.md` | What the coded passages are about, by volume, with page references (model-written from the page summaries) |
-| `results/reading.md` | Readable German of every coded half-page, with a one-line English summary (model-made, see METHOD Step 5) |
+| `results/reading.md` | Readable German of the coded half-pages, with a one-line English summary |
 | `results/decoded.txt` | Mechanical decode: plain German, each cipher number replaced by its key value in [brackets], clerk's decryptions on `G:` lines |
-| `results/key_final.json` | The key: number to letters. Upper-case values are names or titles kept from TABLE-C04 |
-| `results/key_changes.tsv` | Every change from TABLE-C04 and its fit-half evidence, plus the 28 earlier additions that were withdrawn and why |
+| `results/key_final.json` | The final key: TABLE-C04 + 15 fills + 6 proposals |
+| `results/key_changes.tsv` | Every change from TABLE-C04 and its fit-half evidence, plus the 28 additions of 15 Nov that were withdrawn and why |
 | `results/evaluation.txt` | The test figures |
-| `data/reread.jsonl` | Raw readings: two models per half-page |
-| `data/p5_lines.jsonl` | Merged lines after the image check (`settled` says how each disputed number was decided). The pre-check version is `p5_lines.before_adjudication.jsonl` |
+| `data/reread.jsonl` | Whole-page readings: two model reads per half-page |
+| `data/strips_full.jsonl` | Full-resolution strip readings: 5 overlapping strips per half-page (25% of page height, 6% overlap) read by Gemini 4 Argon |
+| `data/strips_retry.jsonl` | Finer strip readings (15% of page height) for pages re-read at smaller strip height |
+| `data/p5_lines.jsonl` | The new merged reading across 270 half-pages (249 from 25%-height strips, 8 from 15%-height strips, 13 kept from the whole-page reading) |
+| `data/cloze.jsonl` | Split-half cloze proposals and validation runs on the fit half |
+| `data/p5_lines.whole_page.jsonl` | The earlier whole-page reading, kept for comparison |
 | `data/key_c04.json`, `data/bourdeau/` | TABLE-C04 and its notes, unchanged, CC BY 4.0, B. Dudout |
-| `analysis/` | The code (Python 3, standard library plus Pillow; model calls via the `llm` CLI) |
+| `analysis/strips.py` | Cuts each half-page into overlapping full-resolution strips and reads them with Gemini 4 Argon without the key |
+| `analysis/consensus.py` | Stitches the strip reads, applies the key-free sanity check, and writes `data/p5_lines.jsonl` |
+| `analysis/align.py` | Whole-page alignment of clerk decryption lines to cipher lines |
+| `analysis/cloze.py` | Two-set fit-half cloze key filling and validation on hidden C04 entries |
+| `analysis/` | Supporting scripts for fetching, scoring, decoding and rendering (Python 3) |
 
 ## Results
 
-| Key | Held-out half (422 decryption lines, 14,245 letters) | Shuffled key |
-|---|---|---|
-| TABLE-C04 as published | 62.1% | 10.3% (best of 200: 13.8%) |
-| C04 + 1 fit-half vote | 62.1% | 10.5% (best of 200: 13.5%) |
-| + 14 alphabetical-order fills | 62.8% | 11.1% (best of 200: 14.0%) |
-| `results/key_final.json` (+ 2 spelling fixes) | 62.9% | 11.3% (best of 200: 14.7%) |
+| Subset | Lines / letters | Key | Score | Shuffled key |
+|---|---|---|---|---|
+| Held-out test half (odd pages outside 19/102) | 415 lines, 14482 letters | TABLE-C04 unchanged | 71.6% | 10.5% (best of 200: 14.1%) |
+| Held-out test half (odd pages outside 19/102) | 415 lines, 14482 letters | C04 + 15 fills + 6 proposals | 73.9% | 11.5% (best of 200: 15.8%) |
+| Fresh lines (outside 19/102, pages Dudout/Bourdeau never used) | 813 lines, 28847 letters | TABLE-C04 unchanged | 73.0% | 10.4% (best of 200: 13.7%) |
+| Fresh lines (outside 19/102, pages Dudout/Bourdeau never used) | 813 lines, 28847 letters | C04 + 15 fills + 6 proposals | 75.6% | 11.4% (best of 200: 13.9%) |
+| Fit half | 954 lines, 31534 letters | TABLE-C04 unchanged | 60.3% | 9.7% (best of 200: 12.7%) |
+| Fit half | 954 lines, 31534 letters | C04 + 15 fills + 6 proposals | 62.5% | 10.3% (best of 200: 12.9%) |
+| Volume 19/100 | 596 lines, 20730 letters | TABLE-C04 unchanged | 71.7% | 10.3% (best of 200: 12.9%) |
+| Volume 19/100 | 596 lines, 20730 letters | C04 + 15 fills + 6 proposals | 75.1% | 11.1% (best of 200: 14.7%) |
+| Volume 19/101 | 186 lines, 6444 letters | TABLE-C04 unchanged | 75.3% | 10.8% (best of 200: 13.3%) |
+| Volume 19/101 | 186 lines, 6444 letters | C04 + 15 fills + 6 proposals | 77.1% | 11.4% (best of 200: 14.3%) |
+| Volume 19/102 | 510 lines, 15965 letters | TABLE-C04 unchanged | 47.7% | 9.0% (best of 200: 11.9%) |
+| Volume 19/102 | 510 lines, 15965 letters | C04 + 15 fills + 6 proposals | 48.9% | 9.5% (best of 200: 12.2%) |
+| Volume 19/103 | 77 lines, 2877 letters | TABLE-C04 unchanged | 71.4% | 11.1% (best of 200: 15.9%) |
+| Volume 19/103 | 77 lines, 2877 letters | C04 + 15 fills + 6 proposals | 71.6% | 11.8% (best of 200: 15.7%) |
 
-On all 825 decryption lines outside 19/102 that Dudout and Bourdeau never used, TABLE-C04 scores 66.0%.
+### Strip reading
 
-Every change was chosen on the fit half, and the test half was scored once at the end. The raw score rises 0.8 points, but the shuffled score rises 1.0, so the changes are not a measurable gain over C04. Against these decryptions C04 is at its ceiling. The missing third comes from reading and line pairing, not from the key.
+Every half-page was cut into 5 overlapping full-resolution strips (25% of page height, 6% overlap), read by Gemini 4 Argon, and stitched (1,360 calls, 5 failures). The key was never shown to the reader. In a pilot on 3 pages, 5 strips did as well as 11. Of the 270 half-pages, 249 come from 25%-height strips, 8 come from 15%-height strips, and 13 are kept from the earlier whole-page reading because the strip read failed a key-free sanity check. A second pass at 11 strips on all of 19/102 plus a 3-reader majority vote changed 134 numbers and moved the fit half from 60.1% to 60.3%. This showed no real gain and confirmed that the reader is at its plateau.
 
-An earlier version of this repository reported 64.7% for 28 additions. That figure was not held out: the clerk's votes were taken from every line, and the model that proposed values was shown test-half examples. Daniel Bourdeau found this. Those additions are withdrawn, and `results/key_changes.tsv` lists each one's fate.
+Whole-page reads misread single digits systematically, especially 8 as 0 (28 read as 20, 18 as 10, 87 as 07). An independent blind read of 2 pages by a different model family (Claude) agreed with the strip read on 93.7% and 85.7% of numbers, against 91.0% and 80.2% for the whole-page reading.
 
-Scores are a floor. The clerk's decryptions are paraphrases in places, some are attached to the wrong line, and single digits are misread. So even a perfect key would score well under 100%.
+Whole-page alignment of clerk lines to cipher (`analysis/align.py`) gave no gain over next-two-lines pairing (60.9% vs 62.1% on the whole-page reading's test half, with a 0.3% shuffled control). Line pairing was not the bottleneck.
 
-A tempting shortcut fails, and is kept as a documented negative result. Tuning the key so the decode "reads like German" under a model of 1,114 German texts from 1600-1699 made it worse on the test (`analysis/refine.py`).
+### Key fills and proposals
+
+In `analysis/cloze.py`, the fit-half occurrences of each target number are dealt into 2 disjoint sets. Gemini 4 Argon proposes a value from each set separately. A fill is kept only if both sets agree. To validate the method, 62 known C04 entries were hidden. Both sets agreed on 58, and 53 of the 58 matched C04 (91%). Of the 5 misses, 3 are a longer form of the same word (`ihr`/`ih`, `wie`/`wi`, `preussen`/`preussi`) and 2 disagree with C04: `210 viel` (C04 `wider`) and `226 wur` (C04 `wer`). C04's value for 210 is never reproduced by the clerk on the fit half.
+
+- **15 agreed fills:** `148 an`, `175 heit`, `191 mich`, `201 ohn`, `213 uber`, `230 zwischen`, `233 zwey`, `234 drey`, `253 alliance`, `254 ambassade`, `269 churfurst`, `275 conjun`, `307 general`, `323 moscau`, `336 schwed`.
+- **6 weaker proposals (marked as such):** `210 viel`, `226 wur`, `317 konig` (C04 `KOENIG`, clerk spells `König`), `301 franckreich` (C04 `FRANKREICH`), `312 hertzog` (the 2 sets gave `herzog`/`hertzog`), `295 ekm` (both sets read it as the address `Euer Königliche Majestät`).
+
+An earlier version of this repository reported 64.7% for 28 additions of 15 Nov. That figure was withdrawn because of a test-half leak found by Daniel Bourdeau. All evidence for the current fills comes from the fit half only.
 
 ## Reproduce
 
 ```
-python3 analysis/reread.py fetch     # cipher pages from Riksarkivet IIIF, at reading pace (about 8 h)
-python3 analysis/reread.py read      # two model readings per half-page
-python3 analysis/p5.py merge
+python3 analysis/reread.py fetch
+python3 analysis/reread.py read
+python3 analysis/strips.py read $(cat data/strip_halves.txt) --model vertex/gemini-4-argon --height 0.25 --overlap 0.06 --out data/strips_full.jsonl
+python3 analysis/consensus.py
+python3 analysis/cloze.py run
+python3 analysis/cloze.py report
 python3 analysis/p5.py score data/key_c04.json
-python3 analysis/adjudicate.py look  # re-check each number the two readers disagree on against the image
-python3 analysis/adjudicate.py apply
-python3 analysis/p5.py vote          # clerk votes on the fit half -> data/key_fitvote.json
-python3 analysis/order.py fill data/key_fitvote.json     # alphabetical-order fills -> data/key_order.json
-python3 analysis/reassign.py data/key_order.json         # re-test entries never reproduced -> data/key_reassign.json
-python3 analysis/p5.py decode data/key_reassign.json
-python3 analysis/render.py           # readable version
+python3 analysis/p5.py score results/key_final.json
+python3 analysis/p5.py decode results/key_final.json
+python3 analysis/render.py
 ```
-Model readings will differ from run to run. The published `data/` files are the ones the figures come from.
+
+Model readings differ slightly from run to run. The published files in `data/` are the ones the figures come from.
 
 ## Known gaps
 
-- About 4% of the numbers have no value.
-- Fills supported by 2-5 fit-half places (241, 266, 275, 307, 315, 318, 328) are the least certain.
-- `results/reading.md` and `results/overview.md` were made with the withdrawn key. They differ from a decode under the current key at the withdrawn values only (see `key_changes.tsv`).
-- Seven half-pages have no readable version, because all three models returned no text.
-- No one has yet read the whole decode against the images by eye.
+- Of the 26270 cipher numbers in the reading, 4.4% have no key value in TABLE-C04 and 3.3% have no key value in `results/key_final.json`.
+- 15 numbers tested in the cloze run did not agree across the 2 sets and stay unknown: `160`, `161`, `168`, `172`, `182`, `186`, `187`, `189`, `198`, `200`, `202`, `217`, `229`, `239`, `300`.
+- `results/reading.md` and `results/overview.md` were made from the earlier whole-page reading and key. They have not been redone on the strip reading.
+- The numbers under 14 in the earlier reading were misreads (07 for 87, 02 for 82). They carry no key value.
+- Volume 19/102 scores lower than the other volumes (47.7% with C04 unchanged, 48.9% with the final key) because the clerk ink is pale.
+- The original codebook has not been found online. DECODE has no Dörffler record. Riksarkivet Chifferklaver (SE/RA/202, volumes 3 and 7, card index volumes 20-21) is on paper only.
+- No person has read the decode against the page images.
 
 ## Licence and citation
 
-Code MIT (`LICENSE`), data and results CC BY 4.0 (`LICENSE-DATA.md`).
-Cite as: Steps Ventures (2026), *Simon Dörffler's cipher despatches 1682-1690: transcription, key and decode*, github.com/steps-re/dorffler-cipher, building on B. Dudout, TABLE-C04, in D. Bourdeau, cyphersolver.
+Code is MIT (`LICENSE`). Data and results are CC BY 4.0 (`LICENSE-DATA.md`). Credit goes to Brice Dudout and Daniel Bourdeau for TABLE-C04 in `cyphersolver` (`research/dudout_dorffler1773/`), and to Mike German for the transcription, split, measure and test.

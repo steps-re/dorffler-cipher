@@ -111,7 +111,7 @@ def eval_subset(name, half_list, w_map, c_map, key):
 
 
 def main():
-  halves, w_map = load_w("data/p5_lines.jsonl")
+  halves, w_map = load_w("data/p5_lines.whole_page.jsonl")
   s25 = load_strips("data/strips_full.jsonl")
   s15 = load_strips("data/strips_retry.jsonl")
   key = p5.load_key("data/key_c04.json")
@@ -159,12 +159,11 @@ def main():
         v, [h for h in halves if h.split("/")[0] == v], w_map, chosen_map, key
     )
 
-  os.makedirs("data_v4", exist_ok=True)
-  with open("data_v4/p5_lines.jsonl", "w", encoding="utf-8") as f:
+  pass
+  with open("data/p5_lines.jsonl", "w", encoding="utf-8") as f:
     for h in halves:
       for r in chosen_map[h]:
         f.write(json.dumps(r, ensure_ascii=False) + "\n")
-  shutil.copy("data/key_c04.json", "data_v4/key_c04.json")
   counts = Counter(chosen_map[h][0]["src"] for h in halves if chosen_map[h])
   print("Halves per src:", dict(counts))
 

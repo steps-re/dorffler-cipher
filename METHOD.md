@@ -4,9 +4,9 @@ Written for a reader with a college education and no background in codebreaking.
 
 ## The material
 
-Simon Dörffler was Sweden's resident diplomat at the Polish court in the 1680s. His despatches to King Charles XI are ordinary German letters. The sensitive parts switch into numbers, for example `218. 77. 53. 66. 25.`. Four volumes of these despatches are digitized by the Swedish National Archives (Riksarkivet, SE/RA/2115/I/19/100-103, about 2,170 page images, Public Domain Mark). 136 of those pages carry code: 2,209 coded lines and 26,070 numbers.
+Simon Dörffler was Sweden's resident diplomat at the Polish court in the 1680s. His despatches to King Charles XI are ordinary German letters. The sensitive parts switch into numbers, for example `218. 77. 53. 66. 25.`. Four volumes of these despatches are digitized by the Swedish National Archives (Riksarkivet, SE/RA/2115/I/19/100-103, about 2,170 page images, Public Domain Mark). 136 of those pages carry code: about 26,000 numbers.
 
-On many pages a clerk in Stockholm wrote the meaning of the numbers between the lines, in small pale German. We found 1,382 such decrypted lines. They are the answer key a historian would want, but they are incomplete, not word for word, and often hard to read. So they can test a codebook, but they do not replace one.
+On many pages a clerk in Stockholm wrote the meaning of the numbers between the lines, in small pale German. We found about 1,400 such decrypted lines. They are the answer key a historian would want, but they are incomplete, not word for word, and often hard to read. So they can test a codebook, but they do not replace one.
 
 ## The code
 
@@ -19,9 +19,15 @@ The code is a syllabary with a word list, the usual design for the period (histo
 
 Dudout tested the table on three held-out pages and called all three tests failed, because they fell short of thresholds he set in advance. This repository tests the same table on much more material, and it holds up.
 
-## Step 1. Read every coded page again, whole lines
+## Step 1. Read every coded page, three times
 
-Two AI models, Google's Gemini 4 Argon and Gemini 3.7 Flash, each read every coded half-page separately. Each read kept everything: the plain German, the numbers in place, and the clerk's decryption on its own tagged line above the numbers it explains. Where both models read a coded line (1,742 lines), their number sequences agree 89% on average. Where they disagree on a single number, both readings are kept.
+**Two whole-page reads.** Two AI models, Google's Gemini 4 Argon and Gemini 3.7 Flash, each read every coded half-page in one pass. Each read kept everything: the plain German, the numbers in place, and the clerk's decryption on its own tagged line above the numbers it explains. Where the two disagreed on a number, Argon looked at the page again and picked one. The key was not used.
+
+**Why that was not enough.** At whole-page scale the digits are small, and both models misread them the same way: 8 as 0. So 28 became 20, 18 became 10, and 87 became 07. A different model family (Claude) read two pages blind from full-size strips. It disagreed with the whole-page reading on 9.0% of the numbers on one page and 19.8% on the other.
+
+**The strip read.** Every half-page was cut into 5 overlapping strips at full resolution (25% of the page height, 6% overlap). Gemini 4 Argon read each strip without ever seeing the key, and the strips were stitched back into lines. That took 1,360 model calls with 5 failures. In a 3-page pilot, 5 strips did as well as 11. The strip read agrees with the blind Claude read on 93.7% and 85.7% of the numbers on those two pages, against 91.0% and 80.2% for the whole-page reading.
+
+**The final reading.** A strip read is used when it passes a check that does not involve the key: its count of numbers and of decryption letters must be close to the whole-page read's. Of 270 half-pages, 249 use the 5-strip read, 8 use an 11-strip read, and 13 keep the whole-page read. The reading has 26,270 cipher numbers.
 
 ## Step 2. A fair test
 
@@ -32,50 +38,59 @@ Chance is measured too. The same key with its entries shuffled among its numbers
 The pages were split before any key was changed:
 
 - **Fit half:** volume 19/102, where the table was built, plus even-numbered pages of the other volumes.
-- **Test half:** odd-numbered pages outside 19/102, 422 decryption lines and 14,245 letters. These are never used to change the key.
+- **Test half:** odd-numbered pages outside 19/102, 415 decryption lines and 14,482 letters in the final reading. These are never used to change the key.
 
 ## Step 3. Results
 
-| Key | Test half | Shuffled key |
+Share of the clerk's letters reproduced on the test half, with the same key shuffled as the control:
+
+| Reading | Key | Test half | Shuffled key |
+|---|---|---|---|
+| Whole-page | TABLE-C04 as published | 62.1% | 10.3% (best of 200: 13.8%) |
+| Strips | TABLE-C04 as published | 71.6% | 10.5% (best of 200: 14.1%) |
+| Strips | C04 + 15 fills + 6 proposals | 73.9% | 11.5% (best of 200: 15.8%) |
+
+The table did not change between the first two rows. Only the reading did. On the 813 decryption lines outside 19/102 from pages the table's authors never used, TABLE-C04 scores 73.0% and the final key 75.6%.
+
+| Volume | TABLE-C04 | Final key |
 |---|---|---|
-| TABLE-C04 as published | 62.1% | 10.3% (best of 200: 13.8%) |
-| C04 + 1 fit-half vote | 62.1% | 10.5% (best of 200: 13.5%) |
-| + 14 alphabetical-order fills | 62.8% | 11.1% (best of 200: 14.0%) |
-| Final key (+ 2 spelling fixes) | 62.9% | 11.3% (best of 200: 14.7%) |
+| 19/100 | 71.7% | 75.1% |
+| 19/101 | 75.3% | 77.1% |
+| 19/102 | 47.7% | 48.9% |
+| 19/103 | 71.4% | 71.6% |
 
-On every decryption line outside 19/102 that the table's authors never used (825 lines), TABLE-C04 alone scores 66.0%.
+So the key is real, and it works across all four volumes, 1682-1690. What is still missed is mostly noise around the key:
 
-The changes raise the raw score 0.8 points and the shuffled score 1.0, so they are no measurable gain. TABLE-C04 itself is the result.
-
-So the key is real. It works across all four volumes, 1682-1690, and it reproduces about two thirds of the clerk's letters, while a shuffled key reproduces about one tenth. The remaining third is mostly noise around the key, not errors in it:
-
-- misread digits (for example 1/7, 3/8, 21/26)
+- digits still misread
 - a decryption attached to the wrong coded line
 - clerks writing a paraphrase rather than a letter-for-letter decryption
 
-On volume 19/102 the decryptions are in very pale ink, and our readers often misplaced them. The score there is 42%, even on the pages the table was built from, while the decoded text itself reads as German.
+On volume 19/102 the decryptions are in very pale ink and are often misread or misplaced. The decoded text there still reads as German.
 
 ## Step 4. What changed in the key, and what did not work
 
-- **Votes from the clerk.** Where one number sits alone in a stretch the decoding gets wrong, the clerk's letters opposite it count as a vote. On the fit half this changed one entry (200 = tion).
-- **The lists are alphabetical.** In C04, 89% of pairs in the word list (146-249) and 99% in the names list (250 and up) are in alphabetical order: abgesandt 250, alliance 253, ambassade 254, bischof 260, Brandenburg 261, cron 284 ... Pohlen 331, Wien 346. So a missing value must sort between its neighbours. For each missing number, words from the letters' own plain German and the fit-half decryptions that sort into its slot were tried. A word was kept only if the fit-half decryptions reproduce it whole at least as often as an established entry (33% of its places, since each number is scored against its own decryption line and the one before) and it raised the fit-half score. 14 were kept, for example 191 = mich, 213 = uber, 269 = churf(ürst), 336 = schwed.
-- **Spelling.** Two C04 names were never reproduced: 317 KOENIG (109 fit-half places) and 301 FRANKREICH, because the clerk writes König and Franckreich. They now read konig and franckreich.
-- **What was withdrawn.** An earlier version added 28 entries and reported a held-out rise from 62.1% to 64.7%. That was not held out: the votes came from every line, and the model proposing values was shown test-half examples. Six of those values were numbers under 14, outside the number system and likely misreads. Several broke the alphabetical order (198 = mit, 266 = Bischof, 201 = Brandenburg, which is already 261). Daniel Bourdeau found the leak.
-- **A language model alone does not work.** We also tried improving the key by choosing, for each number, the value under which the decoded text reads most like 17th-century German. The model was built from 1,114 German texts of 1600-1699 in the Deutsches Textarchiv. It made the key worse on the test, 64.1% against 65.5%, and raised the shuffled score from 10% to 17%. A language model prefers common letters, not correct ones. The code is kept (`analysis/refine.py`) as a documented negative result.
-
-## Step 4b. Re-checking disputed numbers against the image
-
-The two readers disagreed on 2,019 single numbers. Gemini 4 Argon looked at each half-page again with every disputed number listed beside its neighbours, and picked one reading. It kept the first reader 1,571 times and switched to the second 448 times. The key was not used, so the test stays fair. C04's held-out score rose from 61.7% to 62.1%. Letting the key decide instead gave the same result to within 0.05 points. Disputed numbers are only 8% of the total, so they were never the main gap. The rest is the looseness of the clerk's decryptions, numbers both readers misread the same way, and the 4% of numbers with no value.
+- **The lists are alphabetical.** In C04, 95% of pairs in the word list (146-226) and 99% in the names list (250 and up) are in alphabetical order, with v-words before u-words: armee 255, bischof 260, Brandenburg 261, cron 284 ... Pohlen 331, Wien 346. Numbers 227-249 are a later supplement with no order (ein, dreissig, tausend, zwey, drey). So a missing value in the two lists must sort between its neighbours.
+- **Fills by two independent looks.** For each number without a value, the places it occurs on the fit half were dealt into two separate sets. Gemini 4 Argon saw each set on its own: the decoded text around the number, the clerk's nearby decryption, and the two neighbours in the list. A value was kept only if both sets gave the same answer.
+- **Testing the method.** 62 entries that C04 already has were hidden and put through the same procedure. Both sets agreed on 58, and 53 of those 58 matched C04 (91%). Three of the five misses are a longer form of the same word (ihr for ih, wie for wi, preussen for preussi). The other two disagree with C04: 210 came back as viel (C04 wider) and 226 as wur (C04 wer).
+- **15 fills:** 148 an, 175 heit, 191 mich, 201 ohn, 213 uber, 230 zwischen, 233 zwey, 234 drey, 253 alliance, 254 ambassade, 269 churfurst, 275 conjun, 307 general, 323 moscau, 336 schwed.
+- **6 weaker proposals:** 210 viel and 226 wur from the test above. 317 konig and 301 franckreich, because the clerk spells them that way. 312 hertzog, where the two sets gave herzog and hertzog. 295 ekm, which both sets read as the address Euer Königliche Majestät.
+- **Fifteen numbers stay unknown** because the two sets did not agree.
+- **Re-pairing the lines did not help.** Matching each decryption to the cipher anywhere on its page, not only the next two lines, scored 60.9% against 62.1% on the whole-page reading. Its shuffled control is 0.3%, so it is a sharper test, but pairing was not the gap.
+- **More strips did not help.** An 11-strip pass over all of 19/102 with a majority vote of three readings changed 134 numbers and moved the fit half from 60.1% to 60.3%.
+- **A language model alone does not work.** Choosing for each number the value under which the decode reads most like 17th-century German (a model built from 1,114 texts of 1600-1699 in the Deutsches Textarchiv) made the key worse and raised the shuffled score from 10% to 17%. A language model prefers common letters, not correct ones. The code is kept (`analysis/refine.py`) as a negative result.
+- **What was withdrawn.** An earlier version added 28 entries and reported a held-out rise from 62.1% to 64.7%. That was not held out: the model proposing values was shown test-half examples. Daniel Bourdeau found the leak. All evidence for the current fills comes from the fit half.
 
 ## Step 5. The reading
 
 `results/decoded.txt` is the mechanical decode: the plain German with each coded number replaced by its key value in brackets, and the clerk's decryptions on `G:` lines. It involves no judgement.
 
-`results/reading.md` is a readable version made by Gemini 4 Argon from the mechanical decode, one half-page at a time. It joins the pieces into words and gives a one-line English summary. Coded passages are in {braces}, doubtful stretches in {?...?}. It was told not to add words, but it is a model's reading. Check anything that matters against `decoded.txt` and the page image.
+`results/reading.md` is a readable version from the earlier whole-page reading and key, made by Gemini 4 Argon from the mechanical decode, one half-page at a time. It joins the pieces into words and gives a one-line English summary. Coded passages are in {braces}, doubtful stretches in {?...?}. It was told not to add words, but it is a model's reading. Check anything that matters against `decoded.txt` and the page image.
 
 ## What is still uncertain
 
-- About 4% of the numbers have no key value. Most are rare, or fragments of numbers cut at the page fold.
-- Single numbers are sometimes misread, and the key cannot fix those.
+- 3.3% of the numbers have no key value.
+- The six proposals are weaker than the fifteen fills.
+- Volume 19/102 scores 48.9%, well under the others.
 - The scores are a floor: a perfect key would not reach 100%, because the decryptions themselves are loose.
+- The original codebook has not been found. Riksarkivet's Chifferklaver collection (SE/RA/202) is on paper only.
 - No one has yet read the whole decode against the images by eye.
