@@ -16,12 +16,12 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import common as P
 import p5
 
-HALVES = os.environ.get("CIPHER_HALVES") or os.path.expanduser("~/code/steps/cipher-solutions/data/halves")
+HALVES = os.environ.get("CIPHER_HALVES") or os.path.join(P.D, "halves")
 WORK = os.path.join(P.D, "strips_work")
 SIM = 0.6          # duplicate threshold
 WINDOW = 10        # lines examined at each end of a seam
 MAX_CALLS = int(os.environ.get("STRIPS_MAX_CALLS", "200"))   # raise on purpose for a full run
-BLIND_DIR = "/private/tmp/claude-501/-Users-mike-Documents-Claude/106553ca-f280-4812-ada2-20833903b20d/scratchpad"
+BLIND_DIR = os.environ.get("CIPHER_BLIND", "blind")   # optional independent reads, {"half","lines":[{"numbers":[...]}]}
 BLIND = {"dorffler-19-102/p0483R": BLIND_DIR + "/blind_102_0483R/read.json",
          "dorffler-19-101/p0219L": BLIND_DIR + "/blind_101_0219L/read.json"}
 
