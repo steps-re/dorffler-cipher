@@ -89,7 +89,8 @@ def decode_all(out_path="results/decoded_original_key.txt"):
     lacks (none expected) as #n. Clerk's decryptions follow on G: lines."""
     key = {n: v for n, v in p5.load_key("data/key_original.json").items()}
     with open(out_path, "w") as o:
-        o.write("# Decoded with the ORIGINAL key (Riksarkivet Chifferklaver vol. 3, III:20). Reading: newest strip reading (PR #742 transcription, incl. the 27 re-read 19/102 halves)\n")
+        o.write("# Decoded with the ORIGINAL key (Riksarkivet Chifferklaver vol. 3, III:20). Reading: %s/p5_lines.jsonl\n"
+                % os.environ.get("CIPHER_DATA", "data"))
         half = None
         for r in p5.load_lines():
             if r["half"] != half:

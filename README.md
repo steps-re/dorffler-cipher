@@ -17,8 +17,9 @@ The key is built on **TABLE-C04 by Brice Dudout**, published in Daniel Bourdeau'
 
 | Path | What it is |
 |---|---|
-| `results/overview.md` | What the coded passages are about, by volume, with page references (model-written from the page summaries) |
-| `results/reading.md` | Readable German of the coded half-pages, with a one-line English summary |
+| `results/overview.md` | What the coded passages are about, by volume, with page references (model-written from the page summaries, original key) |
+| `results/reading.md` | Readable German of the coded half-pages with the original key on the re-read reading, with a one-line English summary |
+| `analysis/reading.py`, `data/reading_original/` | Builds `reading.md` and `overview.md`, and the model readings they come from |
 | `results/decoded.txt` | Mechanical decode: plain German, each cipher number replaced by its key value in [brackets], clerk's decryptions on `G:` lines |
 | `results/key_final.json` | The final key: TABLE-C04 + 15 fills + 6 proposals |
 | `results/key_changes.tsv` | Every change from TABLE-C04 and its fit-half evidence, plus the 28 additions of 15 Nov that were withdrawn and why |
@@ -118,7 +119,10 @@ python3 analysis/cloze.py report
 python3 analysis/p5.py score data/key_c04.json
 python3 analysis/p5.py score results/key_final.json
 python3 analysis/p5.py decode results/key_final.json
-python3 analysis/render.py
+python3 analysis/reading.py prep
+CIPHER_DATA=data/reading_original python3 analysis/render.py
+python3 analysis/reading.py md
+python3 analysis/reading.py overview
 python3 analysis/original_key.py
 python3 analysis/original_key.py decode
 python3 analysis/numfix.py detect   # then locate, ask (on a VM), apply, score
@@ -133,7 +137,7 @@ Model readings differ slightly from run to run. The published files in `data/` a
 - The numbers under 14 in the earlier reading were misreads (07 for 87, 02 for 82). They carry no key value.
 - Volume 19/102 scores lower than the other volumes (47.7% with C04 unchanged, 48.9% with the final key) because the clerk ink is pale.
 - The original key was transcribed by one reader from scans. In the Kurrent hand `e` looks like `r` (156 `der`, 222 `wer`), and one entry (`344`) is marked `?` in `data/key_original.json`.
-- `results/reading.md` and `results/overview.md` were made from the earlier whole-page reading and key. They have not been redone with the original key.
+- `results/reading.md` has no readable version of 19/102 image 475, right half, because no model returned one. Its decode is in `results/decoded_original_key.txt`.
 - No person has read the decode against the page images.
 
 ## Licence and citation

@@ -84,7 +84,9 @@ On volume 19/102 the decryptions are in very pale ink and are often misread or m
 
 `results/decoded.txt` is the mechanical decode: the plain German with each coded number replaced by its key value in brackets, and the clerk's decryptions on `G:` lines. It involves no judgement.
 
-`results/reading.md` is a readable version from the earlier whole-page reading and key, made by Gemini 4 Argon from the mechanical decode, one half-page at a time. It joins the pieces into words and gives a one-line English summary. Coded passages are in {braces}, doubtful stretches in {?...?}. It was told not to add words, but it is a model's reading. Check anything that matters against `decoded.txt` and the page image.
+`results/decoded_original_key.txt` is the same mechanical decode with the original key on the re-read reading (Steps 6 and 7).
+
+`results/reading.md` is a readable version of that decode, made by Gemini 4 Argon one half-page at a time, with Gemini 3.8 or 3.7 Flash where Argon returned nothing (228 of 229 half-pages with code, 67 of them by Flash). Nulls are left out. It joins the pieces into words and gives a one-line English summary. Coded passages are in {braces}, doubtful stretches in {?...?}. It was told not to add words, but it is a model's reading. Check anything that matters against `results/decoded_original_key.txt` and the page image. `results/overview.md` is a model-written summary of those one-line summaries, with page references.
 
 ## Step 6. The original key turns up
 
@@ -118,5 +120,5 @@ The re-read helps, and random edits hurt, so the method finds real misreads. But
 - The original key was transcribed by one reader from scans. In this hand an e looks like an r, so the transcription was checked by zooming in, and one entry (344) is still marked uncertain.
 - Volume 19/102 scores well under the others, because the clerk's ink is pale.
 - The scores are a floor: a perfect key would not reach 100%, because the decryptions themselves are loose.
-- `results/reading.md` and `results/overview.md` were made with the earlier key and reading. They have not been redone with the original key.
+- One half-page (19/102 image 475, right half) has no readable version because no model returned one. Its decode is in `results/decoded_original_key.txt`.
 - No one has yet read the whole decode against the images by eye.

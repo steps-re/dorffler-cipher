@@ -7,3 +7,4 @@ __pycache__/
 *.log
 data/strips_work/
 data/reread_keyguided/crops/
+data/reading_original/p5_lines.jsonl

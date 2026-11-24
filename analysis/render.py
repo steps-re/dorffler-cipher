@@ -48,7 +48,8 @@ def one(item):
     half, text = item
     err = ""
     for model in (MODEL,) + FALLBACKS:
-        r = subprocess.run(["llm", "-n", "-m", model, "-o", "tier", "standard", PROMPT + text], capture_output=True,
+        extra = ["-o", "max_output_tokens", os.environ["RENDER_MAX_TOKENS"]] if os.environ.get("RENDER_MAX_TOKENS") else []
+        r = subprocess.run(["llm", "-n", "-m", model, "-o", "tier", "standard", *extra, PROMPT + text], capture_output=True,
                            text=True, timeout=900, stdin=subprocess.DEVNULL)
         m = re.search(r"\{.*\}", r.stdout, re.S)
         try:
