@@ -1,0 +1,183 @@
+Score = share of the clerk's decryption letters reproduced in runs of 3+ letters (same measure as evaluation.txt).
+Shuffled = same key, values shuffled among its numbers, 200 draws.
+
+subset             lines letters | TABLE-C04                  | final key (C04+fills)      | ORIGINAL 1680s key        
+all lines           1369   46016 |  63.9% (shuf  9.9, max 12.8) |  66.1% (shuf 10.7, max 13.4) |  67.6% (shuf 13.4, max 15.7)
+test half            415   14482 |  71.6% (shuf 10.3, max 13.9) |  73.9% (shuf 11.2, max 14.6) |  75.8% (shuf 14.0, max 16.6)
+fit half             954   31534 |  60.3% (shuf  9.7, max 12.3) |  62.5% (shuf 10.4, max 13.5) |  63.8% (shuf 13.1, max 15.5)
+fresh lines          813   28847 |  73.0% (shuf 10.5, max 13.7) |  75.6% (shuf 11.3, max 14.5) |  77.5% (shuf 14.3, max 16.9)
+dorffler-19-100      596   20730 |  71.7% (shuf 10.2, max 13.8) |  75.1% (shuf 11.1, max 14.5) |  77.2% (shuf 14.1, max 16.8)
+dorffler-19-101      186    6444 |  75.3% (shuf 10.6, max 13.4) |  77.1% (shuf 11.4, max 14.8) |  79.1% (shuf 14.2, max 16.9)
+dorffler-19-102      510   15965 |  47.7% (shuf  8.9, max 11.6) |  48.9% (shuf  9.5, max 12.6) |  49.7% (shuf 12.0, max 14.3)
+dorffler-19-103       77    2877 |  71.4% (shuf 11.0, max 15.3) |  71.6% (shuf 11.7, max 15.7) |  71.7% (shuf 14.7, max 18.6)
+
+Cipher numbers in the reading: 26270
+  TABLE-C04                no value: 4.4%
+  final key (C04+fills)    no value: 3.3%
+  ORIGINAL 1680s key       no value: 0.0%
+  numbers the original key declares NULL (1-13, 155, 349+): 725 (2.8%)
+  most frequent nulls: 10 x93, 2 x70, 1 x56, 3 x45, 8 x37, 6 x33, 9 x33, 4 x32, 1689 x28, 12 x27, 5 x26, 7 x25, 1683 x20, 11 x16, 07 x16
+
+Entry-by-entry: original vs C04 and vs our final key (uses = times the number occurs in the reading)
+  original entries: 333 | C04 matches 179 | final key matches 196
+  fills/proposals we added (C04 -> final), checked against the original:
+     148 -            -> an           original=ation          wrong
+     175 -            -> heit         original=heit           RIGHT
+     191 -            -> mich         original=mich           RIGHT
+     201 -            -> ohn          original=ohn            RIGHT
+     210 wider        -> viel         original=viel           RIGHT
+     213 -            -> uber         original=über           RIGHT
+     226 wer          -> wur          original=wür            RIGHT
+     230 -            -> zwischen     original=zwischen       RIGHT
+     233 -            -> zwey         original=zwey           RIGHT
+     234 -            -> drey         original=drey           RIGHT
+     253 -            -> alliance     original=alliance       RIGHT
+     254 -            -> ambassade    original=ambassad       wrong
+     269 -            -> churfurst    original=churfürst      RIGHT
+     275 -            -> conjun       original=conjun         RIGHT
+     295 -            -> ekm          original=ekmt           wrong
+     301 FRANKREICH   -> franckreich  original=franckreich    RIGHT
+     307 -            -> general      original=general        RIGHT
+     312 -            -> hertzog      original=hertzog        RIGHT
+     317 KOENIG       -> konig        original=könig          RIGHT
+     323 -            -> moscau       original=moscow         wrong
+     336 -            -> schwed       original=schwed         RIGHT
+  every number where our final key differs from the original:
+    10 x93   original=NULL           C04=e            final=e           
+    26 x106  original=ll             C04=l            final=l           
+    52 x15   original=ll             C04=l            final=l           
+   100 x59   original=ku             C04=lich         final=lich        
+   148 x11   original=ation          C04=-            final=an            <- our fill
+   151 x47   original=auss           C04=aus          final=aus         
+   153 x11   original=biss           C04=bis          final=bis         
+   158 x72   original=dess           C04=des          final=des         
+   160 x8    original=doch           C04=-            final=-           
+   161 x3    original=dort           C04=-            final=-           
+   163 x2    original=ence           C04=-            final=-           
+   168 x5    original=eur            C04=-            final=-           
+   170 x9    original=gegen          C04=ihr          final=ihr         
+   171 x1    original=genug          C04=ca           final=ca          
+   172 x11   original=habe           C04=-            final=-           
+   173 x5    original=hafft          C04=-            final=-           
+   176 x1    original=heut           C04=wah          final=wah         
+   178 x26   original=ihr            C04=ih           final=ih          
+   180 x9    original=ition          C04=lich         final=lich        
+   181 x4    original=kan            C04=-            final=-           
+   182 x8    original=kein           C04=-            final=-           
+   184 x7    original=könn           C04=-            final=-           
+   185 x3    original=könte          C04=-            final=-           
+   186 x7    original=lass           C04=-            final=-           
+   187 x17   original=leicht         C04=-            final=-           
+   189 x4    original=mag            C04=-            final=-           
+   190 x2    original=ment           C04=-            final=-           
+   193 x6    original=möcht          C04=-            final=-           
+   194 x2    original=möge           C04=-            final=-           
+   198 x5    original=nur            C04=-            final=-           
+   200 x27   original=offt           C04=-            final=-           
+   202 x7    original=schafft        C04=-            final=-           
+   203 x28   original=selb           C04=sel          final=sel         
+   206 x27   original=soll           C04=sol          final=sol         
+   214 x36   original=umb            C04=um           final=um          
+   217 x10   original=uns            C04=-            final=-           
+   223 x57   original=wir            C04=wi           final=wi          
+   224 x8    original=will           C04=wolle        final=wolle       
+   225 x17   original=wie            C04=wir          final=wir         
+   227 x2    original=zum            C04=-            final=-           
+   228 x1    original=zur            C04=-            final=-           
+   229 x6    original=zwar           C04=-            final=-           
+   232 x2    original=erst           C04=-            final=-           
+   235 x1    original=vier           C04=-            final=-           
+   236 x1    original=fünff          C04=-            final=-           
+   237 x2    original=sechs          C04=dreissig?    final=dreissig?   
+   238 x0    original=sieben         C04=-            final=-           
+   239 x5    original=acht           C04=-            final=-           
+   240 x1    original=neun           C04=-            final=-           
+   241 x3    original=zehen          C04=-            final=-           
+   242 x0    original=elff           C04=-            final=-           
+   243 x0    original=zwölff         C04=-            final=-           
+   244 x0    original=dreyssig       C04=-            final=-           
+   245 x1    original=zwantzig       C04=-            final=-           
+   246 x2    original=zig            C04=tausend?     final=tausend?    
+   247 x2    original=hundert        C04=-            final=-           
+   249 x0    original=million        C04=-            final=-           
+   250 x4    original=abgesandt      C04=-            final=-           
+   251 x0    original=action         C04=-            final=-           
+   252 x2    original=affaire        C04=-            final=-           
+   254 x7    original=ambassad       C04=-            final=ambassade     <- our fill
+   256 x1    original=bataill        C04=-            final=-           
+   257 x0    original=beyern         C04=-            final=-           
+   258 x0    original=belager        C04=-            final=-           
+   259 x2    original=berlin         C04=-            final=-           
+   260 x4    original=bischoff       C04=BISCHOF      final=BISCHOF     
+   262 x1    original=braunschweig   C04=-            final=-           
+   263 x0    original=bremen         C04=-            final=-           
+   264 x1    original=brief          C04=-            final=-           
+   265 x2    original=campagne       C04=-            final=-           
+   266 x2    original=capitain       C04=-            final=-           
+   267 x0    original=capable        C04=-            final=-           
+   268 x0    original=cavallerie     C04=-            final=-           
+   270 x0    original=command        C04=-            final=-           
+   271 x5    original=communic       C04=-            final=-           
+   272 x0    original=commiss        C04=-            final=-           
+   273 x0    original=compagnie      C04=-            final=-           
+   274 x1    original=condition      C04=-            final=-           
+   276 x0    original=conserv        C04=-            final=-           
+   277 x0    original=contribu       C04=-            final=-           
+   278 x0    original=convoy         C04=-            final=-           
+   279 x1    original=conqueste      C04=-            final=-           
+   280 x1    original=copenhagen     C04=-            final=-           
+   281 x1    original=correspond     C04=-            final=-           
+   282 x0    original=creiss         C04=-            final=-           
+   283 x1    original=credit         C04=-            final=-           
+   285 x0    original=dähn           C04=-            final=-           
+   286 x1    original=defen          C04=-            final=-           
+   287 x2    original=dennemarck     C04=-            final=-           
+   288 x2    original=dispo          C04=-            final=-           
+   289 x0    original=dragoner       C04=-            final=-           
+   290 x3    original=elbe           C04=feld         final=feld        
+   291 x1    original=engag          C04=-            final=-           
+   292 x1    original=engeland       C04=-            final=-           
+   293 x0    original=entsatz        C04=-            final=-           
+   295 x79   original=ekmt           C04=-            final=ekm           <- our fill
+   296 x1    original=expedi         C04=-            final=-           
+   297 x0    original=feindt         C04=-            final=-           
+   298 x7    original=feldt          C04=FELD         final=FELD        
+   299 x1    original=fortifi        C04=-            final=-           
+   300 x9    original=flotte         C04=-            final=-           
+   302 x1    original=franckfurtammayn C04=-            final=-           
+   303 x17   original=frantzös       C04=FRANTZOSI    final=FRANTZOSI   
+   304 x0    original=friede         C04=-            final=-           
+   306 x1    original=fussvolck      C04=-            final=-           
+   308 x0    original=gottorff       C04=-            final=-           
+   309 x3    original=hamburg        C04=-            final=-           
+   310 x4    original=helsingör      C04=-            final=-           
+   313 x0    original=holland        C04=-            final=-           
+   314 x0    original=holstein       C04=-            final=-           
+   315 x3    original=instru         C04=-            final=-           
+   318 x3    original=krieg          C04=-            final=-           
+   319 x0    original=lübeck         C04=-            final=-           
+   320 x1    original=lüneburg       C04=-            final=-           
+   321 x1    original=marck          C04=-            final=-           
+   322 x0    original=mecklenburg    C04=-            final=-           
+   323 x13   original=moscow         C04=-            final=moscau        <- our fill
+   324 x0    original=niederland     C04=-            final=-           
+   325 x0    original=nimwegen       C04=-            final=-           
+   326 x0    original=norwegen       C04=-            final=-           
+   327 x0    original=ostsee         C04=-            final=-           
+   328 x4    original=österreich     C04=-            final=-           
+   329 x1    original=paris          C04=-            final=-           
+   330 x4    original=pommern        C04=-            final=-           
+   332 x10   original=preussen       C04=PREUSSI      final=PREUSSI     
+   333 x1    original=rhein          C04=Rhein(i)?    final=Rhein(i)?   
+   334 x1    original=römreich       C04=-            final=-           
+   335 x0    original=sachs          C04=-            final=-           
+   337 x0    original=schonen        C04=-            final=-           
+   338 x1    original=stockholm      C04=-            final=-           
+   339 x0    original=stralsund      C04=-            final=-           
+   340 x0    original=strasburg      C04=-            final=-           
+   341 x0    original=stetin         C04=-            final=-           
+   342 x6    original=ungarn         C04=UNGAR        final=UNGAR       
+   343 x0    original=weser          C04=-            final=-           
+   345 x0    original=westphal       C04=-            final=-           
+   347 x0    original=wismar         C04=-            final=-           
+   348 x0    original=zell           C04=-            final=-           
