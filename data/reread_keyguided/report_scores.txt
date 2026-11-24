@@ -1,0 +1,53 @@
+Score = share of the clerk's decryption letters reproduced in runs of 3+ letters, ORIGINAL 1680s key unchanged.
+Shuffled = same key with values shuffled among its numbers, 200 draws (mean/max shown for the AFTER reading).
+subset            lines letters |   before    after  change | shuffled mean/max
+test half           415   14482 |   75.85%   76.32%  +0.48 | 14.04% / 16.65%
+fit half            828   30965 |   70.27%   70.74%  +0.47 | 13.85% / 16.34%
+fresh lines         813   28847 |   77.48%   77.99%  +0.50 | 14.27% / 17.03%
+all lines          1243   45447 |   72.05%   72.52%  +0.47 | 13.91% / 16.27%
+dorffler-19-100     596   20730 |   77.19%   77.54%  +0.36 | 14.11% / 16.89%
+dorffler-19-101     186    6444 |   79.11%   79.95%  +0.84 | 14.16% / 16.98%
+dorffler-19-102     384   15396 |   62.24%   62.63%  +0.39 | 13.39% / 15.69%
+dorffler-19-103      77    2877 |   71.71%   72.58%  +0.87 | 14.68% / 18.87%
+
+Accepted changes: 244
+
+FALSIFICATION CONTROL: 244 random confusable edits at random positions (same count as accepted), 30 draws
+  test half    before 75.85% | random edits mean 74.99% (min 74.79, max 75.26) | real accepted edits 76.32%
+  fit half     before 70.27% | random edits mean 69.48% (min 69.35, max 69.65) | real accepted edits 70.74%
+  fresh lines  before 77.48% | random edits mean 76.60% (min 76.45, max 76.73) | real accepted edits 77.99%
+  control DROPS the test-half score
+
+BONUS: the top-244 language-model suspects applied with NO image check: test half 75.64%, fit half 70.34%, fresh 77.40%
+
+10 random accepted changes (decoded with the original key; letters of nulls are dropped; clerk's text not shown)
+  s0948 dorffler-19-101/p0277R line 25: 110 -> 150 (sub 1>7, LM gain 19.6)
+      before: vonnothenmuzubringenwurdeesheisse
+      after : vonnothenaufzubringenwurdeesheisse
+  s2308 dorffler-19-102/p0419L line 1: 10? -> 102 (unreadable, LM gain 13.0)
+      before: taemhofe
+      after : taemhofele
+  s1305 dorffler-19-101/p0223L line 5: 129 -> 127 (sub 2>7, LM gain 17.3)
+      before: formirtsoynf
+      after : formirtseynf
+  s2238 dorffler-19-101/p0219L line 30: 20 -> 23 (add digit, LM gain 13.2)
+      before: genfhmcompo
+      after : genihmcompo
+  s2444 dorffler-19-102/p0484L line 22: 33 -> 3 (add digit, LM gain 12.5)
+      before: menaufkkayserspaktkund
+      after : menaufkkayserpaktkund
+  s1984 dorffler-19-102/p0487L line 1: 77 -> 122 (add digit, LM gain 14.1)
+      before: dewuqui
+      after : rewuqui
+  s0985 dorffler-19-102/p0475L line 34: 203 -> 23 (drop digit, LM gain 19.4)
+      before: nandernselbttauern
+      after : nandernittauern
+  s1138 dorffler-19-101/p0277L line 21: 07 -> 87 (add digit, LM gain 18.3)
+      before: lenzufoldem
+      after : lenzufolgedem
+  s2222 dorffler-19-101/p0277L line 36: 72 -> 77 (sub 2>7, LM gain 13.2)
+      before: rquisce
+      after : rquisde
+  s1368 dorffler-19-100/p0393L line 9: 6? -> 67 (unreadable, LM gain 16.9)
+      before: einemvorha
+      after : einemvorhabe
