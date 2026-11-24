@@ -86,11 +86,37 @@ On volume 19/102 the decryptions are in very pale ink and are often misread or m
 
 `results/reading.md` is a readable version from the earlier whole-page reading and key, made by Gemini 4 Argon from the mechanical decode, one half-page at a time. It joins the pieces into words and gives a one-line English summary. Coded passages are in {braces}, doubtful stretches in {?...?}. It was told not to add words, but it is a model's reading. Check anything that matters against `decoded.txt` and the page image.
 
+## Step 6. The original key turns up
+
+After the inferred key was published, the original was found in Riksarkivet's paper collection of cipher keys (Chifferklaver vol. 3, folder III:20, "Clavis Positiva et Resolutiva mit Resident Dörfler"). A scan of its two pages was ordered and transcribed by eye to `data/key_original.json`. It confirms Dudout's layout, gives a value to every number, and declares 1-13, 155 and everything from 349 up to be nulls, numbers put in to mean nothing.
+
+Because nothing in it was fitted to the clerk's decryptions, it is a clean check on everything above.
+
+| Key | Test half | Fresh lines | Shuffled key (test half) |
+|---|---|---|---|
+| TABLE-C04 as published | 71.6% | 73.0% | 10.5% |
+| C04 + 15 fills + 6 proposals | 73.9% | 75.6% | 11.5% |
+| Original 1680s key | 75.8% | 77.5% | 14.0% (best of 200: 16.6%) |
+
+- **The inferred values mostly hold.** Of the 21 values found by the two-set method, 17 match the original, 3 differ only in spelling (ambassade for ambassad, ekm for ekmt, moscau for moscow) and 1 is wrong (148 is ation, not an). Both places where the method overruled C04 are right: 210 is viel and 226 is wür.
+- **The original key adds only about two points.** It fixes 12 C04 values that were a different word, fills the 15 numbers the method could not agree on, and gives the full forms where C04 had short ones (dess for des, soll for sol). The gap that is left is not in the key.
+
+## Step 7. Re-reading the doubtful digits
+
+With the key settled, the next suspect was the digits. `analysis/numfix.py` found likely misreads without looking at any clerk decryption: each number was swapped for digits that look alike (8 and 0, 1 and 7, 3 and 5, and so on), and the swap was kept as a suspect if the decoded text around it read much more like 17th-century German. The 2,500 strongest suspects were cut from the full-size page and shown to Gemini 4 Argon twice, with no key and no decryptions and the two choices in swapped order. A digit was changed only when both answers agreed. That changed 244 numbers.
+
+| Reading | Test half | Fresh lines |
+|---|---|---|
+| Newest reading, original key | 75.85% | 77.48% |
+| After the re-read | 76.32% | 77.99% |
+| Same number of random look-alike edits (30 tries) | 74.99% | 76.60% |
+
+The re-read helps, and random edits hurt, so the method finds real misreads. But the gain is half a point. Most of what is still missed must come from the clerks: their spelling, their shorthand, and decryptions matched to the wrong coded line.
+
 ## What is still uncertain
 
-- 3.3% of the numbers have no key value.
-- The six proposals are weaker than the fifteen fills.
-- Volume 19/102 scores 48.9%, well under the others.
+- The original key was transcribed by one reader from scans. In this hand an e looks like an r, so the transcription was checked by zooming in, and one entry (344) is still marked uncertain.
+- Volume 19/102 scores well under the others, because the clerk's ink is pale.
 - The scores are a floor: a perfect key would not reach 100%, because the decryptions themselves are loose.
-- The original codebook has not been found. Riksarkivet's Chifferklaver collection (SE/RA/202) is on paper only.
+- `results/reading.md` and `results/overview.md` were made with the earlier key and reading. They have not been redone with the original key.
 - No one has yet read the whole decode against the images by eye.
