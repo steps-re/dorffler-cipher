@@ -120,5 +120,5 @@ The re-read helps, and random edits hurt, so the method finds real misreads. But
 - The original key was transcribed by one reader from scans. In this hand an e looks like an r, so the transcription was checked by zooming in, and one entry (344) is still marked uncertain.
 - Volume 19/102 scores well under the others, because the clerk's ink is pale.
 - The scores are a floor: a perfect key would not reach 100%, because the decryptions themselves are loose.
-- One half-page (19/102 image 475, right half) has no readable version because no model returned one. Its decode is in `results/decoded_original_key.txt`.
+- One half-page (19/102 image 475, right half) has no readable version because Google's safety filter refuses the decoded text as a prompt, for Argon and Flash alike, even in 8-line pieces. Its decode is in `results/decoded_original_key.txt`.
 - No one has yet read the whole decode against the images by eye.

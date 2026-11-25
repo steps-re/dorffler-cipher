@@ -1,7 +1,7 @@
 # Dörffler despatches: readable decode
 Model-made reading of the mechanical decode with the original 1680s key, on the key-guided re-read reading (`data/reread_keyguided/p5_lines.jsonl`), one half-page at a time (see METHOD.md, Step 5). Coded passages in {braces}, doubtful letters in {?...?}, unknown numbers as {#NNN}. Nulls are left out. Check anything that matters against `results/decoded_original_key.txt` and the page image (Riksarkivet SE/RA/2115/I/19/<volume>, image number = page number).
 
-No model returned a reading for: 19-102, image 475, right half. Their decode is in `results/decoded_original_key.txt`.
+Google's safety filter refused the decoded text of: 19-102, image 475, right half. Its decode is in `results/decoded_original_key.txt`.
 
 ## 19-100, image 2, left half
 _Summary (gemini-4-argon):_ A fragment containing references to Poland ('Polon', 'Poloni') and an incomplete cipher sequence.

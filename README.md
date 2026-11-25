@@ -137,7 +137,7 @@ Model readings differ slightly from run to run. The published files in `data/` a
 - The numbers under 14 in the earlier reading were misreads (07 for 87, 02 for 82). They carry no key value.
 - Volume 19/102 scores lower than the other volumes (47.7% with C04 unchanged, 48.9% with the final key) because the clerk ink is pale.
 - The original key was transcribed by one reader from scans. In the Kurrent hand `e` looks like `r` (156 `der`, 222 `wer`), and one entry (`344`) is marked `?` in `data/key_original.json`.
-- `results/reading.md` has no readable version of 19/102 image 475, right half, because no model returned one. Its decode is in `results/decoded_original_key.txt`.
+- `results/reading.md` has no readable version of 19/102 image 475, right half, because Google's safety filter refuses the decoded text as a prompt. Its decode is in `results/decoded_original_key.txt`.
 - No person has read the decode against the page images.
 
 ## Licence and citation

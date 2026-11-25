@@ -73,7 +73,7 @@ def md():
         done = {r["half"] for r in recs}
         missing = [h for h, t in render_halves() if "[" in t and h not in done]
         if missing:
-            o.write("\nNo model returned a reading for: %s. Their decode is in `results/decoded_original_key.txt`.\n"
+            o.write("\nGoogle's safety filter refused the decoded text of: %s. Its decode is in `results/decoded_original_key.txt`.\n"
                     % ", ".join(half_label(h) for h in missing))
         for r in recs:
             o.write("\n## %s\n_Summary (%s):_ %s\n\n%s\n" % (half_label(r["half"]), r["model"].split("/")[-1],
